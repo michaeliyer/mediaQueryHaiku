@@ -1,0 +1,426 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /*Small Flex Box Phone Style Screen*/
+  body {
+    height: 900px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    color: black;
+  }
+  
+  .whole-box {
+    height: 98%;
+    width: 99%;
+    font-size: .75rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    border: solid magenta .15rem;
+    border-radius: .33rem;
+    font-weight: bold;
+  }
+  
+  
+  /*Middle Sized Stuff-Tablets*/
+  @media only screen and (min-width: 700px) {
+     body{
+      margin-right: .5%;
+      margin-left: .75%;
+      height: 900px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: .3rem;
+      background-color: coral;
+    }
+  
+    .whole-box {
+      height: 99%;
+      width: 98%;
+      font-size: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      text-align: center;
+      border: solid magenta 5px;
+      border-radius: .33rem;
+      font-weight: bolder;
+    }
+  }
+  
+  /*Larger Sized Stuff-Laptops*/
+  @media only screen and (min-width: 1000px) {
+    body {
+      margin-right: .5%;
+      margin-left: .75%;
+      height: 900px;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: .4rem;
+      background-color: orange;
+    }
+  
+    .whole-box {
+      height: 98%;
+      width: 99%;
+      font-size: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      text-align: center;
+      border-radius: .33rem;
+      border: solid magenta 5px;
+    }
+  }
+  
+  /*Largest Screens Known To Humanity*/
+  @media only screen and (min-width: 1400px) {
+    body {
+      margin-right: .5%;
+      margin-left: .75%;
+      height: 900px;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-gap: .5rem;
+      background-color: yellow;
+    }
+  
+    .whole-box {
+      height: 98%;
+      width: 99%; 
+      font-size: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      text-align: center;
+      border-radius: .33rem;
+      border: solid magenta 5px;
+      font-weight: bolder;
+    }
+  }
+  
+  .whole-box-1 {
+    background-color: rebeccapurple; 
+  }
+  
+  .whole-box-2 {
+    background-color: darkred;
+  }
+  
+  .whole-box-3 {
+    background-color: thistle;
+  }
+  
+  .whole-box-4 {
+    background-image: url(https://leahnewtonart.com/wp-content/uploads/2020/12/Haiku-Art.jpg);
+  }
+  
+  .whole-box-5 {
+    background-color: lightcoral;
+  }
+  
+  .whole-box-6 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRnee2S36rMIEfit-QwaWmN7A8y6K3t-twkg&s);
+  }
+  
+  .whole-box-7 {
+    background-color: orange;
+  }
+  
+  .whole-box-8 {
+    background-color: darkolivegreen;
+  }
+  
+  .whole-box-9 {
+    background-image: url(https://leahnewtonart.com/wp-content/uploads/2020/12/Haiku-Art.jpg);
+    background-size: cover;
+  }
+  
+  .whole-box-10 {
+    background-color: red;
+  }
+  
+  .whole-box-11 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhCvAfOW22q_L-vOEdvGw6oB4WSOF0YQHRw&s);
+  }
+  
+  .whole-box-12 {
+    background-color: peachpuff;
+  }
+  
+  .whole-box-13 {
+    background-color: cadetblue;
+  }
+  
+  .whole-box-14 {
+    background-color: indigo;
+  }
+  
+  .whole-box-15 {
+    background-color: mediumorchid;
+  }
+  
+  .whole-box-16 {
+    background-color: darkblue;
+  }
+  
+   .edges {
+    border: solid black .33rem;
+    border-radius: .6rem;
+    padding: .2rem;
+  } 
+  
+  .line-1a {
+    color: darkgoldenrod;
+    background-color: green; 
+  }
+  
+  .line-1b {
+    background-color: darkorchid;
+    color: lightcoral;
+  }
+  
+  .line-1c {
+    background-color: grey;
+    color: blue;
+  }
+  
+  .line-2a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-2b {
+    background-color: magenta;
+    color: wheat;
+  }
+  
+  .line-2c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-3a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-3b {
+    background-color: #564094;
+    color: wheat;
+  }
+  
+  .line-3c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-4a {
+    color: #564094;
+    background-color: darkmagenta;
+  }
+  
+  .line-4b {
+    background-color: #754a6b;
+    color: wheat;
+  }
+  
+  .line-4c {
+    background-color: #5b2b70;
+    color: blue;
+  }
+  
+  .line-5a {
+    color: red;
+    background-color: #564094;
+  }
+  
+  .line-5b {
+    background-color: #bf1598;
+    color: wheat;
+  }
+  
+  .line-5c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-6a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-6b {
+    background-color: #175b63;
+    color: wheat;
+  }
+  
+  .line-6c {
+    background-color: red;
+    color: #bf1598;
+  }
+  
+  .line-7a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-7b {
+    background-color: #175b63;
+    color: wheat;
+  }
+  
+  .line-7c {
+    background-color: red;
+    color: #175b63;
+  }
+  
+  .line-8a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-8b {
+    background-color: #175b63;
+    color: wheat;
+  }
+  
+  .line-8c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-9a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-9b {
+    background-color: #5b2b70;
+    color: wheat;
+  }
+  
+  .line-9c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-10a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-10b {
+    background-color: #5b2b70;
+    color: darkmagenta;
+  }
+  
+  .line-10c {
+    background-color: blue;
+    color: aquamarine;
+  }
+  
+  .line-11a {
+    color: red;
+    background-color: honeydew;
+  }
+  
+  .line-11b {
+    background-color: magenta;
+    color: darkmagenta;
+  }
+  
+  .line-11c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-12a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-12b {
+    background-color: magenta;
+    color: green;
+  }
+  
+  .line-12c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-13a {
+    color: aliceblue;
+    background-color: darkmagenta;
+  }
+  
+  .line-13b {
+    background-color: magenta;
+    color: gold;
+  }
+  
+  .line-13c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-14a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-14b {
+    background-color: darkmagenta;
+    color: yellowgreen;
+  }
+  
+  .line-14c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-15a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-15b {
+    background-color: magenta;
+    color: lightslategrey;
+  }
+  
+  .line-15c {
+    background-color: red;
+    color: blue;
+  }
+  
+  .line-16a {
+    color: red;
+    background-color: darkmagenta;
+  }
+  
+  .line-16b {
+    background-color: #754a6b;
+    color: orangered;
+  }
+  
+  .line-16c {
+    background-color: red;
+    color: blue;
+  }
