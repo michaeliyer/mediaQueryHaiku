@@ -115,7 +115,7 @@
   }
   
   .whole-box-1 {
-    background-color: rgb(231, 224, 238); 
+    background-color: rgb(179, 220, 17); 
   }
   
   .whole-box-2 {
@@ -186,18 +186,18 @@
   } 
   
   .line-1a {
-    color: darkgoldenrod;
-    background-color: green; 
+    color: rgb(139, 123, 81);
+    background-color: rgb(71, 18, 220); 
   }
   
   .line-1b {
-    background-color: darkorchid;
-    color: lightcoral;
+    background-color: rgb(50, 196, 204);
+    color: rgb(232, 11, 11);
   }
   
   .line-1c {
-    background-color: grey;
-    color: blue;
+    background-color: rgb(21, 4, 46);
+    color: rgb(81, 255, 0);
   }
   
   .line-2a {
