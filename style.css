@@ -173,10 +173,18 @@
   }
   
   .whole-box-15 {
-    background-color: mediumorchid;
+    background-color: rgb(236, 23, 69);
   }
   
   .whole-box-16 {
+    background-color: rgb(210, 140, 26);
+  }
+  
+  .whole-box-17 {
+    background-color: mediumorchid;
+  }
+  
+  .whole-box-18 {
     background-color: darkblue;
   }
   
@@ -424,4 +432,34 @@
   .line-16c {
     background-color: red;
     color: blue;
+  }
+  
+  .line-17a {
+    background-color: rgb(35, 0, 139);
+    color: red;
+  }
+  
+  .line-17b {
+    background-color: #1e1564;
+    color: rgb(111, 97, 92);
+  }
+  
+  .line-17c {
+    background-color: rgb(99, 10, 21);
+    color: rgb(119, 119, 129);
+  }
+
+  .line-18a {
+    background-color: rgb(26, 20, 44);
+    color: rgb(192, 163, 163);
+  }
+  
+  .line-18b {
+    background-color: #7362ef;
+    color: rgb(194, 66, 20);
+  }
+  
+  .line-18c {
+    background-color: rgb(144, 132, 133);
+    color: rgb(3, 3, 27);
   }

@@ -6,3 +6,5 @@ const moreThing = "Litte";
 console.log(moreThing);
 const anotherThing = "Man";
 console.log(anotherThing);
+const yetAnotherThing = "Good job";
+console.log(yetAnotherThing);
