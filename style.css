@@ -117,12 +117,13 @@
   
   .edges {
     font-family: "Kavoon", serif;
-    border: solid black .33rem;
-    border-radius: .6rem;
+    border: solid black .15rem;
+    border-radius: .3rem;
     padding: .2rem;
   } 
 
   /* .edges2 {
+    font-family: "Timmana", serif;
     font-family: "Maiden Orange", serif;
     border: solid black .33rem;
     border-radius: .6rem;
@@ -133,18 +134,21 @@
     font-family: "Kavoon", serif;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltJwOhyafEvuTld6HniueqpgipWK9yujG4w&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-2 {
     font-family: "Maiden Orange", serif;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7eq_RFQosh2otCMc3H57FTCUjqX9mDmRKw&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-3 {
     font-family: "Timmana", serif;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lo9zYGE253MPYf77o4sq0tfE0LsjPKQmmQ&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-4 {
@@ -156,71 +160,104 @@
   .whole-box-5 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnadHMtK35dcAnSQ01SHnAzNJtApTAN_mttA&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-6 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRnee2S36rMIEfit-QwaWmN7A8y6K3t-twkg&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-7 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFsQuZ_gZn1kc8gk4nMXutiPp3u9vKS8f2A&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-8 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNXhtwhWSgxBr5ZL3-L_eiO-ql-NSx9HbBXCz32BDZXPy79GRXbZl4ewYreryxcdihzU&usqp=CAU);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-9 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEZVTdMk4jt2LFWhZF21IrUeCbQl7tKjt2g&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-10 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-RfrkW4oYTyzu5VX_QUK6jdlc_LzyjlYxQ&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-11 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhCvAfOW22q_L-vOEdvGw6oB4WSOF0YQHRw&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-12 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwTolkceCnHBv6TwxDoVA_0bO-jtvIfE2HA&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-13 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZ8aLDrlRPc9ppJooMwnI9uUPVMD6y3jazg&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-14 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjREvJaMh1NXv7DQ0uF1HbyLLHrXZ-61akpw&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-15 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoiT-WgGL6KZdrdI0lOC6UfmeTG0FB-jOTg&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-16 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTto1bxI6huqzcnAGCsZ1szyoqqAnzmKk-bNQ&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-17 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEn4Qb0vCEisQN3kk9G5dlIK_nvF6lpokUEw&s);
     background-size: cover;
+    padding: .5rem;
   }
   
   .whole-box-18 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuTCgKmQCOa9JflHam0ju9WdLr1wb7ECRlQ&s);
     background-size: cover;
+    padding: .5rem;
+  }
+
+  .whole-box-19 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrNr6KYngLWD5TjviogA_ZRPkTQUpTlSPig&s);
+    background-size: cover;
+    padding: .5rem;
+  }
+  
+  .whole-box-20 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxK3mdLfga4xU9kYFPo5TNMVCuaw1vp54bUg&s);
+    background-size: cover;
+    padding: .5rem;
+  }
+  
+  .whole-box-21 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxdkhszYhVljZsZpnWm48gy60x2ZWdAvGDA&s);
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjREvJaMh1NXv7DQ0uF1HbyLLHrXZ-61akpw&s); */
+    background-size: cover;
+    padding: .5rem;
   }
   
   .line-1a {
@@ -298,16 +335,19 @@
   .line-5a {
     color: red;
     background-color: #564094;
+    opacity: .5;
   }
   
   .line-5b {
     background-color: #bf1598;
     color: wheat;
+    opacity: .5;
   }
   
   .line-5c {
     background-color: red;
     color: blue;
+    opacity: .5;
   }
   
   .line-6a {
@@ -466,44 +506,107 @@
   .line-16a {
     color: red;
     background-color: darkmagenta;
+    opacity: .5;
   }
   
   .line-16b {
     background-color: #754a6b;
     color: orangered;
+    opacity: .5;
   }
   
   .line-16c {
     background-color: red;
     color: blue;
+    opacity: .5;
   }
   
   .line-17a {
     background-color: rgb(35, 0, 139);
     color: red;
+    opacity: .5;
   }
   
   .line-17b {
     background-color: #1e1564;
     color: rgb(111, 97, 92);
+    opacity: .5;
   }
   
   .line-17c {
     background-color: rgb(99, 10, 21);
     color: rgb(119, 119, 129);
+    opacity: .5;
   }
 
   .line-18a {
     background-color: rgb(26, 20, 44);
     color: rgb(192, 163, 163);
+    opacity: .5;
   }
   
   .line-18b {
     background-color: #7362ef;
     color: rgb(28, 11, 112);
+    opacity: .5;
   }
   
   .line-18c {
     background-color: rgb(144, 132, 133);
     color: rgb(3, 3, 27);
+    opacity: .5;
   }
+
+  .line-19a {
+    background-color: rgb(144, 112, 241);
+    color: rgb(48, 5, 5);
+    opacity: .5;
+  }
+
+  .line-19b {
+    background-color: #0ab696;
+    color: rgb(130, 9, 108);
+    opacity: .5;
+  }
+  
+  .line-19c {
+    background-color: rgb(20, 16, 215);
+    color: rgb(137, 137, 176);
+    opacity: .5;
+  }
+
+  .line-20a {
+    background-color: rgb(36, 127, 155);
+    color: rgb(224, 119, 119);
+    opacity: .5;
+  }
+
+  .line-20b {
+    background-color: #330426;
+    color: rgb(122, 102, 220);
+    opacity: .5;
+  }
+  
+  .line-20c {
+    background-color: rgb(110, 196, 5);
+    color: rgb(105, 72, 10);
+    opacity: .5;
+  }
+  .line-21a {
+    background-color: rgb(33, 232, 179);
+    color: rgb(30, 19, 129);
+    opacity: .5;
+  }
+
+  .line-21b {
+    background-color: #505c49;
+    color: rgb(8, 1, 39);
+    opacity: .5;
+  }
+  
+  .line-21c {
+    background-color: rgb(94, 77, 79);
+    color: rgb(200, 138, 184);
+    opacity: .75;
+  }
+
