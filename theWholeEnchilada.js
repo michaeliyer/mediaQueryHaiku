@@ -1368,7 +1368,7 @@ export const dailyWordsSmall = [
     'GUISE', 'GULCH', 'GUMBO', 'GUSTO', 'GYPSY', 'HABIT', 'HALAL', 
     'HARDY', 'HAREM', 'HARPY', 'HARRY', 'HASTE', 'HASTY', 'HAUNT', 'HAUTE', 'HAVEN',
     'HAZEL', 'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
-    'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HOVER', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
+    'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOM', 'IDIOT', 'IDLER', 'IDYLL', 'ILIAC',
     'IMBUE', 'IMPLY', 'INBOX', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JEWEL', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
@@ -1962,7 +1962,7 @@ export const dailyWordsLarge = [
     'HOPPY', 'HORAH', 'HORAL', 'HORAS', 'HORKS', 'HORME', 'HORNS', 'HORNY',
     'HORST', 'HORSY', 'HOSED', 'HOSEL', 'HOSEN', 'HOSER', 'HOSES', 'HOSEY', 'HOSTA', 'HOSTS',
     'HOTCH', 'HOTEN', 'HOTLY', 'HOTTY', 'HOUFF', 'HOUFS', 'HOUGH', 'HOURI',
-    'HOURS', 'HOUTS', 'HOVEA', 'HOVED', 'HOVEL', 'HOVEN', 'HOVER', 'HOVES', 'HOWBE',
+    'HOURS', 'HOUTS', 'HOVEA', 'HOVED', 'HOVEL', 'HOVEN', 'HOVES', 'HOWBE',
     'HOWES', 'HOWFF', 'HOWFS', 'HOWKS', 'HOWLS', 'HOWRE', 'HOWSO', 'HOXED', 'HOXES',
     'HOYAS', 'HOYED', 'HOYLE', 'HUBBY', 'HUCKS', 'HUDNA', 'HUDUD', 'HUERS', 'HUFFS', 'HUFFY',
     'HUGER', 'HUGGY', 'HUHUS', 'HUIAS', 'HULAS', 'HULES', 'HULKS', 'HULKY', 'HULLO', 'HULLS',
@@ -10862,6 +10862,12 @@ export const wordleWords = [
         gameDate: "2/28/25",
         myScore: 4,
         wordNumber: 1350,
+      },
+     {
+        word: "HOVER",
+        gameDate: "3/1/25",
+        myScore: 4,
+        wordNumber: 1351,
       },
   
   ];
