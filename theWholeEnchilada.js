@@ -1342,7 +1342,7 @@ export const dailyWordsSmall = [
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURIO', 'CURRY', 'CURSE', 'CURVE', 'CURVY',
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DATUM', 'DAUNT', 'DEALT', 'DEBAR',
-    'DECOR', 'DEFER', 'DEIGN', 'DEITY', 
+    'DECOR', 'DEFER', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRGE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOPEY', 'DOUGH', 'DOWDY', 'DOWEL', 'DOWNY', 'DRAKE', 'DRAMA',
@@ -1715,7 +1715,7 @@ export const dailyWordsLarge = [
     'DECAN', 'DECKO', 'DECKS', 'DECOR', 'DECOS', 'DEDAL', 'DEEDS',
     'DEEDY', 'DEELY', 'DEEMS', 'DEENS', 'DEEPS', 'DEERE', 'DEERS', 'DEETS', 'DEEVE', 'DEEVS',
     'DEFAT', 'DEFER', 'DEFFO', 'DEFIS', 'DEFOG', 'DEGAS', 'DEGUM', 'DEGUS', 'DEICE', 'DEIDS',
-    'DEIFY', 'DEIGN', 'DEILS', 'DEISM', 'DEIST', 'DEITY', 'DEKED', 'DEKES', 'DEKKO', 
+    'DEIFY', 'DEIGN', 'DEILS', 'DEISM', 'DEIST', 'DEKED', 'DEKES', 'DEKKO', 
     'DELED', 'DELES', 'DELFS', 'DELFT', 'DELIS', 'DELLS', 'DELLY', 'DELOS', 'DELPH', 'DELTA',
     'DELTS', 'DELVE', 'DEMAN', 'DEMES', 'DEMIC', 'DEMIT', 'DEMOB', 'DEMOI', 'DEMON', 'DEMOS',
     'DEMPT', 'DEMUR', 'DENAR', 'DENAY', 'DENCH', 'DENES', 'DENET', 'DENIS', 'DENSE',
@@ -10868,6 +10868,12 @@ export const wordleWords = [
         gameDate: "3/1/25",
         myScore: 4,
         wordNumber: 1351,
+      },
+     {
+        word: "DEITY",
+        gameDate: "3/2/25",
+        myScore: 3,
+        wordNumber: 1352,
       },
   
   ];
