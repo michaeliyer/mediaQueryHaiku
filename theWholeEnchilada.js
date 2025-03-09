@@ -1387,7 +1387,7 @@ export const dailyWordsSmall = [
     'MOGUL', 'MOLDY', 'MOODY', 'MORAL', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MUNCH', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
-    'NAVEL', 'NEWER', 'NEWLY', 'NIECE', 'NINNY',
+    'NEWER', 'NEWLY', 'NIECE', 'NINNY',
     'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NOVEL', 'NUDGE', 'NURSE', 'NUTTY',
     'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'ODDLY', 'OFFER', 'OLDEN', 'OMBRE',
     'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
@@ -2186,7 +2186,7 @@ export const dailyWordsLarge = [
     'NAMER', 'NAMES', 'NAMMA', 'NAMUS', 'NANAS', 'NANDU', 'NANNA', 'NANOS', 'NANUA',
     'NAPAS', 'NAPED', 'NAPES', 'NAPOO', 'NAPPA', 'NAPPE', 'NAPPY', 'NARAS', 'NARCO', 'NARCS',
     'NARDS', 'NARES', 'NARIC', 'NARIS', 'NARKS', 'NARKY', 'NARRE', 'NASAL', 'NASHI', 
-    'NATCH', 'NATES', 'NATIS', 'NATTY', 'NAUCH', 'NAUNT', 'NAVAR', 'NAVEL',
+    'NATCH', 'NATES', 'NATIS', 'NATTY', 'NAUCH', 'NAUNT', 'NAVAR',
     'NAVES', 'NAVEW', 'NAVVY', 'NAWAB', 'NAZES', 'NAZIR', 'NAZIS', 'NDUJA', 'NEAFE', 'NEALS',
     'NEAPS', 'NEARS', 'NEATH', 'NEATS', 'NEBEK', 'NEBEL', 'NECKS', 'NEDDY', 'NEEDS', 
     'NEELD', 'NEELE', 'NEEMB', 'NEEMS', 'NEEPS', 'NEESE', 'NEEZE', 'NEGUS', 'NEIFS', 
@@ -10909,6 +10909,12 @@ export const wordleWords = [
         gameDate: "3/7/25",
         myScore: 4,
         wordNumber: 1357,
+      },
+      {
+        word: "NAVEL",
+        gameDate: "3/8/25",
+        myScore: 2,
+        wordNumber: 1358,
       },
   
   ];
