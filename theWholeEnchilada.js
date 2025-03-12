@@ -1432,7 +1432,7 @@ export const dailyWordsSmall = [
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
     'THRUM', 'TIGHT', 'TIMER', 'TODDY', 'TOKEN', 'TONAL',
-    'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 'TRACK', 
+    'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRIPE', 'TROUT', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
     'TURBO', 'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
@@ -2615,7 +2615,7 @@ export const dailyWordsLarge = [
     'TOUKS', 'TOUNS', 'TOURS', 'TOUSE', 'TOUSY', 'TOUTS', 'TOUZE', 'TOUZY', 'TOWED',
     'TOWER', 'TOWIE', 'TOWNS', 'TOWNY', 'TOWSE', 'TOWSY', 'TOWTS', 'TOWZE', 'TOWZY',
     'TOYED', 'TOYER', 'TOYON', 'TOYOS', 'TOZED', 'TOZES', 'TOZIE', 'TRABS', 
-    'TRACK', 'TRADS', 'TRAGI', 'TRAIK', 'TRAMP',
+    'TRADS', 'TRAGI', 'TRAIK', 'TRAMP',
     'TRAMS', 'TRANK', 'TRANQ', 'TRANS', 'TRANT', 'TRAPE', 'TRAPS', 'TRAPT', 'TRASS',
     'TRATS', 'TRATT', 'TRAVE', 'TRAYF', 'TRAYS', 'TREAD', 'TRECK', 'TREED',
     'TREEN', 'TREES', 'TREFA', 'TREIF', 'TREKS', 'TREMA', 'TREMS', 'TRESS', 'TREST',
@@ -10927,6 +10927,12 @@ export const wordleWords = [
         gameDate: "3/10/25",
         myScore: 2,
         wordNumber: 1360,
+      },
+      {
+        word: "TRACK",
+        gameDate: "3/11/25",
+        myScore: 2,
+        wordNumber: 1361,
       },
   
   ];
