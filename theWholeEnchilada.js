@@ -1381,7 +1381,7 @@ export const dailyWordsSmall = [
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
     'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACHO', 'MACRO', 
-    'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGO', 'MANGY', 'MANIC',
+    'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
     'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA', 'MODAL',
     'MOGUL', 'MOLDY', 'MOODY', 'MORAL', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
@@ -2117,7 +2117,7 @@ export const dailyWordsLarge = [
     'MAKES', 'MAKIS', 'MAKOS', 'MALAM', 'MALAR', 'MALAS', 'MALAX', 'MALES', 'MALIC', 'MALIK',
     'MALIS', 'MALLS', 'MALMS', 'MALMY', 'MALTS', 'MALTY', 'MALUS', 'MALVA', 'MALWA', 'MAMAS',
     'MAMBA', 'MAMEE', 'MAMEY', 'MAMIE', 'MAMMA', 'MAMMY', 'MANAS', 'MANAT', 'MANDI',
-    'MANEB', 'MANED', 'MANEH', 'MANES', 'MANET', 'MANGE', 'MANGO', 'MANGS', 'MANGY',
+    'MANEB', 'MANED', 'MANEH', 'MANES', 'MANET', 'MANGE', 'MANGS', 'MANGY',
     'MANIC', 'MANIS', 'MANKY', 'MANNA', 'MANOS', 'MANSE', 'MANTA',
     'MANTO', 'MANTY', 'MANUL', 'MANUS', 'MAPAU', 'MAQUI', 'MARAE', 'MARAH', 'MARAS',
     'MARCS', 'MARDY', 'MARES', 'MARGE', 'MARGS', 'MARIA', 'MARID', 'MARKA', 'MARKS',
@@ -10933,6 +10933,12 @@ export const wordleWords = [
         gameDate: "3/11/25",
         myScore: 2,
         wordNumber: 1361,
+      },
+      {
+        word: "MANGO",
+        gameDate: "3/12/25",
+        myScore: 2,
+        wordNumber: 1362,
       },
   
   ];
