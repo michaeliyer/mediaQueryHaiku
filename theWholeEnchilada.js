@@ -1336,7 +1336,7 @@ export const dailyWordsSmall = [
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
     'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CEASE', 'CELLO', 'CHAFF', 'CHAIR',
-    'CHASE', 'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
+    'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASH', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMFY', 'COMIC', 'CONCH',
@@ -1634,7 +1634,7 @@ export const dailyWordsLarge = [
     'CEZVE', 'CHACE', 'CHACK', 'CHACO', 'CHADO', 'CHADS', 'CHAFF', 'CHAFT', 
     'CHAIR', 'CHAIS', 'CHALS', 'CHAMS', 'CHANA', 'CHANG', 'CHANK', 
     'CHAPE', 'CHAPS', 'CHAPT', 'CHARA', 'CHARE', 'CHARK', 'CHARR',
-    'CHARS', 'CHARY', 'CHASE', 'CHASM', 'CHATS', 'CHAVE', 'CHAVS', 'CHAWK', 'CHAWS',
+    'CHARS', 'CHARY', 'CHASM', 'CHATS', 'CHAVE', 'CHAVS', 'CHAWK', 'CHAWS',
     'CHAYA', 'CHAYS', 'CHEEP', 'CHEFS', 'CHEKA',
     'CHELA', 'CHELP', 'CHEMO', 'CHEMS', 'CHERE', 'CHERT', 'CHESS', 'CHETH', 'CHEVY',
     'CHEWS', 'CHEWY', 'CHIAO', 'CHIAS', 'CHIBS', 'CHICA', 'CHICH', 'CHICK', 'CHICO', 'CHICS',
@@ -10939,6 +10939,12 @@ export const wordleWords = [
         gameDate: "3/12/25",
         myScore: 2,
         wordNumber: 1362,
+      },
+      {
+        word: "CHASE",
+        gameDate: "3/13/25",
+        myScore: 3,
+        wordNumber: 1363,
       },
   
   ];
