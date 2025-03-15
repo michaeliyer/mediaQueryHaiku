@@ -1376,7 +1376,7 @@ export const dailyWordsSmall = [
     'IMBUE', 'IMPLY', 'INBOX', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JEWEL', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
-    'KNOWN', 'KRILL', 'LADEN', 'LADLE', 'LANCE', 'LASSO', 'LATCH', 'LATER',
+    'KNOWN', 'KRILL', 'LADEN', 'LANCE', 'LASSO', 'LATCH', 'LATER',
     'LATHE', 'LAUGH', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
@@ -2053,7 +2053,7 @@ export const dailyWordsLarge = [
     'KYATS', 'KYBOS', 'KYDST', 'KYLES', 'KYLIE', 'KYLIN', 'KYLIX', 'KYLOE', 'KYNDE', 'KYNDS',
     'KYPES', 'KYRIE', 'KYTES', 'KYTHE', 'LAARI', 'LABDA', 'LABIA', 'LABIS', 
     'LABRA', 'LACED', 'LACER', 'LACES', 'LACET', 'LACEY', 'LACKS', 'LADDY', 'LADED', 'LADEN',
-    'LADER', 'LADES', 'LADLE', 'LAERS', 'LAEVO', 'LAGAN', 'LAHAL', 'LAHAR', 'LAICH',
+    'LADER', 'LADES', 'LAERS', 'LAEVO', 'LAGAN', 'LAHAL', 'LAHAR', 'LAICH',
     'LAICS', 'LAIDS', 'LAIGH', 'LAIKA', 'LAIKS', 'LAIRD', 'LAIRS', 'LAIRY', 'LAITH', 'LAITY',
     'LAKED', 'LAKER', 'LAKES', 'LAKHS', 'LAKIN', 'LAKSA', 'LALDY', 'LALLS', 'LAMAS', 'LAMBS',
     'LAMBY', 'LAMED', 'LAMER', 'LAMES', 'LAMIA', 'LAMMY', 'LAMPS', 'LANAI', 'LANAS', 'LANCE',
@@ -10951,6 +10951,12 @@ export const wordleWords = [
         gameDate: "3/14/25",
         myScore: 3,
         wordNumber: 1364,
+      },
+      {
+        word: "LADLE",
+        gameDate: "3/15/25",
+        myScore: 4,
+        wordNumber: 1365,
       },
   
   ];
