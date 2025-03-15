@@ -1394,7 +1394,7 @@ export const dailyWordsSmall = [
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'OZONE', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 'PATCH',
     'PATSY', 'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
-    'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIECE', 'PIGGY', 'PITCH', 'PIVOT', 'PIZZA',
+    'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PITCH', 'PIVOT', 'PIZZA',
     'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POLAR', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRANK', 'PRAWN', 'PREEN', 'PRIED', 'PRISM', 'PRIVY',  
@@ -2271,7 +2271,7 @@ export const dailyWordsLarge = [
     'PHEER', 'PHENE', 'PHEON', 'PHESE', 'PHIAL', 'PHISH', 'PHIZZ', 'PHLOX', 'PHOCA', 
     'PHONO', 'PHONS', 'PHOTS', 'PHPHT', 'PHUTS', 'PHYLA', 'PHYLE', 'PIANI',
     'PIANS', 'PIBAL', 'PICAL', 'PICAS', 'PICCY', 'PICKS', 'PICOT', 'PICRA',
-    'PICUL', 'PIECE', 'PIEND', 'PIERS', 'PIERT', 'PIETA', 'PIETS', 'PIEZO', 'PIGGY',
+    'PICUL', 'PIEND', 'PIERS', 'PIERT', 'PIETA', 'PIETS', 'PIEZO', 'PIGGY',
     'PIGHT', 'PIGMY', 'PIING', 'PIKAS', 'PIKAU', 'PIKED', 'PIKER', 'PIKES', 'PIKIS', 'PIKUL',
     'PILAE', 'PILAF', 'PILAO', 'PILAR', 'PILAU', 'PILAW', 'PILCH', 'PILEA', 'PILED', 'PILEI',
     'PILER', 'PILES', 'PILIS', 'PILLS', 'PILOW', 'PILUM', 'PILUS', 'PIMAS', 'PIMPS',
@@ -10945,6 +10945,12 @@ export const wordleWords = [
         gameDate: "3/13/25",
         myScore: 3,
         wordNumber: 1363,
+      },
+      {
+        word: "PIECE",
+        gameDate: "3/14/25",
+        myScore: 3,
+        wordNumber: 1364,
       },
   
   ];
