@@ -71,7 +71,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
       grid-gap: .4rem;
-      background-color: orange;
+      background-color: rgb(200, 98, 20);
     }
   
     .whole-box {
@@ -97,7 +97,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr;
       grid-gap: .5rem;
-      background-color: yellow;
+      background-color: rgb(255, 77, 0);
     }
   
     .whole-box {
@@ -593,7 +593,7 @@
     opacity: .5;
   }
   .line-21a {
-    background-color: rgb(33, 232, 179);
+    background-color: rgb(17, 122, 94);
     color: rgb(30, 19, 129);
     opacity: .5;
   }
