@@ -1431,7 +1431,7 @@ export const dailyWordsSmall = [
     'SWORN', 'SYNOD', 'TABBY', 'TAFFY', 'TAINT', 'TAKER', 'TAMER', 
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
-    'THRUM', 'TIGHT', 'TIMER', 'TODDY', 'TOKEN', 'TONAL',
+    'THRUM', 'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRIPE', 'TROUT', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
@@ -2596,7 +2596,7 @@ export const dailyWordsLarge = [
     'TIANS', 'TIARS', 'TICAL', 'TICCA', 'TICED', 'TICES', 'TICHY', 'TICKS',
     'TICKY', 'TIDDY', 'TIDED', 'TIDES', 'TIERS', 'TIFFS', 'TIFOS', 'TIFTS',
     'TIGES', 'TIGHT', 'TIGON', 'TIKAS', 'TIKES', 'TIKIS', 'TIKKA', 'TILAK', 'TILED',
-    'TILER', 'TILES', 'TILLS', 'TILLY', 'TILTH', 'TILTS', 'TIMBO', 'TIMED', 'TIMER', 'TIMES',
+    'TILER', 'TILES', 'TILLS', 'TILLY', 'TILTH', 'TILTS', 'TIMBO', 'TIMED', 'TIMES',
     'TIMID', 'TIMON', 'TIMPS', 'TINAS', 'TINCT', 'TINDS', 'TINEA', 'TINED', 'TINES', 'TINGE',
     'TINGS', 'TINKS', 'TINNY', 'TINTS', 'TINTY', 'TIPIS', 'TIPPY', 'TIRED', 'TIRES',
     'TIRLS', 'TIROS', 'TIRRS', 'TITCH', 'TITER', 'TITIS', 'TITRE',
@@ -10970,6 +10970,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1367,
       },
+      {
+        word: "TIMER",
+        gameDate: "3/18/25",
+        myScore: 3,
+        wordNumber: 1368,
+      },
   
   ];
 
@@ -10978,7 +10984,7 @@ export const letterValues = {
     J: 8, K: 5, L: 1, M: 3, N: 1, O: 1, P: 3, Q: 10, R: 1,
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
-console.log("this works great");
+console.log("this works fucking great");
 console.log("real nice like")
 
 
