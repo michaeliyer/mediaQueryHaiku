@@ -1321,7 +1321,7 @@ export const dailyWordsSmall = [
     'ABBOT', 'ABHOR', 'ABLED', 'ABODE', 'ABORT', 'ABUSE', 'ADEPT', 'ADMIN',
     'ADORN', 'AFIRE', 'AFOOT', 'AFOUL', 'AIDER', 'ALARM', 'ALGAE',
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'ALONG', 'AMAZE', 'AMEND',
-    'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANGLE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
+    'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 'ARROW',
     'ARSON', 'ARTSY', 'ASHEN', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWARE', 'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BALMY', 'BANJO', 'BARON',
@@ -1484,7 +1484,7 @@ export const dailyWordsLarge = [
     'AMINO', 'AMINS', 'AMIRS', 'AMITY', 'AMLAS', 'AMMAN', 'AMMON', 'AMMOS', 'AMNIA',
     'AMNIC', 'AMNIO', 'AMOKS', 'AMOLE', 'AMONG', 'AMORT', 'AMOUR', 'AMOVE', 'AMOWT', 'AMPED',
     'AMPLY', 'AMPUL', 'AMRIT', 'AMUCK', 'AMUSE', 'AMYLS', 'ANANA', 'ANATA', 'ANCHO',
-    'ANCLE', 'ANCON', 'ANDRO', 'ANEAR', 'ANELE', 'ANENT', 'ANGAS', 'ANGLE',
+    'ANCLE', 'ANCON', 'ANDRO', 'ANEAR', 'ANELE', 'ANENT', 'ANGAS', 
     'ANGLO', 'ANIGH', 'ANILE', 'ANILS', 'ANIMA', 'ANIME', 'ANIMI', 'ANION',
     'ANISE', 'ANKER', 'ANKHS', 'ANKLE', 'ANKUS', 'ANLAS', 'ANNAL', 'ANNAS', 'ANNAT', 'ANNEX',
     'ANNOY', 'ANNUL', 'ANOAS', 'ANOLE', 'ANOMY', 'ANSAE', 'ANTAE', 'ANTAR', 'ANTAS',
@@ -11005,6 +11005,12 @@ export const wordleWords = [
         gameDate: "3/23/25",
         myScore: 3,
         wordNumber: 1373,
+      },
+      {
+        word: "ANGLE",
+        gameDate: "3/24/25",
+        myScore: 3,
+        wordNumber: 1374,
       },
   
   ];
