@@ -1412,7 +1412,7 @@ export const dailyWordsSmall = [
     'SCION', 'SCOOP', 'SCREE', 'SCREW', 
     'SCUBA', 'SEGUE', 'SEIZE', 'SEMEN', 'SEPIA', 'SERIF', 'SETUP', 'SEWER', 'SHACK',
     'SHADY', 'SHALE', 'SHALT', 'SHARK', 'SHEAR',
-    'SHEEN', 'SHEEP', 'SHEER', 'SHEET', 'SHEIK', 'SHELF', 'SHIED', 'SHINY', 'SHIRT',
+    'SHEEN', 'SHEEP', 'SHEER', 'SHEET', 'SHEIK', 'SHIED', 'SHINY', 'SHIRT',
     'SHOAL', 'SHOCK', 'SHONE', 'SHOOK', 'SHOOT', 'SHORT', 'SHREW',
     'SHUCK', 'SHUSH', 'SIEVE', 'SIGMA', 'SILKY', 'SINEW', 'SINGE', 'SIREN',
     'SIXTY', 'SKULK', 'SKULL', 'SLACK', 'SLAIN', 'SLANT', 'SLASH', 'SLAVE', 
@@ -2442,7 +2442,7 @@ export const dailyWordsLarge = [
     'SHALY', 'SHAMA', 'SHAMS', 'SHAND', 'SHANS', 'SHAPS',
     'SHARK', 'SHARN', 'SHASH', 'SHAUL', 'SHAWM', 'SHAWN',
     'SHAWS', 'SHAYA', 'SHAYS', 'SHCHI', 'SHEAF', 'SHEAL', 'SHEAR', 'SHEAS', 'SHEDS', 'SHEEL',
-    'SHEEN', 'SHEEP', 'SHEER', 'SHEET', 'SHEIK', 'SHELF', 'SHEND', 'SHENT', 'SHEOL',
+    'SHEEN', 'SHEEP', 'SHEER', 'SHEET', 'SHEIK', 'SHEND', 'SHENT', 'SHEOL',
     'SHERD', 'SHERE', 'SHERO', 'SHETS', 'SHEVA', 'SHEWN', 'SHEWS', 'SHIAI', 'SHIED', 'SHIEL',
     'SHIER', 'SHIES', 'SHILL', 'SHILY', 'SHIMS', 'SHINS', 'SHINY', 'SHIPS',
     'SHIRR', 'SHIRS', 'SHIRT', 'SHISH', 'SHISO', 'SHIST', 'SHITE', 'SHITS',
@@ -11011,6 +11011,12 @@ export const wordleWords = [
         gameDate: "3/24/25",
         myScore: 3,
         wordNumber: 1374,
+      },
+      {
+        word: "SHELF",
+        gameDate: "3/25/25",
+        myScore: 3,
+        wordNumber: 1375,
       },
   
   ];
