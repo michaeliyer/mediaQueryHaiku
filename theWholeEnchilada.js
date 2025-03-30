@@ -1419,7 +1419,7 @@ export const dailyWordsSmall = [
     'SLEET', 'SLEPT', 'SLICK', 'SLIDE', 'SLIME', 'SLIMY', 'SLING', 'SLINK',
     'SLOOP', 'SLUNK', 'SLURP', 'SLUSH', 'SLYLY', 'SMACK', 'SMELL', 'SMOKY',
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
-    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 'SPARE', 
+    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SOUTH', 'SPANK', 'SPARE', 
     'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
     'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 'SPORT',
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
@@ -2499,7 +2499,7 @@ export const dailyWordsLarge = [
     'SONGS', 'SONLY', 'SONNE', 'SONNY', 'SONSE', 'SONSY', 'SOOEY', 'SOOKS', 'SOOKY',
     'SOOLE', 'SOOLS', 'SOOMS', 'SOOPS', 'SOOTE', 'SOOTH', 'SOOTS', 'SOOTY', 'SOPHS', 'SOPHY',
     'SOPOR', 'SOPPY', 'SOPRA', 'SORAL', 'SORAS', 'SORBO', 'SORBS', 'SORDA', 'SORDO', 'SORDS',
-    'SORED', 'SOREE', 'SOREL', 'SORER', 'SORES', 'SOREX', 'SORGO', 'SORNS', 'SORRA', 'SORRY',
+    'SORED', 'SOREE', 'SOREL', 'SORER', 'SORES', 'SOREX', 'SORGO', 'SORNS', 'SORRA', 
     'SORTA', 'SORTS', 'SORUS', 'SOTHS', 'SOTOL', 'SOUCE', 'SOUCT', 'SOUGH', 'SOUKS', 'SOULS',
     'SOUMS', 'SOUPS', 'SOUPY', 'SOURS', 'SOUSE', 'SOUTH', 'SOUTS', 'SOWAR', 'SOWCE',
     'SOWED', 'SOWFF', 'SOWFS', 'SOWLE', 'SOWLS', 'SOWMS', 'SOWND', 'SOWNE', 'SOWPS',
@@ -11034,7 +11034,13 @@ export const wordleWords = [
         word: "VERSE",
         gameDate: "3/28/25",
         myScore: 4,
-        wordNumber: 1377,
+        wordNumber: 1378,
+      },
+      {
+        word: "SORRY",
+        gameDate: "3/29/25",
+        myScore: 3,
+        wordNumber: 1379,
       },
   
   ];
