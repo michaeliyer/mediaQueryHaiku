@@ -1400,7 +1400,7 @@ export const dailyWordsSmall = [
     'PRANK', 'PRAWN', 'PREEN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
     'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAIL', 'QUAKE',
-    'QUARK', 'QUASH', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTA', 'QUOTH',
+    'QUARK', 'QUASH', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTH',
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
     'RARER', 'RASPY', 'RATTY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
@@ -1419,7 +1419,7 @@ export const dailyWordsSmall = [
     'SLEET', 'SLEPT', 'SLICK', 'SLIDE', 'SLIME', 'SLIMY', 'SLING', 'SLINK',
     'SLOOP', 'SLUNK', 'SLURP', 'SLUSH', 'SLYLY', 'SMACK', 'SMELL', 'SMOKY',
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
-    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SOUTH', 'SPANK', 'SPARE', 
+    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 'SPARE', 
     'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
     'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 'SPORT',
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
@@ -2333,7 +2333,7 @@ export const dailyWordsLarge = [
     'QUEYN', 'QUEYS', 'QUICH', 'QUIDS', 'QUIFF', 'QUILL', 'QUILT',
     'QUIMS', 'QUINA', 'QUINE', 'QUINO', 'QUINS', 'QUINT', 'QUIPO', 'QUIPS', 'QUIPU', 'QUIRE',
     'QUIRT', 'QUIST', 'QUITS', 'QUOAD', 'QUODS', 'QUOIF', 'QUOIN', 'QUOIT',
-    'QUOLL', 'QUONK', 'QUOPS', 'QUOTA', 'QUOTH', 'QURSH', 'QUYTE', 'RABAT', 'RABBI',
+    'QUOLL', 'QUONK', 'QUOPS', 'QUOTH', 'QURSH', 'QUYTE', 'RABAT', 'RABBI',
     'RABIC', 'RABID', 'RABIS', 'RACED', 'RACER', 'RACES', 'RACHE', 'RACKS', 'RACON', 'RADAR',
     'RADGE', 'RADII', 'RADIX', 'RADON', 'RAFFS', 'RAFTS', 'RAGAS', 'RAGDE', 'RAGED',
     'RAGEE', 'RAGER', 'RAGES', 'RAGGA', 'RAGGS', 'RAGGY', 'RAGIS', 'RAGUS', 'RAHED', 'RAHUI',
@@ -2499,7 +2499,7 @@ export const dailyWordsLarge = [
     'SONGS', 'SONLY', 'SONNE', 'SONNY', 'SONSE', 'SONSY', 'SOOEY', 'SOOKS', 'SOOKY',
     'SOOLE', 'SOOLS', 'SOOMS', 'SOOPS', 'SOOTE', 'SOOTH', 'SOOTS', 'SOOTY', 'SOPHS', 'SOPHY',
     'SOPOR', 'SOPPY', 'SOPRA', 'SORAL', 'SORAS', 'SORBO', 'SORBS', 'SORDA', 'SORDO', 'SORDS',
-    'SORED', 'SOREE', 'SOREL', 'SORER', 'SORES', 'SOREX', 'SORGO', 'SORNS', 'SORRA', 
+    'SORED', 'SOREE', 'SOREL', 'SORER', 'SORES', 'SOREX', 'SORGO', 'SORNS', 'SORRA', 'SORRY',
     'SORTA', 'SORTS', 'SORUS', 'SOTHS', 'SOTOL', 'SOUCE', 'SOUCT', 'SOUGH', 'SOUKS', 'SOULS',
     'SOUMS', 'SOUPS', 'SOUPY', 'SOURS', 'SOUSE', 'SOUTH', 'SOUTS', 'SOWAR', 'SOWCE',
     'SOWED', 'SOWFF', 'SOWFS', 'SOWLE', 'SOWLS', 'SOWMS', 'SOWND', 'SOWNE', 'SOWPS',
@@ -11042,6 +11042,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1379,
       },
+      {
+        word: "QUOTA",
+        gameDate: "3/30/25",
+        myScore: 3,
+        wordNumber: 1380,
+      },
   
   ];
 
@@ -11051,6 +11057,6 @@ export const letterValues = {
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
 console.log("this works fucking great");
-console.log("real nice like")
+console.log("real eefin nice like")
 
 
