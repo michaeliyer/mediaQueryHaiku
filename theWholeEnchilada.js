@@ -1343,7 +1343,7 @@ export const dailyWordsSmall = [
     'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS', 'CREST', 
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
-    'CRUEL', 'CRUMP', 'CUBIC', 'CURIO', 'CURRY', 'CURSE', 'CURVE', 'CURVY',
+    'CRUEL', 'CRUMP', 'CUBIC', 'CURIO', 'CURRY', 'CURVE', 'CURVY',
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DATUM', 'DAUNT', 'DEALT', 'DEBAR',
     'DECOR', 'DEFER', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
@@ -1698,7 +1698,7 @@ export const dailyWordsLarge = [
     'CULLY', 'CULMS', 'CULPA', 'CULTI', 'CULTS', 'CULTY', 'CUMEC', 'CUNDY', 'CUNEI',
     'CUNIT', 'CUNTS', 'CUPEL', 'CUPID', 'CUPPA', 'CUPPY', 'CURAT', 'CURBS', 'CURCH', 'CURDS',
     'CURDY', 'CURED', 'CURER', 'CURES', 'CURET', 'CURFS', 'CURIA', 'CURIE', 'CURIO', 'CURLI',
-    'CURLS', 'CURNS', 'CURNY', 'CURRS', 'CURRY', 'CURSE', 'CURSI', 'CURST', 'CURVE',
+    'CURLS', 'CURNS', 'CURNY', 'CURRS', 'CURRY', 'CURSI', 'CURST', 'CURVE',
     'CURVY', 'CUSEC', 'CUSHY', 'CUSKS', 'CUSPS', 'CUSPY', 'CUSSO', 'CUSUM', 'CUTCH', 'CUTER',
     'CUTES', 'CUTEY', 'CUTIE', 'CUTIN', 'CUTIS', 'CUTTO', 'CUTTY', 'CUTUP', 'CUVEE', 'CUZES',
     'CWTCH', 'CYANO', 'CYANS', 'CYCAD', 'CYCAS', 'CYCLE', 'CYCLO', 'CYDER', 'CYLIX',
@@ -11059,6 +11059,12 @@ export const wordleWords = [
         gameDate: "4/1/25",
         myScore: 3,
         wordNumber: 1382,
+      },
+      {
+        word: "CURSE",
+        gameDate: "4/2/25",
+        myScore: 2,
+        wordNumber: 1383,
       },
   
   ];
