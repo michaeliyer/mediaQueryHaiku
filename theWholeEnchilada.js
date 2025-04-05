@@ -1376,7 +1376,7 @@ export const dailyWordsSmall = [
     'IMBUE', 'IMPLY', 'INBOX', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
-    'KNOWN', 'KRILL', 'LADEN', 'LANCE', 'LATCH', 'LATER',
+    'KNOWN', 'LADEN', 'LANCE', 'LATCH', 'LATER',
     'LATHE', 'LAUGH', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
@@ -2046,7 +2046,7 @@ export const dailyWordsLarge = [
     'KOORI', 'KOPEK', 'KOPHS', 'KOPJE', 'KOPPA', 'KORAI', 'KORAS', 'KORAT', 'KORES', 'KORMA',
     'KOROS', 'KORUN', 'KORUS', 'KOSES', 'KOTCH', 'KOTOS', 'KOTOW', 'KOURA', 'KRAAL', 'KRABS',
     'KRAFT', 'KRAIS', 'KRAIT', 'KRANG', 'KRANS', 'KRANZ', 'KRAUT', 'KRAYS', 'KREEP', 'KRENG',
-    'KREWE', 'KRILL', 'KRONA', 'KRONE', 'KROON', 'KRUBI', 'KRUNK', 'KSARS', 'KUBIE', 'KUDOS',
+    'KREWE', 'KRONA', 'KRONE', 'KROON', 'KRUBI', 'KRUNK', 'KSARS', 'KUBIE', 'KUDOS',
     'KUDUS', 'KUDZU', 'KUFIS', 'KUGEL', 'KUIAS', 'KUKRI', 'KUKUS', 'KULAK', 'KULAN', 'KULAS',
     'KULFI', 'KUMIS', 'KUMYS', 'KURIS', 'KURRE', 'KURTA', 'KURUS', 'KUSSO', 'KUTAS', 'KUTCH',
     'KUTIS', 'KUTUS', 'KUZUS', 'KVASS', 'KVELL', 'KWELA', 'KYACK', 'KYAKS', 'KYANG', 'KYARS',
@@ -11071,6 +11071,12 @@ export const wordleWords = [
         gameDate: "4/3/25",
         myScore: 3,
         wordNumber: 1384,
+      },
+      {
+        word: "KRILL",
+        gameDate: "4/4/25",
+        myScore: 5,
+        wordNumber: 1385,
       },
   
   ];
