@@ -1437,7 +1437,7 @@ export const dailyWordsSmall = [
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
     'TURBO', 'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
     'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
-    'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 'VILLA',
+    'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VIXEN', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
     'WAVER', 'WAXEN', 'WEAVE', 'WEEDY', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 'WHEAT',
@@ -2671,7 +2671,7 @@ export const dailyWordsLarge = [
     'VERRY', 'VERSO', 'VERST', 'VERTS', 'VERTU', 'VESPA', 'VESTA', 'VESTS',
     'VETCH', 'VEXED', 'VEXER', 'VEXES', 'VEXIL', 'VEZIR', 'VIALS', 'VIAND', 'VIBES', 'VIBEX',
     'VIBEY', 'VICAR', 'VICED', 'VICES', 'VICHY', 'VIERS', 'VIEWS', 'VIEWY', 'VIFDA',
-    'VIFFS', 'VIGAS', 'VIGIA', 'VIGIL', 'VILDE', 'VILER', 'VILLA', 'VILLI', 'VILLS',
+    'VIFFS', 'VIGAS', 'VIGIA', 'VIGIL', 'VILDE', 'VILER', 'VILLI', 'VILLS',
     'VIMEN', 'VINAL', 'VINAS', 'VINCA', 'VINED', 'VINER', 'VINES', 'VINEW', 'VINIC', 'VINOS',
     'VINTS', 'VIOLD', 'VIOLS', 'VIPER', 'VIRED', 'VIREO', 'VIRES',
     'VIRGA', 'VIRGE', 'VIRID', 'VIRLS', 'VIRTU', 'VIRUS', 'VISAS', 'VISED', 'VISES', 'VISIE',
@@ -11083,6 +11083,12 @@ export const wordleWords = [
         gameDate: "4/5/25",
         myScore: 2,
         wordNumber: 1386,
+      },
+      {
+        word: "VILLA",
+        gameDate: "4/6/25",
+        myScore: 4,
+        wordNumber: 1387,
       },
   
   ];
