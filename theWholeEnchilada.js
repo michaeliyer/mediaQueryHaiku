@@ -1370,7 +1370,7 @@ export const dailyWordsSmall = [
     'GROPE', 'GROSS', 'GROWN', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
     'GUISE', 'GULCH', 'GUMBO', 'GUSTO', 'GYPSY', 'HABIT', 'HALAL', 
     'HARDY', 'HAREM', 'HARPY', 'HARRY', 'HASTE', 'HASTY', 'HAUNT', 'HAUTE', 'HAVEN',
-    'HAZEL', 'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
+    'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOM', 'IDIOT', 'IDLER', 'IDYLL', 'ILIAC',
     'IMBUE', 'IMPLY', 'INBOX', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
@@ -1940,7 +1940,7 @@ export const dailyWordsLarge = [
     'HASPS', 'HASTA', 'HASTE', 'HASTY', 'HATED', 'HATES', 'HATHA', 'HAUDS',
     'HAUFS', 'HAUGH', 'HAULD', 'HAULM', 'HAULS', 'HAULT', 'HAUNS', 'HAUNT', 'HAUSE', 'HAUTE',
     'HAVEN', 'HAVER', 'HAVES', 'HAWED', 'HAWKS', 'HAWMS', 'HAWSE', 'HAYED', 'HAYER',
-    'HAYEY', 'HAYLE', 'HAZAN', 'HAZED', 'HAZEL', 'HAZER', 'HAZES', 'HEADS', 'HEALD',
+    'HAYEY', 'HAYLE', 'HAZAN', 'HAZED', 'HAZER', 'HAZES', 'HEADS', 'HEALD',
     'HEALS', 'HEAME', 'HEAPS', 'HEAPY', 'HEARE', 'HEARS', 'HEAST',
     'HEATS', 'HEBEN', 'HEBES', 'HECHT', 'HECKS', 'HEDER', 'HEDGE', 'HEDGY',
     'HEEDS', 'HEEDY', 'HEELS', 'HEEZE', 'HEFTE', 'HEFTS', 'HEIDS', 'HEIGH', 'HEILS',
@@ -11089,6 +11089,12 @@ export const wordleWords = [
         gameDate: "4/6/25",
         myScore: 4,
         wordNumber: 1387,
+      },
+      {
+        word: "HAZEL",
+        gameDate: "4/7/25",
+        myScore: 4,
+        wordNumber: 1388,
       },
   
   ];
