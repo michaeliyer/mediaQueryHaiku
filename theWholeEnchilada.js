@@ -1419,7 +1419,7 @@ export const dailyWordsSmall = [
     'SLEET', 'SLEPT', 'SLICK', 'SLIDE', 'SLIME', 'SLIMY', 'SLING', 'SLINK',
     'SLOOP', 'SLUNK', 'SLURP', 'SLUSH', 'SLYLY', 'SMACK', 'SMELL', 'SMOKY',
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
-    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 'SPARE', 
+    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 
     'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
     'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 'SPORT',
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
@@ -2506,7 +2506,7 @@ export const dailyWordsLarge = [
     'SOWSE', 'SOWTH', 'SOYAS', 'SOYLE', 'SOYUZ', 'SOZIN',
     'SPACY', 'SPADO', 'SPAED', 'SPAER', 'SPAES', 'SPAGS', 'SPAHI', 'SPAIL',
     'SPAIN', 'SPAIT', 'SPAKE', 'SPALD', 'SPALE', 'SPALL', 'SPALT', 'SPAMS', 'SPANE', 'SPANG',
-    'SPANK', 'SPANS', 'SPARD', 'SPARE', 'SPARS', 'SPART', 'SPASM', 'SPATE', 'SPATS',
+    'SPANK', 'SPANS', 'SPARD', 'SPARS', 'SPART', 'SPASM', 'SPATE', 'SPATS',
     'SPAUL', 'SPAWL', 'SPAWN', 'SPAWS', 'SPAYD', 'SPAYS', 'SPAZA', 'SPEAL', 'SPEAN',
     'SPEAT', 'SPECS', 'SPECT', 'SPEED', 'SPEEL', 'SPEER', 'SPEIL', 'SPEIR',
     'SPEKS', 'SPELD', 'SPELK', 'SPEOS', 'SPERM', 'SPETS',
@@ -11095,6 +11095,12 @@ export const wordleWords = [
         gameDate: "4/7/25",
         myScore: 4,
         wordNumber: 1388,
+      },
+      {
+        word: "SPARE",
+        gameDate: "4/8/25",
+        myScore: 2,
+        wordNumber: 1389,
       },
   
   ];
