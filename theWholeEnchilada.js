@@ -1440,7 +1440,7 @@ export const dailyWordsSmall = [
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VIXEN', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
-    'WAVER', 'WAXEN', 'WEAVE', 'WEEDY', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 'WHEAT',
+    'WAVER', 'WAXEN', 'WEAVE', 'WEEDY', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WHOSE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WITTY', 'WOMEN', 'WOODY', 'WOOLY',
     'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 'YEAST',
@@ -2702,7 +2702,7 @@ export const dailyWordsLarge = [
     'WELKT', 'WELLS', 'WELLY', 'WELSH', 'WELTS', 'WEMBS', 'WENCH', 'WENDS', 'WENGE', 'WENNY',
     'WENTS', 'WEROS', 'WERSH', 'WESTS', 'WETAS', 'WETLY', 'WEXED', 'WEXES', 
     'WHAMO', 'WHAMS', 'WHANG', 'WHAPS', 'WHARE', 'WHARF', 'WHATA', 'WHATS', 'WHAUP', 'WHAUR',
-    'WHEAL', 'WHEAR', 'WHEAT', 'WHEEN', 'WHEEP', 'WHEFT', 'WHELK', 'WHELM', 
+    'WHEAL', 'WHEAR', 'WHEEN', 'WHEEP', 'WHEFT', 'WHELK', 'WHELM', 
     'WHENS', 'WHETS', 'WHEWS', 'WHEYS', 'WHIDS', 'WHIFT', 'WHIGS',
     'WHILK', 'WHIMS', 'WHINS', 'WHIOS', 'WHIPS', 'WHIPT', 
     'WHIRR', 'WHIRS', 'WHISH', 'WHISS', 'WHIST', 'WHITE', 'WHITS', 'WHITY', 'WHIZZ',
@@ -11101,6 +11101,12 @@ export const wordleWords = [
         gameDate: "4/8/25",
         myScore: 2,
         wordNumber: 1389,
+      },
+      {
+        word: "WHEAT",
+        gameDate: "4/9/25",
+        myScore: 4,
+        wordNumber: 1390,
       },
   
   ];
