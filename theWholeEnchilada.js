@@ -1435,7 +1435,7 @@ export const dailyWordsSmall = [
     'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRIPE', 'TROUT', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
-    'TURBO', 'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
+    'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
     'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VIXEN', 'VOCAL', 'VOGUE', 
@@ -2631,7 +2631,7 @@ export const dailyWordsLarge = [
     'TUBER', 'TUBES', 'TUCKS', 'TUFAS', 'TUFFE', 'TUFFS', 'TUFTS', 'TUFTY', 'TUGRA', 'TUILE',
     'TUINA', 'TUISM', 'TUKTU', 'TULES', 'TULIP', 'TULLE', 'TULPA', 'TULSI', 'TUMID', 'TUMMY',
     'TUMOR', 'TUMPS', 'TUMPY', 'TUNAS', 'TUNDS', 'TUNED', 'TUNER', 'TUNES', 'TUNGS',
-    'TUNNY', 'TUPEK', 'TUPIK', 'TUPLE', 'TUQUE', 'TURBO', 'TURDS', 'TURFS', 'TURFY', 'TURKS',
+    'TUNNY', 'TUPEK', 'TUPIK', 'TUPLE', 'TUQUE', 'TURDS', 'TURFS', 'TURFY', 'TURKS',
     'TURME', 'TURMS', 'TURNS', 'TURNT', 'TURPS', 'TURRS', 'TUSHY', 'TUSKS', 'TUSKY', 'TUTEE',
     'TUTTI', 'TUTTY', 'TUTUS', 'TUXES', 'TUYER', 'TWAES', 'TWAIN', 'TWALS', 
     'TWANK', 'TWATS', 'TWAYS', 'TWEEL', 'TWEEN', 'TWEEP', 'TWEER', 'TWEET',
@@ -11107,6 +11107,12 @@ export const wordleWords = [
         gameDate: "4/9/25",
         myScore: 4,
         wordNumber: 1390,
+      },
+      {
+        word: "TURBO",
+        gameDate: "4/10/25",
+        myScore: 2,
+        wordNumber: 1391,
       },
   
   ];
