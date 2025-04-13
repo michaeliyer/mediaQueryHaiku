@@ -1388,7 +1388,7 @@ export const dailyWordsSmall = [
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MUNCH', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
-    'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NOVEL', 'NURSE', 'NUTTY',
+    'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NOVEL', 'NUTTY',
     'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'ODDLY', 'OFFER', 'OLDEN', 'OMBRE',
     'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'OZONE', 'PADDY', 'PAGAN',
@@ -2211,7 +2211,7 @@ export const dailyWordsLarge = [
     'NOVEL', 'NOVUM', 'NOWAY', 'NOWED', 'NOWLS', 'NOWTS', 'NOWTY', 'NOXAL', 'NOXES', 'NOYAU',
     'NOYED', 'NOYES', 'NUBBY', 'NUBIA', 'NUCHA', 'NUDDY', 'NUDER', 'NUDES', 'NUDIE',
     'NUDZH', 'NUFFS', 'NUGAE', 'NUKED', 'NUKES', 'NULLA', 'NULLS', 'NUMBS', 'NUMEN', 'NUMMY',
-    'NUNNY', 'NURDS', 'NURDY', 'NURLS', 'NURRS', 'NURSE', 'NUTSO', 'NUTSY', 'NUTTY', 'NYAFF',
+    'NUNNY', 'NURDS', 'NURDY', 'NURLS', 'NURRS', 'NUTSO', 'NUTSY', 'NUTTY', 'NYAFF',
     'NYALA', 'NYING', 'NYLON', 'NYSSA', 'OAKED', 'OAKEN', 'OAKER', 'OAKUM', 'OARED',
     'OASES', 'OASIS', 'OASTS', 'OATEN', 'OATER', 'OATHS', 'OAVES', 'OBANG', 'OBEAH', 'OBELI',
     'OBESE', 'OBEYS', 'OBIAS', 'OBIED', 'OBIIT', 'OBITS', 'OBJET', 'OBOES', 'OBOLE', 'OBOLI',
@@ -11119,6 +11119,12 @@ export const wordleWords = [
         gameDate: "4/11/25",
         myScore: 3,
         wordNumber: 1392,
+      },
+      {
+        word: "NURSE",
+        gameDate: "4/12/25",
+        myScore: 3,
+        wordNumber: 1393,
       },
   
   ];
