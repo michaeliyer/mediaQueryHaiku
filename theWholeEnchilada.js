@@ -1377,7 +1377,7 @@ export const dailyWordsSmall = [
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'KNOWN', 'LADEN', 'LANCE', 'LATCH', 'LATER',
-    'LATHE', 'LAUGH', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
+    'LATHE', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
     'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACHO', 'MACRO', 
@@ -2062,7 +2062,7 @@ export const dailyWordsLarge = [
     'LARGO', 'LARIS', 'LARKS', 'LARKY', 'LARNS', 'LARNT', 'LARUM', 'LASED',
     'LASES', 'LASSI', 'LASSU', 'LASSY', 'LASTS', 'LATAH', 'LATCH', 'LATED',
     'LATEN', 'LATER', 'LATEX', 'LATHE', 'LATHI', 'LATHS', 'LATHY', 'LATKE', 'LATUS',
-    'LAUAN', 'LAUCH', 'LAUDS', 'LAUFS', 'LAUGH', 'LAUND', 'LAURA', 'LAVAL', 'LAVAS', 'LAVED',
+    'LAUAN', 'LAUCH', 'LAUDS', 'LAUFS', 'LAUND', 'LAURA', 'LAVAL', 'LAVAS', 'LAVED',
     'LAVER', 'LAVES', 'LAVRA', 'LAVVY', 'LAWED', 'LAWER', 'LAWIN', 'LAWKS', 'LAWNS', 'LAWNY',
     'LAXED', 'LAXER', 'LAXES', 'LAXLY', 'LAYED', 'LAYIN', 'LAYUP', 'LAZAR', 'LAZED',
     'LAZES', 'LAZOS', 'LAZZI', 'LAZZO', 'LEACH', 'LEADS', 'LEADY', 'LEAFS', 'LEAKS',
@@ -11125,6 +11125,12 @@ export const wordleWords = [
         gameDate: "4/12/25",
         myScore: 3,
         wordNumber: 1393,
+      },
+      {
+        word: "LAUGH",
+        gameDate: "4/13/25",
+        myScore: 3,
+        wordNumber: 1394,
       },
   
   ];
