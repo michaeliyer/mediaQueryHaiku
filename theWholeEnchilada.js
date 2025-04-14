@@ -1341,7 +1341,7 @@ export const dailyWordsSmall = [
     'CLAMP', 'CLANG', 'CLANK', 'CLASH', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMFY', 'COMIC', 'CONCH',
     'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
-    'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS', 'CREST', 
+    'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURIO', 'CURRY', 'CURVE', 'CURVY',
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DATUM', 'DAUNT', 'DEALT', 'DEBAR',
@@ -1686,7 +1686,7 @@ export const dailyWordsLarge = [
     'CRAMS', 'CRANS', 'CRAPE', 'CRAPS', 'CRAPY', 'CRARE', 'CRASH', 
     'CRAWS', 'CRAYS', 
     'CREDS', 'CREED', 'CREEK', 'CREEL', 'CREEP', 'CREES', 'CREME', 'CREMS', 'CRENA', 
-    'CREPS', 'CREPY', 'CRESS', 'CREST', 'CREWE', 'CREWS', 'CRIAS', 'CRIBS', 'CRICK',
+    'CREPS', 'CREPY', 'CRESS', 'CREWE', 'CREWS', 'CRIAS', 'CRIBS', 'CRICK',
     'CRIED', 'CRIER', 'CRIES', 'CRIMS', 'CRINE', 'CRIOS', 'CRIPE', 'CRISE',
     'CRITH', 'CRITS', 'CROCI', 'CROCK', 'CROCS', 'CROFT', 'CROGS', 'CROMB',
     'CROME', 'CRONK', 'CRONS', 'CRONY', 'CROOL', 'CROON', 'CROPS', 'CRORE',
@@ -11131,6 +11131,12 @@ export const wordleWords = [
         gameDate: "4/13/25",
         myScore: 3,
         wordNumber: 1394,
+      },
+      {
+        word: "CREST",
+        gameDate: "4/14/25",
+        myScore: 2,
+        wordNumber: 1395,
       },
   
   ];
