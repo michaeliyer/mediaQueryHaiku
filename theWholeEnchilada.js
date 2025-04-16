@@ -11133,6 +11133,12 @@ export const wordleWords = [
         wordNumber: 1394,
       },
       {
+        word: "CREST",
+        gameDate: "4/14/25",
+        myScore: 2,
+        wordNumber: 1395,
+      },
+      {
         word: "ASHEN",
         gameDate: "4/15/25",
         myScore: 3,
