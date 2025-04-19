@@ -1347,7 +1347,7 @@ export const dailyWordsSmall = [
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DATUM', 'DAUNT', 'DEALT', 'DEBAR',
     'DECOR', 'DEFER', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
-    'DIODE', 'DIRGE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
+    'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOUGH', 'DOWDY', 'DOWEL', 'DOWNY', 'DRAKE', 'DRAMA',
     'DRANK', 'DRAPE', 'DRAWL', 'DREAD', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
     'DROIT', 'DRONE', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
@@ -1733,7 +1733,7 @@ export const dailyWordsLarge = [
     'DIKED', 'DIKER', 'DIKES', 'DILDO', 'DILLI', 'DILLS', 'DILLY', 'DIMBO', 'DIMER', 'DIMES',
     'DIMLY', 'DIMPS', 'DINAR', 'DINED', 'DINES', 'DINGE', 'DINGS', 
     'DINIC', 'DINKS', 'DINKY', 'DINNA', 'DINOS', 'DINTS', 'DIODE', 'DIOLS', 'DIOTA', 'DIPPY',
-    'DIPSO', 'DIRAM', 'DIRER', 'DIRGE', 'DIRKE', 'DIRKS', 'DIRLS', 'DIRTS', 'DIRTY', 'DISAS',
+    'DIPSO', 'DIRAM', 'DIRER', 'DIRKE', 'DIRKS', 'DIRLS', 'DIRTS', 'DIRTY', 'DISAS',
     'DISCI', 'DISCS', 'DISHY', 'DISKS', 'DISME', 'DITAL', 'DITAS', 'DITCH', 'DITED',
     'DITES', 'DITSY', 'DITTS', 'DITZY', 'DIVAN', 'DIVAS', 'DIVED', 'DIVER',
     'DIVES', 'DIVIS', 'DIVNA', 'DIVOS', 'DIVOT', 'DIVVY', 'DIWAN', 'DIXIE', 'DIXIT', 'DIYAS',
@@ -11155,6 +11155,12 @@ export const wordleWords = [
         gameDate: "4/17/25",
         myScore: 4,
         wordNumber: 1398,
+      },
+      {
+        word: "DIRGE",
+        gameDate: "4/18/25",
+        myScore: 3,
+        wordNumber: 1399,
       },
   
   ];
