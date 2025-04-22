@@ -2506,7 +2506,7 @@ export const dailyWordsLarge = [
     'SOWSE', 'SOWTH', 'SOYAS', 'SOYLE', 'SOYUZ', 'SOZIN',
     'SPACY', 'SPADO', 'SPAED', 'SPAER', 'SPAES', 'SPAGS', 'SPAHI', 'SPAIL',
     'SPAIN', 'SPAIT', 'SPAKE', 'SPALD', 'SPALE', 'SPALL', 'SPALT', 'SPAMS', 'SPANE', 'SPANG',
-    'SPANK', 'SPANS', 'SPARD', 'SPARS', 'SPART', 'SPASM', 'SPATE', 'SPATS',
+    'SPANK', 'SPANS', 'SPARD', 'SPARS', 'SPART', 'SPASM', 'SPATS',
     'SPAUL', 'SPAWL', 'SPAWN', 'SPAWS', 'SPAYD', 'SPAYS', 'SPAZA', 'SPEAL', 'SPEAN',
     'SPEAT', 'SPECS', 'SPECT', 'SPEED', 'SPEEL', 'SPEER', 'SPEIL', 'SPEIR',
     'SPEKS', 'SPELD', 'SPELK', 'SPEOS', 'SPERM', 'SPETS',
@@ -11173,6 +11173,12 @@ export const wordleWords = [
         gameDate: "4/20/25",
         myScore: 3,
         wordNumber: 1401,
+      },
+      {
+        word: "SPATE",
+        gameDate: "4/21/25",
+        myScore: 4,
+        wordNumber: 1402,
       },
   
   ];
