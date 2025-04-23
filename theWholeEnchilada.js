@@ -1323,7 +1323,7 @@ export const dailyWordsSmall = [
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'ALONG', 'AMAZE', 'AMEND',
     'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
-    'ARSON', 'ARTSY', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
+    'ARSON', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWARE', 'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BALMY', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE', 'BICEP',
@@ -1501,7 +1501,7 @@ export const dailyWordsLarge = [
     'ARKED', 'ARLED', 'ARLES', 'ARMED', 'ARMER', 'ARMET', 'ARMIL', 'ARMOR', 'ARNAS', 'ARNUT',
     'AROBA', 'AROHA', 'AROID', 'AROSE', 'ARPAS', 'ARPEN', 'ARRAH', 'ARRAS', 'ARRAY',
     'ARRET', 'ARRIS', 'ARROZ', 'ARSED', 'ARSES', 'ARSEY', 'ARSIS', 'ARSON', 'ARTAL',
-    'ARTEL', 'ARTIC', 'ARTIS', 'ARTSY', 'ARUHE', 'ARUMS', 'ARVAL', 'ARVEE', 'ARVOS', 'ARYLS',
+    'ARTEL', 'ARTIC', 'ARTIS', 'ARUHE', 'ARUMS', 'ARVAL', 'ARVEE', 'ARVOS', 'ARYLS',
     'ASANA', 'ASCON', 'ASCUS', 'ASDIC', 'ASHED', 'ASHES', 'ASHET', 
     'ASKED', 'ASKER', 'ASKOI', 'ASKOS', 'ASPEN', 'ASPER', 'ASPIC', 'ASPIS', 'ASPRO',
     'ASSAI', 'ASSAM', 'ASSAY', 'ASSES', 'ASSEZ', 'ASSOT', 'ASTER', 'ASTIR', 'ASTUN',
@@ -11179,6 +11179,12 @@ export const wordleWords = [
         gameDate: "4/21/25",
         myScore: 4,
         wordNumber: 1402,
+      },
+      {
+        word: "ARTSY",
+        gameDate: "4/22/25",
+        myScore: 3,
+        wordNumber: 1403,
       },
   
   ];
