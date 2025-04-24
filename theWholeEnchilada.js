@@ -1391,7 +1391,7 @@ export const dailyWordsSmall = [
     'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NOVEL', 'NUTTY',
     'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'ODDLY', 'OFFER', 'OLDEN', 'OMBRE',
     'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
-    'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'OZONE', 'PADDY', 'PAGAN',
+    'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PATSY', 'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PITCH', 'PIVOT', 'PIZZA',
@@ -2238,7 +2238,7 @@ export const dailyWordsLarge = [
     'OVATE', 'OVELS', 'OVENS', 'OVERS', 'OVINE', 'OVIST', 'OVOID', 'OVOLI', 'OVOLO',
     'OVULE', 'OWCHE', 'OWIES', 'OWING', 'OWLED', 'OWLER', 'OWLET', 'OWNED', 'OWRES',
     'OWRIE', 'OWSEN', 'OXBOW', 'OXERS', 'OXEYE', 'OXIDS', 'OXIES', 'OXIME', 'OXIMS',
-    'OXLIP', 'OXTER', 'OYERS', 'OZEKI', 'OZONE', 'OZZIE',
+    'OXLIP', 'OXTER', 'OYERS', 'OZEKI', 'OZZIE',
     'PAALS', 'PAANS', 'PACAS', 'PACED', 'PACER', 'PACES', 'PACEY', 'PACHA', 'PACKS', 'PACOS',
     'PACTA', 'PACTS', 'PADDY', 'PADIS', 'PADLE', 'PADMA', 'PADRE', 'PADRI', 'PAEAN', 'PAEDO',
     'PAEON', 'PAGAN', 'PAGED', 'PAGER', 'PAGES', 'PAGLE', 'PAGOD', 'PAGRI', 'PAIKS', 'PAILS',
@@ -11185,6 +11185,12 @@ export const wordleWords = [
         gameDate: "4/22/25",
         myScore: 3,
         wordNumber: 1403,
+      },
+      {
+        word: "OZONE",
+        gameDate: "4/23/25",
+        myScore: 4,
+        wordNumber: 1404,
       },
   
   ];
