@@ -1363,7 +1363,7 @@ export const dailyWordsSmall = [
     'FLUSH', 'FLUTE', 'FOIST', 'FOLIO', 'FORUM', 'FRAUD',
     'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRILL', 'FRISK', 'FRITZ', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
-    'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 'GEESE', 'GENIE', 
+    'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 'GEESE',  
     'GHOST', 'GIPSY', 'GIRLY', 'GIVER', 'GLADE', 'GLARE', 'GLINT', 'GLOSS', 'GNOME',
     'GODLY', 'GOLLY', 'GONAD', 'GOOEY', 'GOURD', 'GRAFT', 
     'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GRILL', 'GROAN',
@@ -1876,7 +1876,7 @@ export const dailyWordsLarge = [
     'GAZAL', 'GAZAR', 'GAZED', 'GAZER', 'GAZES', 'GAZON', 'GAZOO', 'GEALS', 'GEANS', 'GEARE',
     'GEARS', 'GEATS', 'GEBUR', 'GECKS', 'GEEKS', 'GEEKY', 'GEEPS', 'GEESE', 'GEEST',
     'GEIST', 'GEITS', 'GELDS', 'GELEE', 'GELID', 'GELLY', 'GELTS', 'GEMEL', 'GEMMA', 'GEMMY',
-    'GEMOT', 'GENAL', 'GENAS', 'GENES', 'GENET', 'GENIC', 'GENIE', 'GENII', 'GENIP', 'GENNY',
+    'GEMOT', 'GENAL', 'GENAS', 'GENES', 'GENET', 'GENIC', 'GENII', 'GENIP', 'GENNY',
     'GENOA', 'GENOM', 'GENRO', 'GENTS', 'GENTY', 'GENUA', 'GENUS', 'GEODE', 'GEOID',
     'GERAH', 'GERBE', 'GERES', 'GERLE', 'GERMS', 'GERMY', 'GERNE', 'GESSE', 'GESSO', 'GESTE',
     'GESTS', 'GETAS', 'GETUP', 'GEUMS', 'GEYAN', 'GEYER', 'GHAST', 'GHATS', 'GHAUT', 'GHAZI',
@@ -11191,6 +11191,12 @@ export const wordleWords = [
         gameDate: "4/23/25",
         myScore: 4,
         wordNumber: 1404,
+      },
+      {
+        word: "GENIE",
+        gameDate: "4/24/25",
+        myScore: 3,
+        wordNumber: 1405,
       },
   
   ];
