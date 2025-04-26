@@ -1376,7 +1376,7 @@ export const dailyWordsSmall = [
     'IMBUE', 'IMPLY', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
-    'KNOWN', 'LADEN', 'LANCE', 'LATCH', 'LATER',
+    'LADEN', 'LANCE', 'LATCH', 'LATER',
     'LATHE', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
@@ -2039,7 +2039,7 @@ export const dailyWordsLarge = [
     'KLANG', 'KLAPS', 'KLETT', 'KLICK', 'KLIEG', 'KLIKS', 'KLONG', 'KLOOF', 'KLUGE', 'KLUTZ',
     'KNAGS', 'KNAPS', 'KNARL', 'KNARS', 'KNAUR', 'KNAWE', 'KNEED',
     'KNEES', 'KNELL', 'KNIFE', 'KNISH', 'KNITS', 'KNIVE', 'KNOBS', 
-    'KNOPS', 'KNOSP', 'KNOTS', 'KNOUT', 'KNOWE', 'KNOWN', 'KNOWS', 'KNUBS', 'KNURL',
+    'KNOPS', 'KNOSP', 'KNOTS', 'KNOUT', 'KNOWE', 'KNOWS', 'KNUBS', 'KNURL',
     'KNURR', 'KNURS', 'KNUTS', 'KOANS', 'KOAPS', 'KOBAN', 'KOBOS', 'KOELS', 'KOFFS',
     'KOFTA', 'KOGAL', 'KOHAS', 'KOHEN', 'KOHLS', 'KOINE', 'KOJIS', 'KOKAM', 'KOKAS', 'KOKER',
     'KOKRA', 'KOKUM', 'KOLAS', 'KOLOS', 'KOMBU', 'KONBU', 'KONDO', 'KONKS', 'KOOKS', 'KOOKY',
@@ -11197,6 +11197,12 @@ export const wordleWords = [
         gameDate: "4/24/25",
         myScore: 3,
         wordNumber: 1405,
+      },
+      {
+        word: "KNOWN",
+        gameDate: "4/25/25",
+        myScore: 3,
+        wordNumber: 1406,
       },
   
   ];
