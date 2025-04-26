@@ -26,3 +26,4 @@ function changeMyOpacity() {
 }
 
 console.log(dailyWordsSmall);
+
