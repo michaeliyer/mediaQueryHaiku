@@ -25,4 +25,4 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall);
+console.log(dailyWordsSmall, letterValues);
