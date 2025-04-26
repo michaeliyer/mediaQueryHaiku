@@ -9,7 +9,7 @@ console.log(moreThing);
 const anotherThing = "Man";
 console.log(anotherThing);
 const yetAnotherThing = "Good job";
-console.log(yetAnotherThing);
+console.log(yetAnotherThingm, "You suck Man!");
 
 const blueLink = document.querySelector(".line-1a");
 blueLink.addEventListener("click", changeOpacity);
