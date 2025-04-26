@@ -1338,7 +1338,7 @@ export const dailyWordsSmall = [
     'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CEASE', 'CELLO', 'CHAFF', 'CHAIR',
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
-    'CLAMP', 'CLANG', 'CLANK', 'CLASH', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
+    'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMFY', 'COMIC', 'CONCH',
     'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
@@ -1651,7 +1651,7 @@ export const dailyWordsLarge = [
     'CIRLS', 'CIRRI', 'CISCO', 'CISSY', 'CISTS', 'CITAL', 'CITED', 'CITER', 'CITES', 'CIVES',
     'CIVET', 'CIVIE', 'CIVIL', 'CIVVY', 'CLACH', 'CLACK', 'CLADE', 'CLADS', 'CLAES',
     'CLAGS', 'CLAIM', 'CLAME', 'CLAMP', 'CLAMS', 'CLANG', 'CLANK', 'CLANS', 'CLAPS', 'CLAPT',
-    'CLARO', 'CLART', 'CLARY', 'CLASH', 'CLASP', 'CLAST', 'CLATS', 'CLAUT', 'CLAVE',
+    'CLARO', 'CLART', 'CLARY', 'CLASP', 'CLAST', 'CLATS', 'CLAUT', 'CLAVE',
     'CLAVI', 'CLAWS', 'CLAYS', 'CLEAT', 'CLECK', 'CLEEK', 'CLEEP', 'CLEFS',
     'CLEGS', 'CLEIK', 'CLEMS', 'CLEPE', 'CLEPT', 'CLEVE', 'CLEWS',
     'CLIED', 'CLIES', 'CLIFF', 'CLIFT', 'CLIME', 'CLINE', 'CLINK', 'CLINT',
@@ -11203,6 +11203,12 @@ export const wordleWords = [
         gameDate: "4/25/25",
         myScore: 3,
         wordNumber: 1406,
+      },
+      {
+        word: "CLASH",
+        gameDate: "4/26/25",
+        myScore: 3,
+        wordNumber: 1407,
       },
   
   ];
