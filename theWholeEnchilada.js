@@ -1440,7 +1440,7 @@ export const dailyWordsSmall = [
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VIXEN', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
-    'WAVER', 'WAXEN', 'WEAVE', 'WEEDY', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
+    'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WHOSE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WITTY', 'WOMEN', 'WOODY', 'WOOLY',
     'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 'YEAST',
@@ -2696,7 +2696,7 @@ export const dailyWordsLarge = [
     'WAUFF', 'WAUGH', 'WAUKS', 'WAULK', 'WAULS', 'WAURS', 'WAVED', 'WAVER', 'WAVES', 'WAVEY',
     'WAWAS', 'WAWES', 'WAWLS', 'WAXED', 'WAXEN', 'WAXER', 'WAXES', 'WAYED', 'WAZIR', 'WAZOO',
     'WEALD', 'WEALS', 'WEAMB', 'WEANS', 'WEARS', 'WEAVE', 'WEBBY', 'WEBER', 'WECHT',
-    'WEDEL', 'WEDGY', 'WEEDS', 'WEEDY', 'WEEKE', 'WEEKS', 'WEELS', 'WEEMS', 'WEENS',
+    'WEDEL', 'WEDGY', 'WEEDS', 'WEEKE', 'WEEKS', 'WEELS', 'WEEMS', 'WEENS',
     'WEENY', 'WEEPS', 'WEEPY', 'WEEST', 'WEETE', 'WEETS', 'WEFTE', 'WEFTS', 'WEIDS', 'WEIGH',
     'WEILS', 'WEIRS', 'WEISE', 'WEIZE', 'WEKAS', 'WELCH', 'WELDS', 'WELKE', 'WELKS',
     'WELKT', 'WELLS', 'WELLY', 'WELSH', 'WELTS', 'WEMBS', 'WENCH', 'WENDS', 'WENGE', 'WENNY',
@@ -11210,6 +11210,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1407,
       },
+      {
+        word: "WEEDY",
+        gameDate: "4/27/25",
+        myScore: 4,
+        wordNumber: 1408,
+      },
   
   ];
 
@@ -11219,6 +11225,6 @@ export const letterValues = {
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
 console.log("this works fucking great");
-console.log("real eefin nice like")
+console.log("real eefin nice like, Girl!")
 
 
