@@ -16,6 +16,7 @@ blueLink.addEventListener("click", changeOpacity);
 
 function changeOpacity() {
     document.body.innerText = "NICE WORK CALVINO";
+    console.log("Bite me wire, I declare!");
 }
 
 const redLink = document.querySelector(".line-21a");
