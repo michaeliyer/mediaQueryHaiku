@@ -71,7 +71,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
       grid-gap: .4rem;
-      background-color: rgb(200, 98, 20);
+      background-color: rgb(200, 99, 20);
     }
   
     .whole-box {
