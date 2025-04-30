@@ -1328,7 +1328,7 @@ export const dailyWordsSmall = [
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE', 'BICEP',
     'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
-    'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLINK', 'BLISS', 'BLITZ',
+    'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLINK', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOARD', 'BOBBY', 'BONEY', 'BONGO', 
     'BOOTH', 'BORNE', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
     'BRAND', 'BRAWL', 'BRICK', 'BROIL',
@@ -1563,7 +1563,7 @@ export const dailyWordsLarge = [
     'BLATS', 'BLATT', 'BLAUD', 'BLAWN', 'BLAWS', 'BLAYS', 'BLEAR', 'BLEAT',
     'BLEBS', 'BLECH', 'BLEES', 'BLEND', 'BLENT', 'BLERT', 'BLESS', 'BLEST',
     'BLETS', 'BLEYS', 'BLIMY', 'BLIND', 'BLING', 'BLINI', 'BLINK', 'BLINS', 'BLINY',
-    'BLIPS', 'BLISS', 'BLIST', 'BLITE', 'BLITS', 'BLITZ', 'BLIVE', 'BLOAT', 'BLOBS',
+    'BLIPS', 'BLIST', 'BLITE', 'BLITS', 'BLITZ', 'BLIVE', 'BLOAT', 'BLOBS',
     'BLOCS', 'BLOGS', 'BLOOD', 'BLOOK', 'BLOOM', 'BLOOP', 'BLORE', 'BLOTS',
     'BLOWS', 'BLOWY', 'BLUBS', 'BLUDE', 'BLUDS', 'BLUDY', 'BLUED', 'BLUER', 'BLUES',
     'BLUET', 'BLUEY', 'BLUID', 'BLUME', 'BLUNK', 'BLUNT', 'BLURS', 
@@ -11221,6 +11221,12 @@ export const wordleWords = [
         gameDate: "4/28/25",
         myScore: 4,
         wordNumber: 1409,
+      },
+      {
+        word: "BLISS",
+        gameDate: "4/29/25",
+        myScore: 3,
+        wordNumber: 1410,
       },
   
   ];
