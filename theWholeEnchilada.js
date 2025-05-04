@@ -1393,7 +1393,7 @@ export const dailyWordsSmall = [
     'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
-    'PATSY', 'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
+    'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PITCH', 'PIVOT', 'PIZZA',
     'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POLAR', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
@@ -2252,7 +2252,7 @@ export const dailyWordsLarge = [
     'PARKA', 'PARKI', 'PARKS', 'PARKY', 'PARLE', 'PARLY', 'PARMA', 'PAROL', 'PARPS', 'PARRA',
     'PARRS', 'PARSE', 'PARTI', 'PARTS', 'PARVE', 'PARVO', 'PASEO', 'PASES',
     'PASHA', 'PASHM', 'PASKA', 'PASPY', 'PASSE', 'PASTE', 'PASTS', 'PASTY', 
-    'PATED', 'PATEN', 'PATER', 'PATES', 'PATHS', 'PATIN', 'PATKA', 'PATLY', 'PATSY',
+    'PATED', 'PATEN', 'PATER', 'PATES', 'PATHS', 'PATIN', 'PATKA', 'PATLY',
     'PATTE', 'PATUS', 'PAUAS', 'PAULS', 'PAVAN', 'PAVED', 'PAVEN', 'PAVER',
     'PAVES', 'PAVID', 'PAVIN', 'PAVIS', 'PAWAS', 'PAWAW', 'PAWED', 'PAWER', 'PAWKS', 'PAWKY',
     'PAWLS', 'PAWNS', 'PAXES', 'PAYED', 'PAYEE', 'PAYER', 'PAYOR', 'PAYSD',
@@ -11245,6 +11245,12 @@ export const wordleWords = [
         gameDate: "5/2/25",
         myScore: 3,
         wordNumber: 1413,
+      },
+      {
+        word: "PATSY",
+        gameDate: "5/3/25",
+        myScore: 3,
+        wordNumber: 1414,
       },
   
   ];
