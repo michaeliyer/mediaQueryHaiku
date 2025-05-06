@@ -1414,7 +1414,7 @@ export const dailyWordsSmall = [
     'SHADY', 'SHALE', 'SHALT', 'SHARK', 
     'SHEEN', 'SHEEP', 'SHEER', 'SHEIK', 'SHIED', 'SHINY', 'SHIRT',
     'SHOAL', 'SHOCK', 'SHONE', 'SHOOK', 'SHOOT', 'SHORT', 'SHREW',
-    'SHUCK', 'SHUSH', 'SIEVE', 'SIGMA', 'SILKY', 'SINEW', 'SINGE', 'SIREN',
+    'SHUCK', 'SIEVE', 'SIGMA', 'SILKY', 'SINEW', 'SINGE', 'SIREN',
     'SIXTY', 'SKULK', 'SKULL', 'SLACK', 'SLAIN', 'SLANT', 'SLASH', 'SLAVE', 
     'SLEET', 'SLEPT', 'SLICK', 'SLIDE', 'SLIME', 'SLIMY', 'SLING', 'SLINK',
     'SLOOP', 'SLUNK', 'SLURP', 'SLUSH', 'SLYLY', 'SMACK', 'SMELL', 'SMOKY',
@@ -2451,7 +2451,7 @@ export const dailyWordsLarge = [
     'SHOOK', 'SHOOL', 'SHOON', 'SHOOS', 'SHOOT', 'SHOPE', 'SHOPS', 'SHORL', 
     'SHORT', 'SHOTE', 'SHOTS', 'SHOTT', 'SHOWD', 'SHOWS', 
     'SHOYU', 'SHRED', 'SHREW', 'SHRIS', 'SHROW', 'SHTIK', 'SHTUM', 'SHTUP',
-    'SHUCK', 'SHULE', 'SHULN', 'SHULS', 'SHUNS', 'SHURA', 'SHUSH', 'SHUTE', 'SHUTS',
+    'SHUCK', 'SHULE', 'SHULN', 'SHULS', 'SHUNS', 'SHURA', 'SHUTE', 'SHUTS',
     'SHWAS', 'SHYER', 'SIALS', 'SIBBS', 'SIBYL', 'SICES', 'SICHT', 'SICKO', 'SICKS',
     'SICKY', 'SIDAS', 'SIDED', 'SIDER', 'SIDES', 'SIDHA', 'SIDHE', 'SIDLE', 'SIELD',
     'SIENS', 'SIENT', 'SIETH', 'SIEUR', 'SIEVE', 'SIFTS', 'SIGHS', 'SIGIL', 'SIGLA',
@@ -11258,6 +11258,13 @@ export const wordleWords = [
         myScore: 5,
         wordNumber: 1415,
       },
+      {
+        word: "SHUSH",
+        gameDate: "5/5/25",
+        myScore: 3,
+        wordNumber: 1416,
+      },
+    
   
   ];
 
