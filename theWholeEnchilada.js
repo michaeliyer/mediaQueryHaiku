@@ -1380,7 +1380,7 @@ export const dailyWordsSmall = [
     'LATHE', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
-    'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACHO', 'MACRO', 
+    'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
     'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA', 'MODAL',
@@ -2110,7 +2110,7 @@ export const dailyWordsLarge = [
     'LYCEE', 'LYCRA', 'LYMES', 'LYMPH', 'LYNCH', 'LYNES', 'LYRES', 'LYRIC', 'LYSED',
     'LYSES', 'LYSIN', 'LYSIS', 'LYSOL', 'LYSSA', 'LYTED', 'LYTES', 'LYTHE', 'LYTIC', 'LYTTA',
     'MAAED', 'MAARE', 'MAARS', 'MABES', 'MACAS', 'MACED', 'MACER', 'MACES', 'MACHE',
-    'MACHI', 'MACHO', 'MACHS', 'MACKS', 'MACLE', 'MACON', 'MACRO', 'MADGE', 'MADID',
+    'MACHI', 'MACHS', 'MACKS', 'MACLE', 'MACON', 'MACRO', 'MADGE', 'MADID',
     'MADRE', 'MAERL', 'MAFIA', 'MAFIC', 'MAGES', 'MAGGS', 'MAGOT',
     'MAGUS', 'MAHOE', 'MAHUA', 'MAHWA', 'MAIDS', 'MAIKO', 'MAIKS', 'MAILE', 'MAILL', 'MAILS',
     'MAIMS', 'MAINS', 'MAIRE', 'MAIRS', 'MAISE', 'MAIST', 'MAKAR', 'MAKER',
@@ -2451,7 +2451,7 @@ export const dailyWordsLarge = [
     'SHOOK', 'SHOOL', 'SHOON', 'SHOOS', 'SHOOT', 'SHOPE', 'SHOPS', 'SHORL', 
     'SHORT', 'SHOTE', 'SHOTS', 'SHOTT', 'SHOWD', 'SHOWS', 
     'SHOYU', 'SHRED', 'SHREW', 'SHRIS', 'SHROW', 'SHTIK', 'SHTUM', 'SHTUP',
-    'SHUCK', 'SHULE', 'SHULN', 'SHULS', 'SHUNS', 'SHURA', 'SHUTE', 'SHUTS',
+    'SHUCK', 'SHULE', 'SHULN', 'SHULS', 'SHUNS', 'SHURA', 'SHUSH', 'SHUTE', 'SHUTS',
     'SHWAS', 'SHYER', 'SIALS', 'SIBBS', 'SIBYL', 'SICES', 'SICHT', 'SICKO', 'SICKS',
     'SICKY', 'SIDAS', 'SIDED', 'SIDER', 'SIDES', 'SIDHA', 'SIDHE', 'SIDLE', 'SIELD',
     'SIENS', 'SIENT', 'SIETH', 'SIEUR', 'SIEVE', 'SIFTS', 'SIGHS', 'SIGIL', 'SIGLA',
@@ -11270,7 +11270,12 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1417,
       },
-    
+      {
+        word: "MACHO",
+        gameDate: "5/7/25",
+        myScore: 2,
+        wordNumber: 1418,
+      },
   
   ];
 
@@ -11279,7 +11284,7 @@ export const letterValues = {
     J: 8, K: 5, L: 1, M: 3, N: 1, O: 1, P: 3, Q: 10, R: 1,
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
-console.log("this works fucking great");
+console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girl!")
 
 
