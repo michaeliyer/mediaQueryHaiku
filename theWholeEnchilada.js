@@ -1324,7 +1324,7 @@ export const dailyWordsSmall = [
     'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
     'ARSON', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
-    'AWARE', 'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BALMY', 'BANJO', 'BARON',
+    'AWARE', 'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE', 'BICEP',
     'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
@@ -1523,7 +1523,7 @@ export const dailyWordsLarge = [
     'BAELS', 'BAFFS', 'BAFFY', 'BAFTS', 'BAGGY', 'BAGHS', 'BAGIE', 'BAHTS', 'BAHUS',
     'BAHUT', 'BAILS', 'BAIRN', 'BAISA', 'BAITH', 'BAITS', 'BAIZA', 'BAIZE', 'BAJAN', 'BAJRA',
     'BAJRI', 'BAJUS', 'BAKED', 'BAKEN', 'BAKES', 'BALAS', 'BALDS', 'BALDY', 'BALED',
-    'BALER', 'BALES', 'BALKS', 'BALKY', 'BALLS', 'BALLY', 'BALMS', 'BALMY', 'BALOO', 
+    'BALER', 'BALES', 'BALKS', 'BALKY', 'BALLS', 'BALLY', 'BALMS', 'BALOO', 
     'BALTI', 'BALUN', 'BALUS', 'BAMBI', 'BANAK', 'BANCO', 'BANCS', 'BANDA', 'BANDH',
     'BANDS', 'BANDY', 'BANED', 'BANES', 'BANGS', 'BANIA', 'BANJO', 'BANKS', 'BANNS', 'BANTS',
     'BANTY', 'BANYA', 'BAPUS', 'BARBE', 'BARBS', 'BARBY', 'BARCA', 'BARDE', 'BARDO', 'BARDS',
@@ -11275,6 +11275,12 @@ export const wordleWords = [
         gameDate: "5/7/25",
         myScore: 2,
         wordNumber: 1418,
+      },
+      {
+        word: "BALMY",
+        gameDate: "5/8/25",
+        myScore: 4,
+        wordNumber: 1419,
       },
   
   ];
