@@ -1433,7 +1433,7 @@ export const dailyWordsSmall = [
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
     'THRUM', 'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
-    'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRIPE', 'TRUCE',
+    'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
     'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
     'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
@@ -2621,7 +2621,7 @@ export const dailyWordsLarge = [
     'TREEN', 'TREES', 'TREFA', 'TREIF', 'TREKS', 'TREMA', 'TREMS', 'TRESS', 'TREST',
     'TRETS', 'TREWS', 'TREYF', 'TREYS', 'TRIAC', 'TRIAL', 'TRIBE', 'TRICK',
     'TRIDE', 'TRIED', 'TRIER', 'TRIES', 'TRIFF', 'TRIGO', 'TRIGS', 'TRIKE', 'TRILD', 'TRILL',
-    'TRIMS', 'TRINE', 'TRINS', 'TRIOL', 'TRIOR', 'TRIOS', 'TRIPE', 'TRIPS', 'TRIPY', 'TRIST',
+    'TRIMS', 'TRINE', 'TRINS', 'TRIOL', 'TRIOR', 'TRIOS', 'TRIPS', 'TRIPY', 'TRIST',
     'TROAD', 'TROAK', 'TROAT', 'TROCK', 'TRODE', 'TRODS', 'TROGS', 'TROIS', 'TROKE',
     'TROMP', 'TRONA', 'TRONC', 'TRONE', 'TRONK', 'TRONS', 'TROOZ', 
     'TROTH', 'TROTS', 'TROWS', 'TROYS', 'TRUCE', 'TRUCK', 'TRUED', 'TRUER',
@@ -11281,6 +11281,12 @@ export const wordleWords = [
         gameDate: "5/8/25",
         myScore: 4,
         wordNumber: 1419,
+      },
+      {
+        word: "TRIPE",
+        gameDate: "5/9/25",
+        myScore: 3,
+        wordNumber: 1420,
       },
   
   ];
