@@ -1443,7 +1443,7 @@ export const dailyWordsSmall = [
     'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WITTY', 'WOMEN', 'WOODY', 'WOOLY',
-    'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 'YEAST',
+    'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 
     'ZONAL'
 ];
 
@@ -2732,7 +2732,7 @@ export const dailyWordsLarge = [
     'YANKS', 'YAPOK', 'YAPON', 'YAPPS', 'YAPPY', 'YARAK', 'YARCO', 'YARDS', 'YARER', 'YARFA',
     'YARKS', 'YARNS', 'YARRS', 'YARTA', 'YARTO', 'YATES', 'YAUDS', 'YAULD', 'YAUPS', 'YAWED',
     'YAWEY', 'YAWLS', 'YAWNS', 'YAWNY', 'YAWPS', 'YBORE', 'YCLAD', 'YCLED', 'YCOND', 'YDRAD',
-    'YDRED', 'YEADS', 'YEAHS', 'YEALM', 'YEANS', 'YEARD', 'YEARS', 'YEAST', 'YECCH',
+    'YDRED', 'YEADS', 'YEAHS', 'YEALM', 'YEANS', 'YEARD', 'YEARS', 'YECCH',
     'YECHS', 'YECHY', 'YEDES', 'YEEDS', 'YEESH', 'YEGGS', 'YELKS', 'YELLS', 'YELMS', 'YELPS',
     'YELTS', 'YENTA', 'YENTE', 'YERBA', 'YERDS', 'YERKS', 'YESES', 'YESKS', 'YESTS', 'YESTY',
     'YETIS', 'YETTS', 'YEUKS', 'YEUKY', 'YEVEN', 'YEVES', 'YEWEN', 'YEXED', 'YEXES', 'YFERE',
@@ -11288,7 +11288,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1420,
       },
-  
+      {
+        word: "YEAST",
+        gameDate: "5/10/25",
+        myScore: 3,
+        wordNumber: 1421,
+      },
   ];
 
 export const letterValues = {
