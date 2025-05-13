@@ -1326,7 +1326,7 @@ export const dailyWordsSmall = [
     'ARSON', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWARE', 'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
-    'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE', 'BICEP',
+    'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
     'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
     'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLINK', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOARD', 'BOBBY', 'BONEY', 'BONGO', 
@@ -1348,7 +1348,7 @@ export const dailyWordsSmall = [
     'DECOR', 'DEFER', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
-    'DOGMA', 'DOUGH', 'DOWDY', 'DOWEL', 'DOWNY', 'DRAKE', 'DRAMA',
+    'DOGMA', 'DOUGH', 'DOWDY', 'DOWNY', 'DRAKE', 'DRAMA',
     'DRANK', 'DRAPE', 'DRAWL', 'DREAD', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
     'DROIT', 'DRONE', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING', 'EAGER',  
@@ -1549,7 +1549,7 @@ export const dailyWordsLarge = [
     'BETED', 'BETEL', 'BETES', 'BETHS', 'BETID', 'BETON', 'BETTA', 'BETTY', 'BEVER',
     'BEVOR', 'BEVUE', 'BEVVY', 'BEWET', 'BEWIG', 'BEZEL', 'BEZES', 'BEZIL', 'BEZZY', 'BHAIS',
     'BHAJI', 'BHANG', 'BHATS', 'BHELS', 'BHOOT', 'BHUNA', 'BHUTS', 'BIACH', 'BIALI', 'BIALY',
-    'BIBBS', 'BIBES', 'BIBLE', 'BICCY', 'BICEP', 'BICES', 'BIDDY', 'BIDED', 'BIDER', 'BIDES',
+    'BIBBS', 'BIBES', 'BIBLE', 'BICCY', 'BICES', 'BIDDY', 'BIDED', 'BIDER', 'BIDES',
     'BIDET', 'BIDIS', 'BIDON', 'BIELD', 'BIERS', 'BIFFO', 'BIFFS', 'BIFFY', 'BIFID', 'BIGAE',
     'BIGGS', 'BIGGY', 'BIGHA', 'BIGHT', 'BIGLY', 'BIGOS', 'BIGOT', 'BIJOU', 'BIKED', 'BIKER',
     'BIKES', 'BIKIE', 'BILBO', 'BILBY', 'BILED', 'BILES', 'BILGE', 'BILGY', 'BILKS', 'BILLS',
@@ -1750,7 +1750,7 @@ export const dailyWordsLarge = [
     'DOSAI', 'DOSAS', 'DOSED', 'DOSEH', 'DOSER', 'DOSES', 'DOSHA', 'DOTAL', 'DOTED', 'DOTER',
     'DOTES', 'DOTTY', 'DOUAR', 'DOUCE', 'DOUCS', 'DOUGH', 'DOUKS', 'DOULA', 'DOUMA',
     'DOUMS', 'DOUPS', 'DOURA', 'DOUSE', 'DOUTS', 'DOVED', 'DOVEN', 'DOVER', 'DOVES', 'DOVIE',
-    'DOWAR', 'DOWDS', 'DOWDY', 'DOWED', 'DOWEL', 'DOWER', 'DOWIE', 'DOWLE', 'DOWLS', 'DOWLY',
+    'DOWAR', 'DOWDS', 'DOWDY', 'DOWED', 'DOWER', 'DOWIE', 'DOWLE', 'DOWLS', 'DOWLY',
     'DOWNA', 'DOWNS', 'DOWNY', 'DOWPS', 'DOWSE', 'DOWTS', 'DOXED', 'DOXES', 'DOXIE',
     'DOYEN', 'DOYLY', 'DOZED', 'DOZER', 'DOZES', 'DRABS', 'DRACK', 'DRACO', 'DRAFF',
     'DRAGS', 'DRAIL', 'DRAKE', 'DRAMA', 'DRAMS', 'DRANK', 'DRANT', 'DRAPE',
@@ -11294,6 +11294,18 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1421,
       },
+      {
+        word: "DOWEL",
+        gameDate: "5/11/25",
+        myScore: 4,
+        wordNumber: 1422,
+      },
+      {
+        word: "BICEP",
+        gameDate: "5/12/25",
+        myScore: 3,
+        wordNumber: 1423,
+      },
   ];
 
 export const letterValues = {
@@ -11302,6 +11314,6 @@ export const letterValues = {
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
 console.log("this works goddamn fucking great");
-console.log("real eefin nice like, Girl!")
+console.log("real eefin nice like, Girly Girl!")
 
 
