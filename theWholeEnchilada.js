@@ -1324,7 +1324,7 @@ export const dailyWordsSmall = [
     'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
     'ARSON', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
-    'AWARE', 'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BANJO', 'BARON',
+    'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
     'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
@@ -1512,7 +1512,7 @@ export const dailyWordsLarge = [
     'AUNTS', 'AUNTY', 'AURAE', 'AURAL', 'AURAR', 'AURAS', 'AUREI', 'AURES', 'AURIC', 'AURIS',
     'AURUM', 'AUTOS', 'AUXIN', 'AVALE', 'AVANT', 'AVAST', 'AVELS', 'AVENS', 'AVERS',
     'AVGAS', 'AVIAN', 'AVINE', 'AVION', 'AVISE', 'AVISO', 'AVIZE', 'AVOID', 'AVOWS',
-    'AVYZE', 'AWARE', 'AWARN', 'AWATO', 'AWAVE', 'AWAYS',
+    'AVYZE', 'AWARN', 'AWATO', 'AWAVE', 'AWAYS',
     'AWDLS', 'AWEEL', 'AWETO', 'AWING', 'AWMRY', 'AWNED', 'AWNER', 'AWOKE', 'AWOLS',
     'AWORK', 'AXELS', 'AXIAL', 'AXILE', 'AXILS', 'AXING', 'AXION', 'AXITE', 'AXLED',
     'AXLES', 'AXMAN', 'AXMEN', 'AXOID', 'AXONE', 'AXONS', 'AYAHS', 'AYAYA', 'AYELP', 'AYGRE',
@@ -11305,6 +11305,12 @@ export const wordleWords = [
         gameDate: "5/12/25",
         myScore: 3,
         wordNumber: 1423,
+      },
+      {
+        word: "AWARE",
+        gameDate: "5/13/25",
+        myScore: 3,
+        wordNumber: 1424,
       },
   ];
 
