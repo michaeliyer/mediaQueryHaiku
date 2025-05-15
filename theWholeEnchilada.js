@@ -1329,7 +1329,7 @@ export const dailyWordsSmall = [
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
     'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
     'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLINK', 'BLITZ',
-    'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOARD', 'BOBBY', 'BONEY', 'BONGO', 
+    'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOARD', 'BOBBY', 'BONEY', 
     'BOOTH', 'BORNE', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
     'BRAND', 'BRAWL', 'BRICK', 'BROIL',
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BULGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
@@ -1573,7 +1573,7 @@ export const dailyWordsLarge = [
     'BOGEY', 'BOGGY', 'BOGIE', 'BOGLE', 'BOGUE', 'BOGUS', 'BOHEA', 'BOHOS', 'BOILS', 'BOING',
     'BOINK', 'BOITE', 'BOKED', 'BOKEH', 'BOKES', 'BOKOS', 'BOLAR', 'BOLAS', 'BOLDS', 'BOLES',
     'BOLIX', 'BOLLS', 'BOLOS', 'BOLTS', 'BOLUS', 'BOMAS', 'BOMBE',
-    'BOMBO', 'BOMBS', 'BONCE', 'BONDS', 'BONED', 'BONER', 'BONES', 'BONEY', 'BONGO', 'BONGS',
+    'BOMBO', 'BOMBS', 'BONCE', 'BONDS', 'BONED', 'BONER', 'BONES', 'BONEY', 'BONGS',
     'BONIE', 'BONKS', 'BONNE', 'BONNY', 'BONZA', 'BONZE', 'BOOAI', 'BOOAY', 'BOOBS',
     'BOODY', 'BOOED', 'BOOFY', 'BOOGY', 'BOOHS', 'BOOKS', 'BOOKY', 'BOOLS', 'BOOMS',
     'BOOMY', 'BOONS', 'BOORD', 'BOORS', 'BOOSE', 'BOOTH', 'BOOTS',
@@ -11311,6 +11311,12 @@ export const wordleWords = [
         gameDate: "5/13/25",
         myScore: 3,
         wordNumber: 1424,
+      },
+      {
+        word: "BONGO",
+        gameDate: "5/14/25",
+        myScore: 4,
+        wordNumber: 1425,
       },
   ];
 
