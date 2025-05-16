@@ -1351,7 +1351,7 @@ export const dailyWordsSmall = [
     'DOGMA', 'DOUGH', 'DOWDY', 'DOWNY', 'DRAKE', 'DRAMA',
     'DRANK', 'DRAPE', 'DRAWL', 'DREAD', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
     'DROIT', 'DRONE', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
-    'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING', 'EAGER',  
+    'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING',   
     'EATEN', 'EATER', 'ECLAT', 'EDIFY', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'ELITE', 'EMBED', 'EMCEE', 'ENEMY', 
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
@@ -1771,7 +1771,7 @@ export const dailyWordsLarge = [
     'DURRA', 'DURRS', 'DURRY', 'DURST', 'DURUM', 'DURZI', 'DUSKS', 'DUSKY', 'DUSTS', 'DUSTY',
     'DUXES', 'DWAAL', 'DWALE', 'DWALM', 'DWAMS', 'DWANG', 'DWAUM',
     'DWEEB', 'DWILE', 'DWINE', 'DYADS', 'DYERS', 'DYING', 'DYKED', 'DYKES',
-    'DYKON', 'DYNEL', 'DYNES', 'EAGER', 'EAGRE', 'EALED', 'EALES', 'EANED', 'EARDS',
+    'DYKON', 'DYNEL', 'DYNES', 'EAGRE', 'EALED', 'EALES', 'EANED', 'EARDS',
     'EARED', 'EARLS', 'EARNS', 'EARNT', 'EARST', 'EASED', 'EASER',
     'EASES', 'EASLE', 'EASTS', 'EATEN', 'EATER', 'EATHE', 'EAVED', 'EAVES', 'EBBED', 'EBBET',
     'EBONS', 'EBOOK', 'ECADS', 'ECHED', 'ECHES', 'ECHOS', 'ECLAT', 'ECRUS', 'EDEMA',
@@ -1810,7 +1810,7 @@ export const dailyWordsLarge = [
     'FARAD', 'FARCI', 'FARCY', 'FARDS', 'FARED', 'FARER', 'FARES', 'FARLE', 'FARLS',
     'FARMS', 'FAROS', 'FARRO', 'FARSE', 'FARTS', 'FASCI', 'FASTI', 'FASTS', 'FATAL', 'FATED',
     'FATES', 'FATLY', 'FATSO', 'FATTY', 'FATWA', 'FAUGH', 'FAULD', 'FAUNA', 'FAUNS',
-    'FAURD', 'FAUTS', 'FAUVE', 'FAVAS', 'FAVEL', 'FAVER', 'FAVES',  'FAVUS', 'FAWNS',
+    'FAURD', 'FAUTS', 'FAUVE', 'FAVAS', 'FAVEL', 'FAVER', 'FAVES', 'FAVUS', 'FAWNS',
     'FAWNY', 'FAXED', 'FAXES', 'FAYED', 'FAYER', 'FAYNE', 'FAYRE', 'FAZED', 'FAZES', 'FEALS',
     'FEARE', 'FEARS', 'FEART', 'FEASE', 'FEATS', 'FEAZE', 'FECAL', 'FECES', 'FECHT',
     'FECIT', 'FECKS', 'FEDEX', 'FEEBS', 'FEEDS', 'FEELS', 'FEENS', 'FEERS', 'FEESE', 'FEEZE',
@@ -11318,6 +11318,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1425,
       },
+      {
+        word: "EAGER",
+        gameDate: "5/15/25",
+        myScore: 6,
+        wordNumber: 1426,
+      },
   ];
 
 export const letterValues = {
@@ -11327,5 +11333,3 @@ export const letterValues = {
 };
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
-
-
