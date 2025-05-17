@@ -1357,7 +1357,7 @@ export const dailyWordsSmall = [
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
     'EXILE', 'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 
     'FANNY', 'FATAL', 'FATTY', 'FAUNA', 'FECAL', 'FELLA', 'FELON', 'FEMME', 'FEMUR', 'FENCE',
-    'FETAL', 'FETCH', 'FETID', 'FETUS', 'FICUS', 'FIERY', 'FIFTH',
+    'FETAL', 'FETCH', 'FETID', 'FETUS', 'FICUS', 'FIERY', 
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
     'FLECK', 'FLEET', 'FLIER', 'FLUID', 'FLUKE', 
     'FLUSH', 'FLUTE', 'FOIST', 'FOLIO', 'FORUM', 'FRAUD',
@@ -1822,7 +1822,7 @@ export const dailyWordsLarge = [
     'FETWA', 'FEUAR', 'FEUDS', 'FEUED', 'FEYED', 'FEYER', 'FEYLY', 'FEZES',
     'FEZZY', 'FIARS', 'FIATS', 'FIBRE', 'FIBRO', 'FICES', 'FICHE', 'FICHU', 'FICIN',
     'FICOS', 'FICUS', 'FIDES', 'FIDGE', 'FIDOS', 'FIEFS', 'FIENT', 'FIERE',
-    'FIERS', 'FIERY', 'FIEST', 'FIFED', 'FIFER', 'FIFES', 'FIFIS', 'FIFTH', 'FIGGY',
+    'FIERS', 'FIERY', 'FIEST', 'FIFED', 'FIFER', 'FIFES', 'FIFIS', 'FIGGY',
     'FIGHT', 'FIGOS', 'FIKED', 'FIKES', 'FILAR', 'FILCH', 'FILED', 'FILER', 'FILES',
     'FILII', 'FILKS', 'FILLE', 'FILLO', 'FILLS', 'FILLY', 'FILMI', 'FILMS', 'FILMY', 'FILOS',
     'FILTH', 'FILUM', 'FINCA', 'FINDS', 'FINED', 'FINES', 'FINIS',
@@ -11323,6 +11323,12 @@ export const wordleWords = [
         gameDate: "5/15/25",
         myScore: 6,
         wordNumber: 1426,
+      },
+      {
+        word: "FIFTH",
+        gameDate: "5/16/25",
+        myScore: 4,
+        wordNumber: 1427,
       },
   ];
 
