@@ -1367,7 +1367,7 @@ export const dailyWordsSmall = [
     'GHOST', 'GIPSY', 'GIRLY', 'GIVER', 'GLADE', 'GLARE', 'GLINT', 'GLOSS', 'GNOME',
     'GODLY', 'GOLLY', 'GONAD', 'GOOEY', 'GOURD', 'GRAFT', 
     'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GRILL', 'GROAN',
-    'GROPE', 'GROSS', 'GROWN', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
+    'GROPE', 'GROSS', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
     'GUISE', 'GULCH', 'GUMBO', 'GUSTO', 'GYPSY', 'HABIT', 'HALAL', 
     'HARDY', 'HAREM', 'HARPY', 'HARRY', 'HASTE', 'HASTY', 'HAUNT', 'HAUTE', 'HAVEN',
     'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
@@ -1915,7 +1915,7 @@ export const dailyWordsLarge = [
     'GRIOT', 'GRIPS', 'GRIPT', 'GRIPY', 'GRISE', 'GRIST', 'GRISY', 'GRITH', 'GRITS',
     'GRIZE', 'GROAN', 'GROAT', 'GRODY', 'GROGS', 'GROKS', 'GROMA', 'GRONE', 'GROOF',
     'GROPE', 'GROSS', 'GROSZ', 'GROTS', 'GROUF', 'GROVY',
-    'GROWN', 'GROWS', 'GRRLS', 'GRRRL', 'GRUBS', 'GRUED', 'GRUES', 'GRUFE',
+    'GROWS', 'GRRLS', 'GRRRL', 'GRUBS', 'GRUED', 'GRUES', 'GRUFE',
     'GRUFF', 'GRUME', 'GRUMP', 'GRUND', 'GRUNT', 'GRYCE', 'GRYDE', 'GRYKE', 'GRYPE', 'GRYPT',
     'GUACO', 'GUANA', 'GUANS', 'GUARS', 'GUAVA', 'GUCKS', 'GUCKY', 'GUDES',
     'GUESS', 'GUFFS', 'GUGAS', 'GUIDS', 'GUILT', 'GUIMP',
@@ -11329,6 +11329,12 @@ export const wordleWords = [
         gameDate: "5/16/25",
         myScore: 4,
         wordNumber: 1427,
+      },
+      {
+        word: "GROWN",
+        gameDate: "5/17/25",
+        myScore: 4,
+        wordNumber: 1428,
       },
   ];
 
