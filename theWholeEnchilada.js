@@ -1378,7 +1378,7 @@ export const dailyWordsSmall = [
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'LADEN', 'LANCE', 'LATCH', 'LATER',
     'LATHE', 'LEACH', 'LEANT', 'LEASE', 'LEAST', 'LEFTY', 'LEGAL',
-    'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LIVID', 'LLAMA',
+    'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
     'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
@@ -2085,7 +2085,7 @@ export const dailyWordsLarge = [
     'LINKS', 'LINKY', 'LINNS', 'LINNY', 'LINOS', 'LINTS', 'LINTY', 'LINUM', 'LINUX', 'LIONS',
     'LIPAS', 'LIPES', 'LIPID', 'LIPIN', 'LIPOS', 'LIPPY', 'LIRAS', 'LIRKS', 'LIROT', 'LISKS',
     'LISLE', 'LISPS', 'LISTS', 'LITAI', 'LITAS', 'LITED', 'LITER', 'LITES', 'LITHO',
-    'LITHS', 'LITRE', 'LIVED', 'LIVEN', 'LIVES', 'LIVID', 'LIVOR', 'LIVRE', 'LLAMA',
+    'LITHS', 'LITRE', 'LIVED', 'LIVEN', 'LIVES', 'LIVOR', 'LIVRE', 'LLAMA',
     'LLANO', 'LOACH', 'LOADS', 'LOAFS', 'LOAMS', 'LOAMY', 'LOANS', 'LOAST', 'LOATH', 'LOAVE',
     'LOBAR', 'LOBBY', 'LOBED', 'LOBES', 'LOBOS', 'LOBUS', 'LOCHE', 'LOCHS', 'LOCIE',
     'LOCIS', 'LOCKS', 'LOCOS', 'LOCUM', 'LODEN', 'LODES', 'LOESS', 'LOFTS',
@@ -11335,6 +11335,12 @@ export const wordleWords = [
         gameDate: "5/17/25",
         myScore: 4,
         wordNumber: 1428,
+      },
+      {
+        word: "LIVID",
+        gameDate: "5/18/25",
+        myScore: 4,
+        wordNumber: 1429,
       },
   ];
 
