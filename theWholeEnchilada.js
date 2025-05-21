@@ -1,5 +1,5 @@
 export const fixedWordsLarge = [
-    'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'ZZQQJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QUJZX', 
+    'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'ZZQQJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
     'ABAMP', 'ABAND', 'ABASE', 'ABASH', 'ABASK', 'ABATE', 'ABAYA', 'ABBAS', 'ABBED', 'ABBES',
     'ABBEY', 'ABBOT', 'ABCEE', 'ABEAM', 'ABEAR', 'ABELE', 'ABERS', 'ABETS', 'ABHOR', 'ABIDE',
@@ -1330,7 +1330,7 @@ export const dailyWordsSmall = [
     'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
     'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLINK', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOARD', 'BOBBY', 'BONEY', 
-    'BOOTH', 'BORNE', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
+    'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
     'BRAND', 'BRAWL', 'BRICK', 'BROIL',
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BULGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
@@ -1578,7 +1578,7 @@ export const dailyWordsLarge = [
     'BOODY', 'BOOED', 'BOOFY', 'BOOGY', 'BOOHS', 'BOOKS', 'BOOKY', 'BOOLS', 'BOOMS',
     'BOOMY', 'BOONS', 'BOORD', 'BOORS', 'BOOSE', 'BOOTH', 'BOOTS',
     'BOPPY', 'BORAK', 'BORAL', 'BORAS', 'BORDE', 'BORDS', 'BORED', 'BOREE',
-    'BOREL', 'BORER', 'BORES', 'BORGO', 'BORIC', 'BORKS', 'BORMS', 'BORNA', 'BORNE', 'BORON',
+    'BOREL', 'BORER', 'BORES', 'BORGO', 'BORIC', 'BORKS', 'BORMS', 'BORNA', 'BORON',
     'BORTS', 'BORTY', 'BORTZ', 'BOSIE', 'BOSKS', 'BOSKY', 'BOSOM', 'BOSON', 'BOSUN',
     'BOTAS', 'BOTCH', 'BOTEL', 'BOTES', 'BOTHY', 'BOTTE', 'BOTTS', 'BOTTY', 'BOUGE', 
     'BOUKS', 'BOULE', 'BOULT', 'BOUND', 'BOUNS', 'BOURD', 'BOURG', 'BOURN', 'BOUSE', 'BOUSY',
@@ -11347,6 +11347,12 @@ export const wordleWords = [
         gameDate: "5/19/25",
         myScore: 3,
         wordNumber: 1430,
+      },
+      {
+        word: "BORNE",
+        gameDate: "5/20/25",
+        myScore: 4,
+        wordNumber: 1431,
       },
   ];
 
