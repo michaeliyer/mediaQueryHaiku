@@ -26,9 +26,9 @@ export const fixedWordsLarge = [
     'AIMUS', 'AIOLI', 'AIRED', 'AIRER', 'AIRNS', 'AIRTH', 'AIRTS', 'AISLE', 'AITCH', 'AITUS',
     'AIVER', 'AJIES', 'AJIVA', 'AJUGA', 'AJWAN', 'AKEES', 'AKELA', 'AKENE', 'AKING', 'AKITA',
     'AKKAS', 'ALAAP', 'ALACK', 'ALAMO', 'ALAND', 'ALANE', 'ALANG', 'ALANS', 'ALANT', 'ALAPA',
-    'ALAPS', 'ALARY', 'ALATE', 'ALAYS', 'ALBAS', 'ALBEE', 'ALBUG', 'ALBUM', 'ALCID', 'ALDER', 
-    'ALDOL', 'ALECK', 'ALECS', 'ALEFS', 'ALEPH', 'ALERT', 'ALEWS', 'ALEYE', 'ALFAS', 'ALGAE', 
-    'ALGAL', 'ALGAS',
+    'ALAPS', 'ALARM', 'ALARY', 'ALATE', 'ALAYS', 'ALBAS', 'ALBEE', 'ALBUG', 'ALBUM', 'ALCID', 
+    'ALDER', 'ALDOL', 'ALECK', 'ALECS', 'ALEFS', 'ALEPH', 'ALERT', 'ALEWS', 'ALEYE', 'ALFAS', 
+    'ALGAE', 'ALGAL', 'ALGAS',
     'ALGID', 'ALGIN', 'ALGOL', 'ALIAS', 'ALIBI', 'ALIEN', 'ALIFS', 'ALIGN', 'ALIKE', 'ALINE',
     'ALIST', 'ALIVE', 'ALIYA', 'ALKIE', 'ALKOS', 'ALKYD', 'ALKYL', 'ALLEE', 'ALLEY', 'ALLIS',
     'ALLOD', 'ALLOT', 'ALLOW', 'ALLOY', 'ALLYL', 'ALMAH', 'ALMAS', 'ALMEH', 'ALMES', 'ALMUD',
@@ -1319,7 +1319,7 @@ console.log("Fuck man");
 
 export const dailyWordsSmall = [
     'ABBOT', 'ABHOR', 'ABLED', 'ABODE', 'ABORT', 'ABUSE', 'ADMIN',
-    'ADORN', 'AFIRE', 'AFOOT', 'AFOUL', 'AIDER', 'ALARM', 'ALGAE',
+    'ADORN', 'AFIRE', 'AFOOT', 'AFOUL', 'AIDER', 'ALGAE',
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'ALONG', 'AMAZE', 'AMEND',
     'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
@@ -11354,6 +11354,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1431,
       },
+      {
+        word: "ALARM",
+        gameDate: "5/21/25",
+        myScore: 43,
+        wordNumber: 1432,
+      }
   ];
 
 export const letterValues = {
