@@ -1911,7 +1911,7 @@ export const dailyWordsLarge = [
     'GRAPY', 'GRASS', 'GRAVE', 'GRAVS', 'GRAVY', 'GRAYS', 'GRAZE',
     'GREBE', 'GREBO', 'GRECE', 'GREEK', 'GREES', 'GREGE',
     'GREGO', 'GREIN', 'GRENS', 'GRESE', 'GREVE', 'GREWS', 'GREYS', 'GRICE', 'GRIDE', 'GRIDS',
-    'GRIFF', 'GRIFT', 'GRIGS', 'GRIKE', 'GRILL', 'GRINS',
+    'GRIFF', 'GRIGS', 'GRIKE', 'GRILL', 'GRINS',
     'GRIOT', 'GRIPS', 'GRIPT', 'GRIPY', 'GRISE', 'GRIST', 'GRISY', 'GRITH', 'GRITS',
     'GRIZE', 'GROAN', 'GROAT', 'GRODY', 'GROGS', 'GROKS', 'GROMA', 'GRONE', 'GROOF',
     'GROPE', 'GROSS', 'GROSZ', 'GROTS', 'GROUF', 'GROVY',
@@ -11377,6 +11377,12 @@ export const wordleWords = [
         gameDate: "5/24/25",
         myScore: 3,
         wordNumber: 1435,
+      },
+      {
+        word: "GRIFT",
+        gameDate: "5/25/25",
+        myScore: 4,
+        wordNumber: 1436,
       }
   ];
 
