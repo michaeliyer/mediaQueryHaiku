@@ -1350,7 +1350,7 @@ export const dailyWordsSmall = [
     'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOUGH', 'DOWDY', 'DOWNY', 'DRAKE', 'DRAMA',
     'DRANK', 'DRAPE', 'DRAWL', 'DREAD', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
-    'DROIT', 'DRONE', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
+    'DROIT', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING',   
     'EATEN', 'EATER', 'ECLAT', 'EDIFY', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'ELITE', 'EMBED', 'EMCEE', 'ENEMY', 
@@ -1758,7 +1758,7 @@ export const dailyWordsLarge = [
     'DRECK', 'DREED', 'DREER', 'DREES', 'DREGS', 'DREKS', 'DRENT', 'DRERE', 'DRESS', 'DREST',
     'DREYS', 'DRIBS', 'DRICE', 'DRIED', 'DRIER', 'DRIES', 'DRIFT', 'DRILL', 'DRILY', 
     'DRIPS', 'DRIPT', 'DROID', 'DROIL', 'DROIT', 'DROKE', 'DROLE', 'DROME',
-    'DRONE', 'DRONY', 'DROOB', 'DROOG', 'DROOK', 'DROPS', 'DROPT', 'DROSS', 
+    'DRONY', 'DROOB', 'DROOG', 'DROOK', 'DROPS', 'DROPT', 'DROSS', 
     'DROUK', 'DROWN', 'DROWS', 'DRUBS', 'DRUGS', 'DRUID', 'DRUMS', 'DRUNK', 'DRUPE', 
     'DRUSE', 'DRUSY', 'DRUXY', 'DRYAD', 'DRYAS', 'DRYLY', 'DSOBO', 'DSOMO', 'DUADS', 
     'DUALS', 'DUANS', 'DUARS', 'DUBBO', 'DUCAL', 'DUCAT', 'DUCES',
@@ -11383,6 +11383,12 @@ export const wordleWords = [
         gameDate: "5/25/25",
         myScore: 4,
         wordNumber: 1436,
+      },
+      {
+        word: "DRONE",
+        gameDate: "5/26/25",
+        myScore: 3,
+        wordNumber: 1437,
       }
   ];
 
