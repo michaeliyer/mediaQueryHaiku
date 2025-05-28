@@ -1396,7 +1396,7 @@ export const dailyWordsSmall = [
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PIVOT', 'PIZZA',
     'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
-    'POESY', 'POLAR', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
+    'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRANK', 'PRAWN', 'PREEN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
     'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAIL', 'QUAKE',
@@ -2291,7 +2291,7 @@ export const dailyWordsLarge = [
     'PLUTO', 'PLYER', 'POACH', 'POAKA', 'POAKE', 'POBOY', 'POCKS', 'POCKY', 'PODAL', 'PODDY',
     'PODEX', 'PODGE', 'PODGY', 'PODIA', 'POEMS', 'POEPS', 'POESY', 'POETS', 'POGEY', 'POGGE',
     'POGOS', 'POHED', 'POILU', 'POIND', 'POKAL', 'POKED', 'POKES',
-    'POKEY', 'POKIE', 'POLAR', 'POLED', 'POLER', 'POLES', 'POLEY', 'POLIO', 'POLIS', 'POLJE',
+    'POKEY', 'POKIE', 'POLED', 'POLER', 'POLES', 'POLEY', 'POLIO', 'POLIS', 'POLJE',
     'POLKS', 'POLLS', 'POLLY', 'POLOS', 'POLTS', 'POLYS', 'POMBE', 'POMES',
     'POMMY', 'POMOS', 'POMPS', 'PONCE', 'PONCY', 'PONDS', 'PONES', 'PONEY', 'PONGA', 'PONGO',
     'PONGS', 'PONGY', 'PONKS', 'PONTS', 'PONTY', 'PONZU', 'POOCH', 'POODS', 'POOED', 'POOHS',
@@ -11395,6 +11395,12 @@ export const wordleWords = [
         gameDate: "5/27/25",
         myScore: 2,
         wordNumber: 1438,
+      },
+      {
+        word: "POLAR",
+        gameDate: "5/28/25",
+        myScore: 2,
+        wordNumber: 1439,
       }
   ];
 
