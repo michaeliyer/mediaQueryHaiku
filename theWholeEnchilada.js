@@ -1421,7 +1421,7 @@ export const dailyWordsSmall = [
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
     'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 
     'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
-    'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 'SPORT',
+    'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
     'STEER', 'STILT', 'STOKE', 'STOOP', 'STORK', 
@@ -2516,7 +2516,7 @@ export const dailyWordsLarge = [
     'SPIMS', 'SPINA', 'SPINK', 'SPINS', 'SPINY', 'SPIRT', 'SPIRY', 
     'SPITS', 'SPITZ', 'SPIVS', 'SPLAY', 'SPLIT', 'SPLOG', 'SPODE', 'SPODS', 'SPOIL',
     'SPOOF', 'SPOOK', 'SPOOL', 'SPOOM', 'SPOOR', 'SPOOT', 'SPORE', 'SPORK',
-    'SPORT', 'SPOSH', 'SPOTS', 'SPRAD', 'SPRAG', 'SPRAT', 'SPRED', 'SPREE',
+    'SPOSH', 'SPOTS', 'SPRAD', 'SPRAG', 'SPRAT', 'SPRED', 'SPREE',
     'SPREW', 'SPRIT', 'SPROD', 'SPROG', 'SPRUE', 'SPRUG', 'SPUDS', 'SPUED', 'SPUER',
     'SPUES', 'SPUGS', 'SPULE', 'SPUME', 'SPUMY', 'SPUNK', 'SPURN', 'SPURS', 'SPUTA',
     'SPYAL', 'SPYRE', 'SQUAB', 'SQUEG', 'SQUIB', 'SQUIT', 'SQUIZ',
@@ -11389,6 +11389,12 @@ export const wordleWords = [
         gameDate: "5/26/25",
         myScore: 3,
         wordNumber: 1437,
+      },
+      {
+        word: "SPORT",
+        gameDate: "5/27/25",
+        myScore: 2,
+        wordNumber: 1438,
       }
   ];
 
