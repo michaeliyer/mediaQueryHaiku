@@ -1372,7 +1372,7 @@ export const dailyWordsSmall = [
     'HARDY', 'HAREM', 'HARPY', 'HARRY', 'HASTE', 'HASTY', 'HAUNT', 'HAUTE', 'HAVEN',
     'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
-    'HYMEN', 'ICILY', 'IDEAL', 'IDIOM', 'IDIOT', 'IDYLL', 'ILIAC',
+    'HYMEN', 'ICILY', 'IDEAL', 'IDIOT', 'IDYLL', 'ILIAC', 
     'IMBUE', 'IMPLY', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
@@ -1978,7 +1978,7 @@ export const dailyWordsLarge = [
     'HYLIC', 'HYMEN', 'HYMNS', 'HYNDE', 'HYOID', 'HYPED', 'HYPES', 'HYPHA', 'HYPHY',
     'HYPOS', 'HYRAX', 'HYSON', 'HYTHE', 'IAMBI', 'IAMBS', 'IBRIK', 'ICERS', 'ICHED', 'ICHES',
     'ICHOR', 'ICIER', 'ICILY', 'ICKER', 'ICKLE', 'ICONS', 'ICTAL', 'ICTIC', 'ICTUS',
-    'IDANT', 'IDEAL', 'IDEAS', 'IDEES', 'IDENT', 'IDIOM', 'IDIOT', 'IDLED', 'IDLES',
+    'IDANT', 'IDEAL', 'IDEAS', 'IDEES', 'IDENT', 'IDIOT', 'IDLED', 'IDLES',
     'IDOLA', 'IDOLS', 'IDYLL', 'IDYLS', 'IFTAR', 'IGAPO', 'IGGED', 'IGLUS', 'IHRAM',
     'IKANS', 'IKATS', 'IKONS', 'ILEAC', 'ILEAL', 'ILEUM', 'ILEUS', 'ILIAC', 'ILIAD', 'ILIAL',
     'ILIUM', 'ILLER', 'ILLTH', 'IMAGO', 'IMAMS', 'IMARI', 'IMAUM', 'IMBAR', 'IMBED',
@@ -11407,6 +11407,12 @@ export const wordleWords = [
         gameDate: "5/29/25",
         myScore: 4,
         wordNumber: 1440,
+      },
+      {
+        word: "IDIOM",
+        gameDate: "5/30/25",
+        myScore: 4,
+        wordNumber: 1441,
       },
   ];
 
