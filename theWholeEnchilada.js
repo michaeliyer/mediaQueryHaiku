@@ -1368,7 +1368,7 @@ export const dailyWordsSmall = [
     'GODLY', 'GOLLY', 'GONAD', 'GOOEY', 'GOURD', 'GRAFT', 
     'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GRILL', 'GROAN',
     'GROPE', 'GROSS', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
-    'GUISE', 'GULCH', 'GUMBO', 'GUSTO', 'GYPSY', 'HABIT', 'HALAL', 
+    'GUISE', 'GULCH', 'GUMBO', 'GUSTO', 'GYPSY', 'HALAL', 
     'HARDY', 'HAREM', 'HARPY', 'HARRY', 'HASTE', 'HASTY', 'HAUNT', 'HAUTE', 'HAVEN',
     'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
@@ -1927,7 +1927,7 @@ export const dailyWordsLarge = [
     'GUYSE', 'GWINE', 'GYALS', 'GYANS', 'GYBED', 'GYBES', 'GYELD', 'GYMPS', 'GYNAE', 'GYNIE',
     'GYNNY', 'GYNOS', 'GYOZA', 'GYPOS', 'GYPPY', 'GYPSY', 'GYRAL', 'GYRED', 'GYRES', 'GYRON',
     'GYROS', 'GYRUS', 'GYTES', 'GYVED', 'GYVES',
-    'HAAFS', 'HAARS', 'HABIT', 'HABLE', 'HABUS', 'HACEK', 'HACKS', 'HADAL', 'HADED', 'HADES',
+    'HAAFS', 'HAARS', 'HABLE', 'HABUS', 'HACEK', 'HACKS', 'HADAL', 'HADED', 'HADES',
     'HADJI', 'HADST', 'HAEMS', 'HAETS', 'HAFFS', 'HAFIZ', 'HAFTS', 'HAGGS', 'HAHAS', 'HAICK',
     'HAIKA', 'HAIKS', 'HAIKU', 'HAILS', 'HAILY', 'HAINS', 'HAINT', 'HAIRS', 'HAITH',
     'HAJES', 'HAJIS', 'HAJJI', 'HAKAM', 'HAKAS', 'HAKEA', 'HAKES', 'HAKIM', 'HAKUS', 'HALAL',
@@ -11413,6 +11413,12 @@ export const wordleWords = [
         gameDate: "5/30/25",
         myScore: 4,
         wordNumber: 1441,
+      },
+      {
+        word: "HABIT",
+        gameDate: "5/31/25",
+        myScore: 3,
+        wordNumber: 1442,
       },
   ];
 
