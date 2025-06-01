@@ -1406,7 +1406,7 @@ export const dailyWordsSmall = [
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
     'RENAL', 'REPLY', 'RESET', 'REUSE', 'RICER', 'RIFLE', 'RIGID',
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
-    'ROOST', 'ROTOR', 'ROUGH', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
+    'ROOST', 'ROTOR', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
     'SADLY', 'SAFER', 'SALON', 'SALVE', 'SALVO', 'SANER', 'SAPPY', 'SATIN', 'SATYR', 
     'SAUCE', 'SAVOY', 'SAVVY', 'SCALP', 'SCALY', 'SCAMP', 'SCARY', 'SCENE',
     'SCION', 'SCOOP', 'SCREE', 'SCREW', 
@@ -2385,7 +2385,7 @@ export const dailyWordsLarge = [
     'ROOSE', 'ROOST', 'ROOTS', 'ROOTY', 'ROPED', 'ROPER', 'ROPES', 'ROPEY', 'ROQUE', 'RORAL',
     'RORES', 'RORIC', 'RORID', 'RORIE', 'RORTS', 'RORTY', 'ROSED', 'ROSES', 'ROSET', 'ROSHI',
     'ROSIN', 'ROSIT', 'ROSTI', 'ROSTS', 'ROTAL', 'ROTAN', 'ROTAS', 'ROTCH', 'ROTED', 'ROTES',
-    'ROTIS', 'ROTLS', 'ROTON', 'ROTOR', 'ROTOS', 'ROTTE', 'ROUEN', 'ROUES', 'ROUGH',
+    'ROTIS', 'ROTLS', 'ROTON', 'ROTOR', 'ROTOS', 'ROTTE', 'ROUEN', 'ROUES', 
     'ROULE', 'ROULS', 'ROUMS', 'ROUPS', 'ROUPY', 'ROUST', 'ROUTH',
     'ROUTS', 'ROVED', 'ROVEN', 'ROVES', 'ROWAN', 'ROWDY', 'ROWED', 'ROWEL', 'ROWEN',
     'ROWIE', 'ROWME', 'ROWND', 'ROWTH', 'ROWTS', 'ROYNE', 'ROYST', 'ROZET',
@@ -11419,6 +11419,12 @@ export const wordleWords = [
         gameDate: "5/31/25",
         myScore: 3,
         wordNumber: 1442,
+      },
+      {
+        word: "ROUGH",
+        gameDate: "6/1/25",
+        myScore: 3,
+        wordNumber: 1443,
       },
   ];
 
