@@ -1,5 +1,5 @@
 export const fixedWordsLarge = [
-    'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZK', 
+    'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
     'ABAMP', 'ABAND', 'ABASE', 'ABASH', 'ABASK', 'ABATE', 'ABAYA', 'ABBAS', 'ABBED', 'ABBES',
     'ABBEY', 'ABBOT', 'ABCEE', 'ABEAM', 'ABEAR', 'ABELE', 'ABERS', 'ABETS', 'ABHOR', 'ABIDE',
@@ -1397,7 +1397,7 @@ export const dailyWordsSmall = [
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PIVOT', 'PIZZA',
     'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
-    'PRANK', 'PRAWN', 'PREEN', 'PRIED', 'PRISM', 'PRIVY',  
+    'PRANK', 'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
     'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAIL', 'QUAKE',
     'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTH',
@@ -2304,7 +2304,7 @@ export const dailyWordsLarge = [
     'POURS', 'POUTS', 'POUTY', 'POWAN', 'POWIN', 'POWND', 'POWNS', 'POWNY', 'POWRE',
     'POXED', 'POXES', 'POYNT', 'POYOU', 'POYSE', 'POZZY', 'PRAAM', 'PRADS', 'PRAHU', 'PRAMS',
     'PRANA', 'PRANG', 'PRANK', 'PRAOS', 'PRASE', 'PRATE', 'PRATS', 'PRATT', 'PRATY', 'PRAUS',
-    'PRAWN', 'PRAYS', 'PREDY', 'PREED', 'PREEN', 'PREES', 'PREIF', 'PREMS', 'PREMY', 'PRENT',
+    'PRAWN', 'PRAYS', 'PREDY', 'PREED', 'PREES', 'PREIF', 'PREMS', 'PREMY', 'PRENT',
     'PREON', 'PREOP', 'PREPS', 'PRESA', 'PRESE', 'PREST', 'PREVE', 'PREXY', 'PREYS',
     'PRIAL', 'PRICY', 'PRIED', 'PRIEF', 'PRIER', 'PRIES', 'PRIGS',
     'PRILL', 'PRIMA', 'PRIMI', 'PRIMS', 'PRIMY', 'PRINK',
@@ -11425,6 +11425,12 @@ export const wordleWords = [
         gameDate: "6/1/25",
         myScore: 3,
         wordNumber: 1443,
+      },
+      {
+        word: "PREEN",
+        gameDate: "6/2/25",
+        myScore: 5,
+        wordNumber: 1444,
       },
   ];
 
