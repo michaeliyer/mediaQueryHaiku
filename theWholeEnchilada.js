@@ -1335,7 +1335,7 @@ export const dailyWordsSmall = [
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BULGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
-    'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CEASE', 'CELLO', 'CHAFF', 'CHAIR',
+    'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CELLO', 'CHAFF', 'CHAIR',
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
@@ -1626,7 +1626,7 @@ export const dailyWordsLarge = [
     'CARTA', 'CARTE', 'CARTS', 'CARVY', 'CASAS', 'CASCO', 'CASED', 'CASES', 'CASKS',
     'CASKY', 'CASTE', 'CASTS', 'CASUS', 'CATES', 'CATTY', 'CAUDA', 'CAUKS',
     'CAULD', 'CAULS', 'CAUMS', 'CAUPS', 'CAURI', 'CAUSA', 'CAVAS', 'CAVED',
-    'CAVEL', 'CAVER', 'CAVES', 'CAVIE', 'CAVIL', 'CAWED', 'CAWKS', 'CAXON', 'CEASE', 'CEAZE',
+    'CAVEL', 'CAVER', 'CAVES', 'CAVIE', 'CAVIL', 'CAWED', 'CAWKS', 'CAXON', 'CEAZE',
     'CEBID', 'CECAL', 'CECUM', 'CEDED', 'CEDER', 'CEDES', 'CEDIS', 'CEIBA', 'CEILI',
     'CEILS', 'CELEB', 'CELLA', 'CELLI', 'CELLO', 'CELLS', 'CELOM', 'CELTS', 'CENSE', 'CENTO',
     'CENTS', 'CENTU', 'CEORL', 'CEPES', 'CERCI', 'CERED', 'CERES', 'CERGE', 'CERIA', 'CERIC',
@@ -11437,6 +11437,12 @@ export const wordleWords = [
         gameDate: "6/3/25",
         myScore: 3,
         wordNumber: 1445,
+      },
+      {
+        word: "CEASE",
+        gameDate: "6/4/25",
+        myScore: 3,
+        wordNumber: 1446,
       },
   ];
 
