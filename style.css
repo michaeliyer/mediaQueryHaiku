@@ -504,21 +504,21 @@
   }
   
   .line-16a {
-    color: red;
-    background-color: darkmagenta;
-    opacity: .5;
+    color: white;
+    background-color: dodgerblue;
+    opacity: .1;
   }
   
   .line-16b {
-    background-color: #754a6b;
-    color: orangered;
-    opacity: .5;
+    background-color: pink;
+    color: blue;
+    opacity: .1;
   }
   
   .line-16c {
-    background-color: red;
+    background-color: black;
     color: blue;
-    opacity: .5;
+    opacity: .1;
   }
   
   .line-17a {
