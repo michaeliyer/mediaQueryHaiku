@@ -1352,7 +1352,7 @@ export const dailyWordsSmall = [
     'DRANK', 'DRAPE', 'DRAWL', 'DREAD', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
     'DROIT', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING',   
-    'EATEN', 'EATER', 'ECLAT', 'EDIFY', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
+    'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'ELITE', 'EMBED', 'EMCEE', 'ENEMY', 
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
     'EXILE', 'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 
@@ -1775,7 +1775,7 @@ export const dailyWordsLarge = [
     'EARED', 'EARLS', 'EARNS', 'EARNT', 'EARST', 'EASED', 'EASER',
     'EASES', 'EASLE', 'EASTS', 'EATEN', 'EATER', 'EATHE', 'EAVED', 'EAVES', 'EBBED', 'EBBET',
     'EBONS', 'EBOOK', 'ECADS', 'ECHED', 'ECHES', 'ECHOS', 'ECLAT', 'ECRUS', 'EDEMA',
-    'EDGED', 'EDGER', 'EDGES', 'EDIFY', 'EDILE', 'EDITS', 'EDUCE', 'EDUCT', 'EEJIT',
+    'EDGED', 'EDGER', 'EDGES', 'EDILE', 'EDITS', 'EDUCE', 'EDUCT', 'EEJIT',
     'EENSY', 'EERIE', 'EEVEN', 'EEVNS', 'EFFED', 'EGADS', 'EGERS', 'EGEST', 'EGGAR', 'EGGED',
     'EGGER', 'EGMAS', 'EHING', 'EIDER', 'EIDOS', 'EIGHT', 'EIGNE', 'EIKED', 'EIKON',
     'EILDS', 'EISEL', 'EJIDO', 'EKING', 'EKKAS', 'ELAIN', 'ELAND', 'ELANS', 'ELATE',
@@ -11450,6 +11450,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1447,
       },
+      {
+        word: "EDIFY",
+        gameDate: "6/6/25",
+        myScore: 3,
+        wordNumber: 1448,
+      },  
     
   ];
 
