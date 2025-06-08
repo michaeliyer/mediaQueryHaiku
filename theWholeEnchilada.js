@@ -2365,7 +2365,7 @@ export const dailyWordsLarge = [
     'REPLA', 'REPLY', 'REPOS', 'REPOT', 'REPPS', 'REPRO', 'RERAN', 'RERIG', 'RESAT',
     'RESAW', 'RESAY', 'RESEE', 'RESES', 'RESET', 'RESEW', 'RESID', 'RESIT', 'RESOD',
     'RESOW', 'RESTO', 'RESTS', 'RESTY', 'RESUS', 'RETAG', 'RETAX', 'RETEM', 'RETIA',
-    'RETIE', 'RETOX', 'REUSE', 'REVET', 'REVIE', 'REWAN',
+    'RETIE', 'RETOX', 'REVET', 'REVIE', 'REWAN',
     'REWAX', 'REWED', 'REWET', 'REWIN', 'REWON', 'REWTH', 'REXES', 'REZES',
     'RHEAS', 'RHEME', 'RHEUM', 'RHIES', 'RHIME', 'RHINE', 'RHODY', 'RHOMB', 'RHONE',
     'RHUMB', 'RHYNE', 'RHYTA', 'RIADS', 'RIALS', 'RIANT', 'RIATA', 'RIBAS', 'RIBBY',
