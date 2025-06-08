@@ -1404,7 +1404,7 @@ export const dailyWordsSmall = [
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
     'RARER', 'RASPY', 'RATTY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
-    'RENAL', 'REPLY', 'RESET', 'REUSE', 'RICER', 'RIFLE', 'RIGID',
+    'RENAL', 'REPLY', 'RESET', 'RICER', 'RIFLE', 'RIGID',
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
     'ROOST', 'ROTOR', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
     'SADLY', 'SAFER', 'SALON', 'SALVE', 'SALVO', 'SANER', 'SAPPY', 'SATIN', 'SATYR', 
