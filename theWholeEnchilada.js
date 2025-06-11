@@ -1,3 +1,4 @@
+
 export const fixedWordsLarge = [
     'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
@@ -1428,7 +1429,7 @@ export const dailyWordsSmall = [
     'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUMP', 'STUNK', 'STUNT', 'SUING',
     'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
     'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
-    'SWORN', 'SYNOD', 'TABBY', 'TAFFY', 'TAINT', 'TAKER', 'TAMER', 
+    'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
     'THRUM', 'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
@@ -2560,7 +2561,7 @@ export const dailyWordsLarge = [
     
     'TAALS', 'TAATA', 'TABBY', 'TABER', 'TABES', 'TABID', 'TABIS', 'TABLA', 
     'TABOR', 'TABUN', 'TABUS', 'TACAN', 'TACES', 'TACET', 'TACHE', 'TACHO', 'TACHS', 
-    'TACKS', 'TACOS', 'TACTS', 'TAELS', 'TAFFY', 'TAFIA', 'TAGGY', 'TAGMA', 'TAHAS',
+    'TACKS', 'TACOS', 'TACTS', 'TAELS', 'TAFIA', 'TAGGY', 'TAGMA', 'TAHAS',
     'TAHRS', 'TAIGA', 'TAIKO', 'TAILS', 'TAINS', 'TAINT', 'TAIRA', 'TAISH', 'TAITS', 'TAJES',
     'TAKAS', 'TAKER', 'TAKES', 'TAKHI', 'TAKIN', 'TAKIS', 'TAKKY', 'TALAK', 'TALAQ',
     'TALAR', 'TALAS', 'TALCS', 'TALCY', 'TALEA', 'TALER', 'TALES', 'TALKS', 'TALKY', 'TALLS',
@@ -11473,6 +11474,12 @@ export const wordleWords = [
         gameDate: "6/9/25",
         myScore: 2,
         wordNumber: 1451,
+      }, 
+      {
+        word: "TAFFY",
+        gameDate: "6/10/25",
+        myScore: 3,
+        wordNumber: 1452,
       }, 
     
     
