@@ -1,4 +1,3 @@
-
 export const fixedWordsLarge = [
     'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
@@ -841,7 +840,7 @@ export const fixedWordsLarge = [
     'PISKY', 'PISOS', 'PISSY', 'PISTE', 'PITAS', 'PITCH', 'PITHS', 'PITHY', 'PITON', 'PITOT',
     'PITTA',
     'PIUMS', 'PIVOT', 'PIXEL', 'PIXES', 'PIXIE', 'PIZED', 'PIZES', 'PIZZA', 'PLAAS', 'PLACE',
-    'PLACK', 'PLAGE', 'PLAID', 'PLAIN', 'PLAIT', 'PLANE', 'PLANK', 'PLANS', 'PLANT', 'PLAPS',
+    'PLACK', 'PLAGE', 'PLAIN', 'PLAIT', 'PLANE', 'PLANK', 'PLANS', 'PLANT', 'PLAPS',
     'PLASH', 'PLASM', 'PLAST', 'PLATE', 'PLATS', 'PLATT', 'PLATY', 'PLAYA', 'PLAYS', 'PLAZA',
     'PLEAD', 'PLEAS', 'PLEAT', 'PLEBE', 'PLEBS', 'PLENA', 'PLEON', 'PLESH', 'PLEWS', 'PLICA',
     'PLIED', 'PLIER', 'PLIES', 'PLIMS', 'PLING', 'PLINK', 'PLOAT', 'PLODS', 'PLONG', 'PLONK',
@@ -1396,7 +1395,7 @@ export const dailyWordsSmall = [
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PIVOT', 'PIZZA',
-    'PLAID', 'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
+    'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRANK', 'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
@@ -11481,6 +11480,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1452,
       }, 
+      {
+        word: "PLAID",
+        gameDate: "6/11/25",
+        myScore: 4,
+        wordNumber: 1453,
+      },
     
     
   ];
