@@ -1,3 +1,4 @@
+
 export const fixedWordsLarge = [
     'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
@@ -840,7 +841,7 @@ export const fixedWordsLarge = [
     'PISKY', 'PISOS', 'PISSY', 'PISTE', 'PITAS', 'PITCH', 'PITHS', 'PITHY', 'PITON', 'PITOT',
     'PITTA',
     'PIUMS', 'PIVOT', 'PIXEL', 'PIXES', 'PIXIE', 'PIZED', 'PIZES', 'PIZZA', 'PLAAS', 'PLACE',
-    'PLACK', 'PLAGE', 'PLAIN', 'PLAIT', 'PLANE', 'PLANK', 'PLANS', 'PLANT', 'PLAPS',
+    'PLACK', 'PLAGE', 'PLAID', 'PLAIN', 'PLAIT', 'PLANE', 'PLANK', 'PLANS', 'PLANT', 'PLAPS',
     'PLASH', 'PLASM', 'PLAST', 'PLATE', 'PLATS', 'PLATT', 'PLATY', 'PLAYA', 'PLAYS', 'PLAZA',
     'PLEAD', 'PLEAS', 'PLEAT', 'PLEBE', 'PLEBS', 'PLENA', 'PLEON', 'PLESH', 'PLEWS', 'PLICA',
     'PLIED', 'PLIER', 'PLIES', 'PLIMS', 'PLING', 'PLINK', 'PLOAT', 'PLODS', 'PLONG', 'PLONK',
@@ -1438,7 +1439,7 @@ export const dailyWordsSmall = [
     'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
     'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
-    'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VIXEN', 'VOCAL', 'VOGUE', 
+    'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
     'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
@@ -2282,7 +2283,7 @@ export const dailyWordsLarge = [
     'PISKY', 'PISOS', 'PISSY', 'PISTE', 'PITAS', 'PITHS', 'PITON', 'PITOT',
     'PITTA',
     'PIUMS', 'PIVOT', 'PIXES', 'PIZED', 'PIZES', 'PIZZA', 'PLAAS',
-    'PLACK', 'PLAGE', 'PLAID', 'PLAIN', 'PLANE', 'PLANS', 'PLAPS',
+    'PLACK', 'PLAGE', 'PLAIN', 'PLANE', 'PLANS', 'PLAPS',
     'PLASH', 'PLASM', 'PLAST', 'PLATS', 'PLATT', 'PLATY', 'PLAYA', 'PLAYS', 
     'PLEAD', 'PLEAS', 'PLEBE', 'PLEBS', 'PLENA', 'PLEON', 'PLESH', 'PLEWS', 'PLICA',
     'PLIED', 'PLIER', 'PLIES', 'PLIMS', 'PLING', 'PLINK', 'PLOAT', 'PLODS', 'PLONG', 'PLONK',
@@ -2676,7 +2677,7 @@ export const dailyWordsLarge = [
     'VINTS', 'VIOLD', 'VIOLS', 'VIPER', 'VIRED', 'VIREO', 'VIRES',
     'VIRGA', 'VIRGE', 'VIRID', 'VIRLS', 'VIRTU', 'VIRUS', 'VISAS', 'VISED', 'VISES', 'VISIE',
     'VISIT', 'VISNE', 'VISON', 'VISTA', 'VISTO', 'VITAE', 'VITAS', 'VITEX',
-    'VITRO', 'VITTA', 'VIVAS', 'VIVAT', 'VIVDA', 'VIVER', 'VIVES', 'VIXEN', 'VIZIR',
+    'VITRO', 'VITTA', 'VIVAS', 'VIVAT', 'VIVDA', 'VIVER', 'VIVES', 'VIZIR',
     'VIZOR', 'VLEIS', 'VLIES', 'VLOGS',
     'VOARS', 'VOCAB', 'VOCAL', 'VOCES', 'VODDY', 'VODOU', 'VODUN', 'VOEMA', 'VOGIE',
     'VOGUE', 'VOIDS', 'VOILE', 'VOIPS', 'VOLAE', 'VOLAR', 'VOLED', 'VOLES',
@@ -11485,7 +11486,13 @@ export const wordleWords = [
         gameDate: "6/11/25",
         myScore: 4,
         wordNumber: 1453,
-      },
+      }, 
+      {
+        word: "VIXEN",
+        gameDate: "6/12/25",
+        myScore: 3,
+        wordNumber: 1454,
+      }, 
     
     
   ];
