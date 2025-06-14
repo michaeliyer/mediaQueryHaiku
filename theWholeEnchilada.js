@@ -1328,7 +1328,7 @@ export const dailyWordsSmall = [
     'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BALER', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
-    'BIDDY', 'BIGOT', 'BILGE', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
+    'BIDDY', 'BIGOT', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
     'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLINK', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOBBY', 'BONEY', 
     'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
@@ -1553,7 +1553,7 @@ export const dailyWordsLarge = [
     'BIBBS', 'BIBES', 'BIBLE', 'BICCY', 'BICES', 'BIDDY', 'BIDED', 'BIDER', 'BIDES',
     'BIDET', 'BIDIS', 'BIDON', 'BIELD', 'BIERS', 'BIFFO', 'BIFFS', 'BIFFY', 'BIFID', 'BIGAE',
     'BIGGS', 'BIGGY', 'BIGHA', 'BIGHT', 'BIGLY', 'BIGOS', 'BIGOT', 'BIJOU', 'BIKED', 'BIKER',
-    'BIKES', 'BIKIE', 'BILBO', 'BILBY', 'BILED', 'BILES', 'BILGE', 'BILGY', 'BILKS', 'BILLS',
+    'BIKES', 'BIKIE', 'BILBO', 'BILBY', 'BILED', 'BILES', 'BILGY', 'BILKS', 'BILLS',
     'BILLY', 'BIMAH', 'BIMAS', 'BIMBO', 'BINAL', 'BINDI', 'BINDS', 'BINER', 'BINES', 
     'BINGO', 'BINGS', 'BINGY', 'BINIT', 'BINKS', 'BIOGS', 'BIONT', 'BIOTA', 'BIPED',
     'BIPOD', 'BIRDS', 'BIRKS', 'BIRLE', 'BIRLS', 'BIROS', 'BIRRS', 'BIRSE', 'BIRSY',
@@ -11492,6 +11492,12 @@ export const wordleWords = [
         gameDate: "6/12/25",
         myScore: 3,
         wordNumber: 1454,
+      }, 
+      {
+        word: "BILGE",
+        gameDate: "6/13/25",
+        myScore: 4,
+        wordNumber: 1455,
       }, 
     
     
