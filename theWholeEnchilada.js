@@ -1400,7 +1400,7 @@ export const dailyWordsSmall = [
     'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRANK', 'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
-    'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAIL', 'QUAKE',
+    'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAKE',
     'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTH',
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
     'RARER', 'RASPY', 'RATTY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
@@ -2328,7 +2328,7 @@ export const dailyWordsLarge = [
     'PYOID', 'PYOTS', 'PYRAL', 'PYRAN', 'PYRES', 'PYREX', 'PYRIC', 'PYROS', 'PYXED', 'PYXES',
     'PYXIE', 'PYXIS', 'PZAZZ',
     'QADIS', 'QAIDS', 'QAJAQ', 'QANAT', 'QAPIK', 'QIBLA', 'QOPHS', 'QORMA', 'QUACK', 'QUADS',
-    'QUAFF', 'QUAGS', 'QUAIL', 'QUAIR', 'QUAIS', 'QUAKE', 'QUAKY', 'QUALE', 'QUANT',
+    'QUAFF', 'QUAGS', 'QUAIR', 'QUAIS', 'QUAKE', 'QUAKY', 'QUALE', 'QUANT',
     'QUARE', 'QUARK', 'QUASI', 'QUASS', 'QUATE', 'QUATS', 'QUAYD', 'QUAYS',
     'QUBIT', 'QUEAN', 'QUEER', 'QUELL', 'QUEME', 'QUENA', 'QUERN',
     'QUEYN', 'QUEYS', 'QUICH', 'QUIDS', 'QUIFF', 'QUILL', 'QUILT',
@@ -11504,6 +11504,12 @@ export const wordleWords = [
         gameDate: "6/14/25",
         myScore: 3,
         wordNumber: 1456,
+      },
+      {
+        word: "QUAIL",
+        gameDate: "6/15/25",
+        myScore: 3,
+        wordNumber: 1457,
       },
     
     
