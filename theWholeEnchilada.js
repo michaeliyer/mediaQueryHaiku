@@ -1395,7 +1395,7 @@ export const dailyWordsSmall = [
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
-    'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PETTY', 'PIGGY', 'PIVOT', 'PIZZA',
+    'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PIGGY', 'PIVOT', 'PIZZA',
     'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRANK', 'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
@@ -2268,7 +2268,7 @@ export const dailyWordsLarge = [
     'PEREA', 'PERES', 'PERIL', 'PERIS', 'PERKS', 'PERKY', 'PERMS', 'PERNS', 'PEROG', 'PERPS',
     'PERRY', 'PERSE', 'PERST', 'PERTS', 'PERVE', 'PERVO', 'PERVS', 'PERVY', 'PESOS',
     'PESTO', 'PESTS', 'PESTY', 'PETAL', 'PETAR', 'PETER', 'PETIT', 'PETRE', 'PETRI', 'PETTI',
-    'PETTO', 'PETTY', 'PEWEE', 'PEWIT', 'PEYSE', 'PHAGE', 'PHANG', 'PHARE', 'PHARM', 
+    'PETTO', 'PEWEE', 'PEWIT', 'PEYSE', 'PHAGE', 'PHANG', 'PHARE', 'PHARM', 
     'PHEER', 'PHENE', 'PHEON', 'PHESE', 'PHIAL', 'PHISH', 'PHIZZ', 'PHLOX', 'PHOCA', 
     'PHONO', 'PHONS', 'PHOTS', 'PHPHT', 'PHUTS', 'PHYLA', 'PHYLE', 'PIANI',
     'PIANS', 'PIBAL', 'PICAL', 'PICAS', 'PICCY', 'PICKS', 'PICOT', 'PICRA',
@@ -11510,6 +11510,12 @@ export const wordleWords = [
         gameDate: "6/15/25",
         myScore: 3,
         wordNumber: 1457,
+      },
+      {
+        word: "PETTY",
+        gameDate: "6/16/25",
+        myScore: 4,
+        wordNumber: 1458,
       },
     
     
