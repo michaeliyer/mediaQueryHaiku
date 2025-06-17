@@ -259,6 +259,12 @@
     background-size: cover;
     padding: .5rem;
   }
+
+  .whole-box-22 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY8QycmkShxxf8czbmcdtipZjWpw6cucaPm-l0xv1z7VcWEd5IWU42YY3UwGx_RA4ecCE&usqp=CAU);
+    background-size: cover;
+    padding: .5rem;
+  }
   
   .line-1a {
     color: rgb(0, 0, 0);
@@ -607,6 +613,23 @@
   .line-21c {
     background-color: rgb(94, 77, 79);
     color: rgb(200, 138, 184);
+    opacity: .75;
+  }
+  .line-22a {
+    background-color: dogerblue;
+    color: gold;
+    opacity: .5;
+  }
+
+  .line-22b {
+    background-color: black;
+    color: white;
+    opacity: .25;
+  }
+  
+  .line-22c {
+    background-color: pink;
+    color: green;
     opacity: .75;
   }
 
