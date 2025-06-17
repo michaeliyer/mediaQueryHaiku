@@ -26,5 +26,5 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall, "You suck GOP!!!", "You really goddamn fucking do!");
+console.log(dailyWordsSmall, "You suck GOP!!!", "You really goddamn fucking do! Licketh our taints");
 
