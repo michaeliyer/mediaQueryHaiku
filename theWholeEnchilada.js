@@ -1398,7 +1398,7 @@ export const dailyWordsSmall = [
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PIGGY', 'PIVOT', 'PIZZA',
     'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
-    'PRANK', 'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
+    'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
     'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK', 'QUAKE',
     'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTH',
@@ -2304,7 +2304,7 @@ export const dailyWordsLarge = [
     'POUFF', 'POUFS', 'POUKE', 'POUKS', 'POULE', 'POULP', 'POULT', 'POUPE', 'POUPT',
     'POURS', 'POUTS', 'POUTY', 'POWAN', 'POWIN', 'POWND', 'POWNS', 'POWNY', 'POWRE',
     'POXED', 'POXES', 'POYNT', 'POYOU', 'POYSE', 'POZZY', 'PRAAM', 'PRADS', 'PRAHU', 'PRAMS',
-    'PRANA', 'PRANG', 'PRANK', 'PRAOS', 'PRASE', 'PRATE', 'PRATS', 'PRATT', 'PRATY', 'PRAUS',
+    'PRANA', 'PRANG', 'PRAOS', 'PRASE', 'PRATE', 'PRATS', 'PRATT', 'PRATY', 'PRAUS',
     'PRAWN', 'PRAYS', 'PREDY', 'PREED', 'PREES', 'PREIF', 'PREMS', 'PREMY', 'PRENT',
     'PREON', 'PREOP', 'PREPS', 'PRESA', 'PRESE', 'PREST', 'PREVE', 'PREXY', 'PREYS',
     'PRIAL', 'PRICY', 'PRIED', 'PRIEF', 'PRIER', 'PRIES', 'PRIGS',
@@ -11516,6 +11516,12 @@ export const wordleWords = [
         gameDate: "6/16/25",
         myScore: 4,
         wordNumber: 1458,
+      },
+      {
+        word: "PRANK",
+        gameDate: "6/17/25",
+        myScore: 4,
+        wordNumber: 1459,
       },
     
     
