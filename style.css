@@ -615,8 +615,9 @@
     color: rgb(200, 138, 184);
     opacity: .75;
   }
+
   .line-22a {
-    background-color: dogerblue;
+    background-color: dodgerblue;
     color: gold;
     opacity: .5;
   }
@@ -631,5 +632,23 @@
     background-color: pink;
     color: green;
     opacity: .75;
+  }
+
+  .line-23a {
+    background-color: violet;
+    color: orange;
+    opacity: .1;
+  }
+
+  .line-23b {
+    background-color: maroon;
+    color: blue;
+    opacity: .1;
+  }
+  
+  .line-23c {
+    background-color: black;
+    color: white;
+    opacity: .1;
   }
 
