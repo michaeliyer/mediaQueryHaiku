@@ -2573,7 +2573,7 @@ export const dailyWordsLarge = [
     'TAROT', 'TARPS', 'TARRE', 'TARRY', 'TARSI', 'TARTS', 'TARTY', 'TASAR', 'TASED', 'TASER',
     'TASES', 'TASKS', 'TASSA', 'TASSE', 'TASSO', 'TATAR', 'TATER', 'TATES',
     'TATHS', 'TATIE', 'TATOU', 'TATTS', 'TATTY', 'TATUS', 'TAUBE', 'TAULD', 'TAUON',
-    'TAUPE', 'TAUTS', 'TAVAH', 'TAVAS', 'TAVER', 'TAWAI', 'TAWAS', 'TAWED', 'TAWER', 'TAWIE',
+    'TAUTS', 'TAVAH', 'TAVAS', 'TAVER', 'TAWAI', 'TAWAS', 'TAWED', 'TAWER', 'TAWIE',
     'TAWSE', 'TAWTS', 'TAXED', 'TAXER', 'TAXES', 'TAXIS', 'TAXOL', 'TAXON', 'TAXOR',
     'TAXUS', 'TAYRA', 'TAZZA', 'TAZZE', 'TEADE', 'TEADS', 'TEAED', 'TEAKS', 'TEALS',
     'TEAMS', 'TEARS', 'TEATS', 'TEAZE', 'TECHS', 'TECHY', 'TECTA', 'TEDDY',
@@ -11534,6 +11534,12 @@ export const wordleWords = [
         gameDate: "6/19/25",
         myScore: 2,
         wordNumber: 1461,
+      },
+      {
+        word: "TAUPE",
+        gameDate: "6/20/25",
+        myScore: 4,
+        wordNumber: 1462,
       },
     
     
