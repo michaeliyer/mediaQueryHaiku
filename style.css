@@ -682,5 +682,23 @@
     opacity: .25;
   }
 
+  .line-25a {
+    background-color: 0range;
+    color: blue;
+    opacity: .25;
+  }
+
+  .line-25b {
+    background-color: silver;
+    color: crimson;
+    opacity: .5;
+  }
+  
+  .line-25c {
+    background-color: wheat;
+    color: cream;
+    opacity: .25;
+  }
+
 
 
