@@ -277,6 +277,18 @@
     background-size: cover;
     padding: .5rem;
   }
+
+  .whole-box-25 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYev9-FDo-rZl0hAtTR80SgVEz4jA3UUfWQ&s);
+    background-size: cover;
+    padding: .5rem;
+  }
+
+  .whole-box-26 {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg);
+    background-size: cover;
+    padding: .5rem;
+  }
   
   .line-1a {
     color: rgb(0, 0, 0);
@@ -683,7 +695,7 @@
   }
 
   .line-25a {
-    background-color: 0range;
+    background-color: orange;
     color: blue;
     opacity: .25;
   }
@@ -697,6 +709,24 @@
   .line-25c {
     background-color: wheat;
     color: cream;
+    opacity: .25;
+  }
+
+  .line-26a {
+    background-color: navy;
+    color: lime;
+    opacity: .25;
+  }
+
+  .line-26b {
+    background-color: peru;
+    color: grey;
+    opacity: .5;
+  }
+  
+  .line-26c {
+    background-color: slategrey;
+    color: honeydew;
     opacity: .25;
   }
 
