@@ -1432,7 +1432,7 @@ export const dailyWordsSmall = [
     'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
-    'THRUM', 'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
+    'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
@@ -2592,7 +2592,7 @@ export const dailyWordsLarge = [
     'THESP', 'THETA', 'THETE', 'THEWS', 'THEWY', 'THICK', 'THIGS',
     'THILK', 'THILL', 'THINE', 'THINS', 'THIOL', 'THIRL', 'THOFT',
     'THOLE', 'THOLI', 'THONG', 'THORO', 'THORP', 'THOUS', 'THOWL', 'THRAE',
-    'THRAW', 'THRID', 'THRIP', 'THROB', 'THROE', 'THRUM', 'THUDS',
+    'THRAW', 'THRID', 'THRIP', 'THROB', 'THROE', 'THUDS',
     'THUGS', 'THUJA', 'THUNK', 'THURL', 'THUYA', 'THYMI', 'THYMY',
     'TIANS', 'TIARS', 'TICAL', 'TICCA', 'TICED', 'TICES', 'TICHY', 'TICKS',
     'TICKY', 'TIDDY', 'TIDED', 'TIDES', 'TIERS', 'TIFFS', 'TIFOS', 'TIFTS',
@@ -11546,6 +11546,12 @@ export const wordleWords = [
         gameDate: "6/21/25",
         myScore: 4,
         wordNumber: 1463,
+      },
+      {
+        word: "THRUM",
+        gameDate: "6/22/25",
+        myScore: 4,
+        wordNumber: 1464,
       },
     
     
