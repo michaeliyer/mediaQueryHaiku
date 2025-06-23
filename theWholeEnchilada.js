@@ -1390,7 +1390,7 @@ export const dailyWordsSmall = [
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
     'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NOVEL', 'NUTTY',
-    'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'ODDLY', 'OFFER', 'OLDEN', 'OMBRE',
+    'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'OFFER', 'OLDEN', 'OMBRE',
     'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
@@ -2218,7 +2218,7 @@ export const dailyWordsLarge = [
     'OBESE', 'OBEYS', 'OBIAS', 'OBIED', 'OBIIT', 'OBITS', 'OBJET', 'OBOES', 'OBOLE', 'OBOLI',
     'OBOLS', 'OCCAM', 'OCHER', 'OCHES', 'OCHRE', 'OCHRY', 'OCKER', 'OCREA',
     'OCTAD', 'OCTAL', 'OCTAN', 'OCTAS', 'OCTYL', 'OCULI', 'ODAHS', 'ODALS', 'ODDER',
-    'ODDLY', 'ODEON', 'ODEUM', 'ODISM', 'ODIST', 'ODIUM', 'ODORS', 'ODOUR', 'ODYLE', 'ODYLS',
+    'ODEON', 'ODEUM', 'ODISM', 'ODIST', 'ODIUM', 'ODORS', 'ODOUR', 'ODYLE', 'ODYLS',
     'OFFED', 'OFFER', 'OFFIE', 'OFLAG', 'OFTER', 'OGAMS', 'OGEED', 'OGEES',
     'OGGIN', 'OGHAM', 'OGIVE', 'OGLED', 'OGLER', 'OGLES', 'OGMIC', 'OGRES', 'OHIAS', 'OHING',
     'OHMIC', 'OHONE', 'OIDIA', 'OILED', 'OILER', 'OINKS', 'OINTS', 'OJIME', 'OKAPI', 'OKAYS',
@@ -11552,6 +11552,12 @@ export const wordleWords = [
         gameDate: "6/22/25",
         myScore: 4,
         wordNumber: 1464,
+      },
+      {
+        word: "ODDLY",
+        gameDate: "6/23/25",
+        myScore: 3,
+        wordNumber: 1465,
       },
     
     
