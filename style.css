@@ -289,6 +289,12 @@
     background-size: cover;
     padding: .5rem;
   }
+
+  .whole-box-27 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWT97mzI3F5h_e9PnW37tWbDk9juQ3TN5Ig&s);
+    background-size: cover;
+    padding: .5rem;
+  }
   
   .line-1a {
     color: rgb(0, 0, 0);
@@ -730,5 +736,21 @@
     opacity: .25;
   }
 
+  .line-27a {
+    background-color: white;
+    color: black;
+    opacity: .25;
+  }
 
+  .line-27b {
+    background-color: black;
+    color: white;
+    opacity: .5;
+  }
+  
+  .line-27c {
+    background-color: white;
+    color: black;
+    opacity: .25;
+  }
 
