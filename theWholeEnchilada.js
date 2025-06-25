@@ -1354,7 +1354,7 @@ export const dailyWordsSmall = [
     'DROIT', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING',   
     'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
-    'ELEGY', 'ELFIN', 'ELIDE', 'ELITE', 'EMBED', 'EMCEE', 'ENEMY', 
+    'ELEGY', 'ELFIN', 'ELIDE', 'EMBED', 'EMCEE', 'ENEMY', 
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
     'EXILE', 'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 
     'FANNY', 'FATAL', 'FATTY', 'FAUNA', 'FECAL', 'FELLA', 'FELON', 'FEMME', 'FEMUR', 'FENCE',
@@ -1781,7 +1781,7 @@ export const dailyWordsLarge = [
     'EGGER', 'EGMAS', 'EHING', 'EIDER', 'EIDOS', 'EIGHT', 'EIGNE', 'EIKED', 'EIKON',
     'EILDS', 'EISEL', 'EJIDO', 'EKING', 'EKKAS', 'ELAIN', 'ELAND', 'ELANS', 'ELATE',
     'ELCHI', 'ELDIN', 'ELECT', 'ELEGY', 'ELEMI', 'ELFED', 'ELFIN', 'ELIAD',
-    'ELIDE', 'ELINT', 'ELITE', 'ELMEN', 'ELOGE', 'ELOGY', 'ELOIN', 'ELOPS', 'ELPEE',
+    'ELIDE', 'ELINT', 'ELMEN', 'ELOGE', 'ELOGY', 'ELOIN', 'ELOPS', 'ELPEE',
     'ELSIN', 'ELUTE', 'ELVAN', 'ELVEN', 'ELVER', 'ELVES', 'EMACS', 'EMBAR',
     'EMBAY', 'EMBED', 'EMBOG', 'EMBOW', 'EMBOX', 'EMBUS', 'EMCEE', 'EMEER', 'EMEND',
     'EMERG', 'EMERY', 'EMEUS', 'EMICS', 'EMIRS', 'EMITS', 'EMMAS', 'EMMER', 'EMMET', 'EMMEW',
@@ -11558,6 +11558,12 @@ export const wordleWords = [
         gameDate: "6/23/25",
         myScore: 3,
         wordNumber: 1465,
+      },
+      {
+        word: "ELITE",
+        gameDate: "6/24/25",
+        myScore: 3,
+        wordNumber: 1466,
       },
     
     
