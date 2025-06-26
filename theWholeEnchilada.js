@@ -1340,7 +1340,7 @@ export const dailyWordsSmall = [
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
-    'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMFY', 'COMIC', 'CONCH',
+    'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMIC', 'CONCH',
     'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
@@ -1668,7 +1668,7 @@ export const dailyWordsLarge = [
     'COIRS', 'COITS', 'COKED', 'COKES', 'COLAS', 'COLBY', 'COLDS', 'COLED', 'COLES', 'COLEY',
     'COLIC', 'COLIN', 'COLLS', 'COLLY', 'COLOG', 'COLOR', 'COLTS', 'COLZA', 'COMAE',
     'COMAL', 'COMAS', 'COMBE', 'COMBI', 'COMBO', 'COMBS', 'COMBY', 'COMER', 'COMES',
-    'COMFY', 'COMIC', 'COMIX', 'COMMO', 'COMMS', 'COMMY', 'COMPO', 'COMPS', 'COMPT',
+    'COMIC', 'COMIX', 'COMMO', 'COMMS', 'COMMY', 'COMPO', 'COMPS', 'COMPT',
     'COMTE', 'COMUS', 'CONCH', 'CONED', 'CONES', 'CONEY', 'CONFS', 'CONGA', 'CONGE',
     'CONGO', 'CONIA', 'CONIN', 'CONKS', 'CONKY', 'CONNE', 'CONNS', 'CONTE', 'CONTO',
     'CONUS', 'CONVO', 'COOCH', 'COOED', 'COOEE', 'COOER', 'COOEY', 'COOFS', 'COOKS', 'COOKY',
@@ -11564,6 +11564,12 @@ export const wordleWords = [
         gameDate: "6/24/25",
         myScore: 3,
         wordNumber: 1466,
+      },
+      {
+        word: "COMFY",
+        gameDate: "6/25/25",
+        myScore: 4,
+        wordNumber: 1467,
       },
     
     
