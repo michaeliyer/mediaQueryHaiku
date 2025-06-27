@@ -307,6 +307,12 @@
     background-size: cover;
     padding: .55rem;
   }
+
+  .whole-box-30 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3FezlprtydBE7bIsQrozk1sNe1vE6eCKgQ&s);
+    background-size: cover;
+    padding: .55rem;
+  }
   
   .line-1a {
     color: rgb(0, 0, 0);
@@ -805,18 +811,18 @@
   .line-30a {
     background-color: orangered;
     color: teal;
-    opacity: .75;
+    opacity: .65;
   }
 
   .line-30b {
     background-color: ivory;
     color: sienna;
-    opacity: .65;
+    opacity: .45;
   }
   
   .line-30c {
     background-color: forestgreen;
     color: violet;
-    opacity: .85;
+    opacity: .65;
   }
 
