@@ -802,3 +802,21 @@
     opacity: .85;
   }
 
+  .line-30a {
+    background-color: orangered;
+    color: teal;
+    opacity: .75;
+  }
+
+  .line-30b {
+    background-color: ivory;
+    color: sienna;
+    opacity: .65;
+  }
+  
+  .line-30c {
+    background-color: forestgreen;
+    color: violet;
+    opacity: .85;
+  }
+
