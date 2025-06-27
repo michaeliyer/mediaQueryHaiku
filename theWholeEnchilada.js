@@ -1396,7 +1396,7 @@ export const dailyWordsSmall = [
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
     'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PIGGY', 'PIVOT', 'PIZZA',
-    'PLAIN', 'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
+    'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POPPY', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
@@ -2283,7 +2283,7 @@ export const dailyWordsLarge = [
     'PISKY', 'PISOS', 'PISSY', 'PISTE', 'PITAS', 'PITHS', 'PITON', 'PITOT',
     'PITTA',
     'PIUMS', 'PIVOT', 'PIXES', 'PIZED', 'PIZES', 'PIZZA', 'PLAAS',
-    'PLACK', 'PLAGE', 'PLAIN', 'PLANE', 'PLANS', 'PLAPS',
+    'PLACK', 'PLAGE', 'PLANE', 'PLANS', 'PLAPS',
     'PLASH', 'PLASM', 'PLAST', 'PLATS', 'PLATT', 'PLATY', 'PLAYA', 'PLAYS', 
     'PLEAD', 'PLEAS', 'PLEBE', 'PLEBS', 'PLENA', 'PLEON', 'PLESH', 'PLEWS', 'PLICA',
     'PLIED', 'PLIER', 'PLIES', 'PLIMS', 'PLING', 'PLINK', 'PLOAT', 'PLODS', 'PLONG', 'PLONK',
@@ -11571,11 +11571,17 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1467,
       },
-{
+     {
         word: "OFFER",
         gameDate: "6/26/25",
         myScore: 4,
         wordNumber: 1468,
+      },
+     {
+        word: "PLAIN",
+        gameDate: "6/27/25",
+        myScore: 3,
+        wordNumber: 1469,
       },
     
     
