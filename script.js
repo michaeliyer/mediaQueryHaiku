@@ -15,7 +15,7 @@ const blueLink = document.querySelector(".line-1a");
 blueLink.addEventListener("click", changeOpacity);
 
 function changeOpacity() {
-    document.body.innerText = "NICE WORK CALVINO";
+    document.body.innerText = "NICE WORK Old CALVINO";
     console.log("Bite me wire, I declare!");
 }
 
@@ -26,5 +26,5 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall, "You suck GOP!!!", "You really goddamn fucking do! Please Licketh our taints");
+console.log(dailyWordsSmall, "You suck GOP. You are Slime!!!", "You really goddamn fucking do! Please Licketh our taints");
 
