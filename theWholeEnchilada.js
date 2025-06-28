@@ -1426,7 +1426,7 @@ export const dailyWordsSmall = [
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
     'STEER', 'STILT', 'STOKE', 'STOOP', 'STORK', 
-    'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUMP', 'STUNK', 'STUNT', 'SUING',
+    'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUNK', 'STUNT', 'SUING',
     'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
     'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
     'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
@@ -2537,7 +2537,7 @@ export const dailyWordsLarge = [
     'STOSS', 'STOTS', 'STOTT', 'STOUN', 'STOUP', 'STOUR', 'STOWN',
     'STOWP', 'STOWS', 'STRAD', 'STRAE', 'STRAG', 'STRAK', 'STREP',
     'STREW', 'STRIA', 'STRIG', 'STRIM', 'STRIP', 'STROP', 'STROW', 'STROY', 'STRUM', 'STRUT',
-    'STUBS', 'STUCK', 'STUDE', 'STUDS', 'STUFF', 'STULL', 'STULM', 'STUMM', 'STUMP',
+    'STUBS', 'STUCK', 'STUDE', 'STUDS', 'STUFF', 'STULL', 'STULM', 'STUMM',
     'STUMS', 'STUNK', 'STUNS', 'STUNT', 'STUPA', 'STUPE', 'STURE', 'STURT', 'STYED',
     'STYES', 'STYLI', 'STYLO', 'STYME', 'STYMY', 'STYRE', 'STYTE', 'SUBAH',
     'SUBAS', 'SUBBY', 'SUBER', 'SUBHA', 'SUCCI', 'SUCKS', 'SUCKY', 'SUCRE', 'SUDDS', 'SUDOR',
@@ -11582,6 +11582,12 @@ export const wordleWords = [
         gameDate: "6/27/25",
         myScore: 3,
         wordNumber: 1469,
+      },
+     {
+        word: "STUMP",
+        gameDate: "6/28/25",
+        myScore: 3,
+        wordNumber: 1470,
       },
     
     
