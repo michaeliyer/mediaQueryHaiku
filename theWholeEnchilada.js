@@ -1443,7 +1443,7 @@ export const dailyWordsSmall = [
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
     'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
-    'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WITTY', 'WOMEN', 'WOODY', 'WOOLY',
+    'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WOMEN', 'WOODY', 'WOOLY',
     'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 
     'ZONAL'
 ];
@@ -2715,7 +2715,7 @@ export const dailyWordsLarge = [
     'WINED', 'WINES', 'WINEY', 'WINGE', 'WINGS', 'WINGY', 'WINKS', 'WINNA', 'WINNS',
     'WINOS', 'WINZE', 'WIPED', 'WIPER', 'WIPES', 'WIRED', 'WIRER', 'WIRES', 'WIRRA', 'WISED',
     'WISER', 'WISES', 'WISHA', 'WISHT', 'WISPS', 'WISPY', 'WISTS', 'WITAN', 'WITED',
-    'WITES', 'WITHE', 'WITHS', 'WITHY', 'WITTY', 'WIVED', 'WIVER', 'WIVES', 'WIZEN', 'WIZES',
+    'WITES', 'WITHE', 'WITHS', 'WITHY', 'WIVED', 'WIVER', 'WIVES', 'WIZEN', 'WIZES',
     'WOADS', 'WOALD', 'WOCKS', 'WODGE', 'WOFUL', 'WOJUS', 'WOKER', 'WOKKA', 'WOLDS',
     'WOLFS', 'WOLLY', 'WOLVE', 'WOMBS', 'WOMBY', 'WOMEN', 'WOMYN', 'WONGA', 'WONGI',
     'WONKS', 'WONKY', 'WONTS', 'WOODS', 'WOODY', 'WOOED', 'WOOFS', 'WOOFY', 'WOOLD',
@@ -11588,6 +11588,12 @@ export const wordleWords = [
         gameDate: "6/28/25",
         myScore: 3,
         wordNumber: 1470,
+      },
+     {
+        word: "WITTY",
+        gameDate: "6/29/25",
+        myScore: 4,
+        wordNumber: 1471,
       },
     
     
