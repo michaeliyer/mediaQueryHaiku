@@ -332,6 +332,12 @@
     padding: .55rem;
   }
 
+  .whole-box-34 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrudurVnlj6-P_S2Jdq_CdCepYT9QKtd1OWw&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
   
   .line-1a {
     color: rgb(0, 0, 0);
@@ -894,6 +900,24 @@
   }
   
   .line-33c {
+    background-color: rgb(75, 13, 222);
+    color: rgb(215, 85, 20);
+    opacity: .65;
+  }
+
+  .line-34a {
+    background-color: rgb(260, 101, 13);
+    color: rgb(126, 149, 101);    
+    opacity: .65;
+  }
+
+  .line-34b {
+    background-color:  blue;
+    color: red;
+    opacity: .45;
+  }
+  
+  .line-34c {
     background-color: rgb(75, 13, 222);
     color: rgb(215, 85, 20);
     opacity: .65;
