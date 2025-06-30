@@ -26,5 +26,5 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall, "You suck GOP. You are Slime!!!", "You really goddamn fucking do molest, and you do it often! Please Licketh our taints, and fucketh thous");
+console.log(dailyWordsSmall, "You suck GOP. You are Slime!!!", "You really goddamn fucking do molest, and you do it often! And you do it right, perverts! Please Licketh our taints, and fucketh thous");
 
