@@ -874,3 +874,21 @@
     opacity: .65;
   }
 
+  .line-33a {
+    background-color: rgb(260, 101, 13);
+    color: rgb(126, 149, 101);    
+    opacity: .65;
+  }
+
+  .line-33b {
+    background-color:  rgb(21, 66, 28);
+    color: rgb(59, 239, 139);
+    opacity: .45;
+  }
+  
+  .line-33c {
+    background-color: rgb(75, 13, 222);
+    color: rgb(215, 85, 20);
+    opacity: .65;
+  }
+
