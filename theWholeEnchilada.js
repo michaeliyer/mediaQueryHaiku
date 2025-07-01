@@ -1385,7 +1385,7 @@ export const dailyWordsSmall = [
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
     'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA', 'MODAL',
-    'MOGUL', 'MOLDY', 'MOODY', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
+    'MOGUL', 'MOODY', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
@@ -2156,7 +2156,7 @@ export const dailyWordsLarge = [
     'MODER', 'MODES', 'MODGE', 'MODII', 'MODUS', 'MOERS', 'MOFOS', 'MOGGY',
     'MOGUL', 'MOHEL', 'MOHOS', 'MOHRS', 'MOHUA', 'MOHUR', 'MOILE', 'MOILS', 'MOIRA', 'MOIRE',
     'MOITS', 'MOJOS', 'MOKES', 'MOKIS', 'MOKOS', 'MOLAL', 'MOLAS', 'MOLDS',
-    'MOLDY', 'MOLED', 'MOLES', 'MOLLA', 'MOLLS', 'MOLLY', 'MOLTO', 'MOLTS', 'MOLYS', 'MOMES',
+    'MOLED', 'MOLES', 'MOLLA', 'MOLLS', 'MOLLY', 'MOLTO', 'MOLTS', 'MOLYS', 'MOMES',
     'MOMMA', 'MOMUS', 'MONAD', 'MONAL', 'MONAS', 'MONDE', 'MONDO', 'MONER', 
     'MONGO', 'MONGS', 'MONIC', 'MONIE', 'MONKS', 'MONOS', 'MONTE', 'MONTY', 'MOOBS',
     'MOOCH', 'MOODS', 'MOODY', 'MOOED', 'MOOKS', 'MOOLA', 'MOOLI', 'MOOLS', 'MOOLY', 'MOONG',
@@ -11600,6 +11600,12 @@ export const wordleWords = [
         gameDate: "6/30/25",
         myScore: 3,
         wordNumber: 1472,
+      },
+     {
+        word: "MOLDY",
+        gameDate: "7/1/25",
+        myScore: 4,
+        wordNumber: 1473,
       },
     
     
