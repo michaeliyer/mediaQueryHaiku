@@ -1374,7 +1374,7 @@ export const dailyWordsSmall = [
     'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOT', 'IDYLL', 'ILIAC', 
-    'IMBUE', 'IMPLY', 'INCUR', 'INGOT', 'INLET', 'ISSUE', 
+    'IMBUE', 'IMPLY', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'LADEN', 'LANCE', 'LATCH', 'LATER',
@@ -1985,7 +1985,7 @@ export const dailyWordsLarge = [
     'ILIUM', 'ILLER', 'ILLTH', 'IMAGO', 'IMAMS', 'IMARI', 'IMAUM', 'IMBAR', 'IMBED',
     'IMBUE', 'IMIDE', 'IMIDO', 'IMIDS', 'IMINE', 'IMINO', 'IMMEW', 'IMMIT', 'IMMIX', 'IMPED',
     'IMPIS', 'IMPLY', 'IMPOT', 'IMPRO', 'IMSHI', 'IMSHY', 'INAPT', 'INARM',
-    'INBYE', 'INCEL', 'INCLE', 'INCOG', 'INCUR', 'INCUS', 'INCUT', 'INDEW',
+    'INBYE', 'INCEL', 'INCLE', 'INCOG', 'INCUS', 'INCUT', 'INDEW',
     'INDIA', 'INDOL', 'INDOW', 'INDRI', 'INDUE', 'INERM', 
     'INFIX', 'INFOS', 'INFRA', 'INGAN', 'INGLE', 'INGOT', 'INION', 'INKED', 'INKER', 'INKLE',
     'INLET', 'INNED', 'INNIT', 'INORB', 'INRUN', 'INSET', 'INSPO',
@@ -11577,7 +11577,7 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1468,
       },
-     {
+      {
         word: "PLAIN",
         gameDate: "6/27/25",
         myScore: 3,
@@ -11589,23 +11589,29 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1470,
       },
-     {
+      {
         word: "WITTY",
         gameDate: "6/29/25",
         myScore: 4,
         wordNumber: 1471,
       },
-     {
+      {
         word: "BLINK",
         gameDate: "6/30/25",
         myScore: 3,
         wordNumber: 1472,
       },
-     {
+      {
         word: "MOLDY",
         gameDate: "7/1/25",
         myScore: 4,
         wordNumber: 1473,
+      },
+    {
+        word: "INCUR",
+        gameDate: "7/2/25",
+        myScore: 3,
+        wordNumber: 1474,
       },
     
     
