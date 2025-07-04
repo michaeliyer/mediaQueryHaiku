@@ -959,6 +959,24 @@
     opacity: .65;
   }
 
+  .line-36a {
+    background-color: silver;
+    color: navy;    
+    opacity: .5;
+  }
+
+  .line-36b {
+    background-color:  gold;
+    color: maroon;
+    opacity: .5;
+  }
+  
+  .line-36c {
+    background-color: silver;
+    color: navy;
+    opacity: .5;
+  }
+
   .line-37a {
     background-color: dodgerblue;
     color: lavender;    
