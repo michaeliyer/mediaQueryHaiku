@@ -11583,7 +11583,7 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1469,
       },
-     {
+      {
         word: "STUMP",
         gameDate: "6/28/25",
         myScore: 3,
@@ -11607,11 +11607,17 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1473,
       },
-    {
+      {
         word: "INCUR",
         gameDate: "7/2/25",
         myScore: 3,
         wordNumber: 1474,
+      },
+      {
+        word: "POPPY",
+        gameDate: "7/3/25",
+        myScore: 3,
+        wordNumber: 1475,
       },
     
     
