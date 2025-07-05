@@ -1344,7 +1344,7 @@ export const dailyWordsSmall = [
     'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
-    'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVE', 'CURVY',
+    'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DAUNT', 'DEALT', 'DEBAR',
     'DECOR', 'DEFER', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
@@ -1699,7 +1699,7 @@ export const dailyWordsLarge = [
     'CULLY', 'CULMS', 'CULPA', 'CULTI', 'CULTS', 'CULTY', 'CUMEC', 'CUNDY', 'CUNEI',
     'CUNIT', 'CUNTS', 'CUPEL', 'CUPID', 'CUPPA', 'CUPPY', 'CURAT', 'CURBS', 'CURCH', 'CURDS',
     'CURDY', 'CURED', 'CURER', 'CURES', 'CURET', 'CURFS', 'CURIA', 'CURIE', 'CURLI',
-    'CURLS', 'CURNS', 'CURNY', 'CURRS', 'CURRY', 'CURSI', 'CURST', 'CURVE',
+    'CURLS', 'CURNS', 'CURNY', 'CURRS', 'CURRY', 'CURSI', 'CURST', 
     'CURVY', 'CUSEC', 'CUSHY', 'CUSKS', 'CUSPS', 'CUSPY', 'CUSSO', 'CUSUM', 'CUTCH', 'CUTER',
     'CUTES', 'CUTEY', 'CUTIE', 'CUTIN', 'CUTIS', 'CUTTO', 'CUTTY', 'CUTUP', 'CUVEE', 'CUZES',
     'CWTCH', 'CYANO', 'CYANS', 'CYCAD', 'CYCAS', 'CYCLE', 'CYCLO', 'CYDER', 'CYLIX',
@@ -11619,6 +11619,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1475,
       },
+      {
+        word: "CURVE",
+        gameDate: "7/4/25",
+        myScore: 2,
+        wordNumber: 1476,
+      },
     
     
   ];
@@ -11631,3 +11637,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
+console.log("July 4, 2025")
