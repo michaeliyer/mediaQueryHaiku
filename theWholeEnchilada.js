@@ -1508,7 +1508,7 @@ export const dailyWordsLarge = [
     'ASSAI', 'ASSAM', 'ASSAY', 'ASSES', 'ASSEZ', 'ASSOT', 'ASTER', 'ASTIR', 'ASTUN',
     'ASURA', 'ASWAY', 'ASWIM', 'ASYLA', 'ATAPS', 'ATAXY', 'ATIGI', 'ATILT', 'ATIMY', 
     'ATMAN', 'ATMAS', 'ATMOS', 'ATOCS', 'ATOKE', 'ATOKS', 'ATOMS', 'ATOMY', 
-    'ATONY', 'ATOPY', 'ATRIA', 'ATRIP', 'ATTAP', 'ATTAR', 'ATTIC', 'ATUAS', 'AUDAD', 
+    'ATONY', 'ATOPY', 'ATRIP', 'ATTAP', 'ATTAR', 'ATTIC', 'ATUAS', 'AUDAD', 
     'AUGER', 'AUGHT', 'AUGUR', 'AULAS', 'AULIC', 'AULOI', 'AULOS', 'AUMIL', 'AUNES',
     'AUNTS', 'AUNTY', 'AURAE', 'AURAL', 'AURAR', 'AURAS', 'AUREI', 'AURES', 'AURIC', 'AURIS',
     'AURUM', 'AUTOS', 'AUXIN', 'AVALE', 'AVANT', 'AVAST', 'AVELS', 'AVENS', 'AVERS',
@@ -11630,6 +11630,12 @@ export const wordleWords = [
         gameDate: "7/5/25",
         myScore: 4,
         wordNumber: 1477,
+      },
+      {
+        word: "ATRIA",
+        gameDate: "7/6/25",
+        myScore: 4,
+        wordNumber: 1478,
       },
     
     
