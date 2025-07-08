@@ -1425,7 +1425,7 @@ export const dailyWordsSmall = [
     'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
-    'STEER', 'STILT', 'STOKE', 'STOOP', 'STORK', 
+    'STEER', 'STOKE', 'STOOP', 'STORK', 
     'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUNK', 'STUNT', 'SUING',
     'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
     'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
@@ -2529,7 +2529,7 @@ export const dailyWordsLarge = [
     'STEEK', 'STEEM', 'STEEN', 'STEER', 'STEIL', 'STELA', 'STELE',
     'STELL', 'STEME', 'STEMS', 'STEND', 'STENO', 'STENS', 'STENT', 'STEPS', 'STEPT', 'STERE',
     'STETS', 'STEWS', 'STEWY', 'STEYS', 'STICH', 'STIED', 'STIES',
-    'STILB', 'STILE', 'STILT', 'STIME', 'STIMS', 'STIMY',
+    'STILB', 'STILE', 'STIME', 'STIMS', 'STIMY',
     'STIPA', 'STIPE', 'STIRE', 'STIRK', 'STIRP', 'STIRS', 'STIVE', 'STIVY', 'STOAE', 'STOAI',
     'STOAS', 'STOAT', 'STOBS', 'STOEP', 'STOGY', 'STOIT', 'STOKE', 
     'STOLN', 'STOMA', 'STOND', 'STONG', 'STONK', 'STONN', 
@@ -11636,6 +11636,12 @@ export const wordleWords = [
         gameDate: "7/6/25",
         myScore: 4,
         wordNumber: 1478,
+      },
+      {
+        word: "STILT",
+        gameDate: "7/7/25",
+        myScore: 3,
+        wordNumber: 1479,
       },
     
     
