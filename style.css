@@ -381,7 +381,7 @@
   }
 
   .whole-box-42 {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6VWPLtG7p7LPraZKgUBtAy3Jh5ZOWec8Mg&s);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33W5QXUhvKMyXVCqzt9VAvHTSjCZfY4vneQ&s);
     background-size: cover;
     padding: .55rem;
   }
@@ -1099,18 +1099,18 @@
 
   .line-42a {
     background-color: wheat;
-    color: violet;    
-    opacity: .3;
+    color: white;    
+    opacity: .85;
   }
 
   .line-42b {
-    background-color:  blue;
+    background-color:  dodgerblue;
     color: hotpink;
-    opacity: .8;
+    opacity: .85;
   }
   
   .line-42c {
     background-color: purple;
-    color: yellow;
-    opacity: .3;
+    color: white;
+    opacity: .85;
   }
