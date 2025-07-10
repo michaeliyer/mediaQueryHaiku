@@ -1389,7 +1389,7 @@ export const dailyWordsSmall = [
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
-    'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NOVEL', 'NUTTY',
+    'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NUTTY',
     'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'OLDEN', 'OMBRE',
     'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
@@ -2209,7 +2209,7 @@ export const dailyWordsLarge = [
     'NOOKS', 'NOOKY', 'NOONS', 'NOOPS', 'NOOSE', 'NOPAL', 'NORIA', 'NORIS', 'NORKS', 'NORMA',
     'NORMS', 'NOSED', 'NOSER', 'NOSES', 'NOSEY', 'NOTAL', 'NOTCH', 'NOTED', 'NOTER',
     'NOTES', 'NOTUM', 'NOULD', 'NOULE', 'NOULS', 'NOUNS', 'NOUNY', 'NOUPS', 'NOVAE', 'NOVAS',
-    'NOVEL', 'NOVUM', 'NOWAY', 'NOWED', 'NOWLS', 'NOWTS', 'NOWTY', 'NOXAL', 'NOXES', 'NOYAU',
+    'NOVUM', 'NOWAY', 'NOWED', 'NOWLS', 'NOWTS', 'NOWTY', 'NOXAL', 'NOXES', 'NOYAU',
     'NOYED', 'NOYES', 'NUBBY', 'NUBIA', 'NUCHA', 'NUDDY', 'NUDER', 'NUDES', 'NUDIE',
     'NUDZH', 'NUFFS', 'NUGAE', 'NUKED', 'NUKES', 'NULLA', 'NULLS', 'NUMBS', 'NUMEN', 'NUMMY',
     'NUNNY', 'NURDS', 'NURDY', 'NURLS', 'NURRS', 'NUTSO', 'NUTSY', 'NUTTY', 'NYAFF',
@@ -11648,6 +11648,12 @@ export const wordleWords = [
         gameDate: "7/8/25",
         myScore: 4,
         wordNumber: 1480,
+      },
+      {
+        word: "NOVEL",
+        gameDate: "7/9/25",
+        myScore: 2,
+        wordNumber: 1481,
       },
     
     
