@@ -386,6 +386,12 @@
     padding: .55rem;
   }
 
+  .whole-box-43 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_SA-lVNyQBP7z9ceKy9CTHWtn9TfRBOgDg&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
   
   .line-1a {
     color: rgb(0, 0, 0);
@@ -1112,5 +1118,23 @@
   .line-42c {
     background-color: purple;
     color: white;
+    opacity: .85;
+  }
+
+  .line-43a {
+    background-color: pink;
+    color: silver;    
+    opacity: .85;
+  }
+
+  .line-43b {
+    background-color:  yellow;
+    color: green;
+    opacity: .6;
+  }
+  
+  .line-43c {
+    background-color: orange;
+    color: navy;
     opacity: .85;
   }
