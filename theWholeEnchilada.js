@@ -1375,7 +1375,7 @@ export const dailyWordsSmall = [
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOT', 'IDYLL', 'ILIAC', 
     'IMBUE', 'IMPLY', 'INGOT', 'INLET', 'ISSUE', 
-    'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUMPY', 'JUNTA',
+    'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'LADEN', 'LANCE', 'LATCH', 'LATER',
     'LATHE', 'LEACH', 'LEANT', 'LEAST', 'LEFTY', 'LEGAL',
@@ -2012,7 +2012,7 @@ export const dailyWordsLarge = [
     'JOTUN', 'JOUAL', 'JOUGS', 'JOUKS', 'JOULE', 'JOURS', 'JOWAR', 'JOWED', 'JOWLS',
     'JOWLY', 'JOYED', 'JUBAS', 'JUBES', 'JUCOS', 'JUDAS', 'JUDGE', 'JUDGY', 'JUDOS', 'JUGAL',
     'JUGUM', 'JUICY', 'JUJUS', 'JUKED', 'JUKES', 'JUKUS', 'JULEP', 'JUMAR', 'JUMBO',
-    'JUMBY', 'JUMPS', 'JUMPY', 'JUNCO', 'JUNKS', 'JUNKY', 'JUNTA', 'JUNTO', 'JUPES', 'JUPON',
+    'JUMBY', 'JUMPS', 'JUNCO', 'JUNKS', 'JUNKY', 'JUNTA', 'JUNTO', 'JUPES', 'JUPON',
     'JURAL', 'JURAT', 'JUREL', 'JURES', 'JUROR', 'JUSTS', 'JUTES', 'JUTTY', 'JUVES', 'JUVIE',
     
     'KAAMA', 'KABAB', 'KABAR', 'KABOB', 'KACHA', 'KACKS', 'KADAI', 'KADES', 'KADIS', 'KAGOS',
@@ -11655,6 +11655,12 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1481,
       },
+      {
+        word: "JUMPY",
+        gameDate: "7/10/25",
+        myScore: 4,
+        wordNumber: 1482,
+      },
     
     
   ];
@@ -11667,4 +11673,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 4, 2025")
+console.log("July 10, 2025")
