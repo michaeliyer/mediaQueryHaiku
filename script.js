@@ -26,5 +26,5 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall, "☠️ You really do suck a mean old dick, GOP. You are full on Pros, Pals!! That's good in a bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you do it right, perverts! Please Licketh our taints, and fucketh thous ☠️");
+console.log(dailyWordsSmall, "☠️ You really do suck a mean old slick dick, GOP. You are full on Pros, Pals!! That's good in a bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you do it right, perverts! Please Licketh our taints, and fucketh thous ☠️");
 
