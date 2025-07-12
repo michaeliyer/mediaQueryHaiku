@@ -1332,7 +1332,7 @@ export const dailyWordsSmall = [
     'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOBBY', 'BONEY', 
     'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
-    'BRAND', 'BRAWL', 'BRICK', 'BROIL',
+    'BRAWL', 'BRICK', 'BROIL',
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BULGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
@@ -1587,7 +1587,7 @@ export const dailyWordsLarge = [
     'BOWNE', 'BOWRS', 'BOWSE', 'BOXED', 'BOXEN', 'BOXES', 'BOXLA', 'BOXTY', 'BOYAR',
     'BOYAU', 'BOYED', 'BOYFS', 'BOYGS', 'BOYLA', 'BOYOS', 'BOYSY', 'BOZOS', 'BRAAI', 
     'BRACH', 'BRACK', 'BRACT', 'BRADS', 'BRAES', 'BRAGS', 'BRAIL',
-    'BRAKS', 'BRAKY', 'BRAME', 'BRAND', 'BRANE', 'BRANK', 'BRANS', 'BRANT', 
+    'BRAKS', 'BRAKY', 'BRAME', 'BRANE', 'BRANK', 'BRANS', 'BRANT', 
     'BRAST', 'BRATS', 'BRAVA', 'BRAVI', 'BRAWL', 'BRAWS', 'BRAXY',
     'BRAYS', 'BRAZA', 'BRAZE', 'BREAM', 'BREDE', 'BREDS', 'BREEM',
     'BREER', 'BREES', 'BREID', 'BREIS', 'BREME', 'BRENS', 'BRENT', 'BRERE', 'BRERS', 'BREVE',
@@ -11660,6 +11660,12 @@ export const wordleWords = [
         gameDate: "7/10/25",
         myScore: 4,
         wordNumber: 1482,
+      },
+      {
+        word: "BRAND",
+        gameDate: "7/11/25",
+        myScore: 4,
+        wordNumber: 1483,
       },
     
     
