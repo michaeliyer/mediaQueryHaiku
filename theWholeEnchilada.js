@@ -1356,7 +1356,7 @@ export const dailyWordsSmall = [
     'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'EMBED', 'EMCEE', 'ENEMY', 
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
-    'EXILE', 'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 
+    'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 
     'FANNY', 'FATAL', 'FATTY', 'FAUNA', 'FECAL', 'FELLA', 'FELON', 'FEMME', 'FEMUR', 'FENCE',
     'FETAL', 'FETCH', 'FETID', 'FETUS', 'FICUS', 'FIERY', 
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
@@ -1800,7 +1800,7 @@ export const dailyWordsLarge = [
     'EUPAD', 'EUROS', 'EUSOL', 'EVENS', 'EVERT', 'EVETS', 'EVHOE',
     'EVICT', 'EVILS', 'EVITE', 'EVOHE', 'EWERS', 'EWEST', 'EWHOW', 'EWKED', 
     'EXAMS', 'EXEAT', 'EXECS', 'EXEEM', 'EXEME', 'EXFIL', 'EXIES',
-    'EXILE', 'EXINE', 'EXING', 'EXITS', 'EXODE', 'EXOME', 'EXONS', 'EXPAT', 
+    'EXINE', 'EXING', 'EXITS', 'EXODE', 'EXOME', 'EXONS', 'EXPAT', 
     'EXPOS', 'EXTOL', 'EXUDE', 'EXULS', 'EXURB', 'EYASS', 'EYERS', 'EYING',
     'EYOTS', 'EYRAS', 'EYRES', 'EYRIE', 'EYRIR', 'EZINE', 'FABLE', 'FACED', 'FACES', 
     'FACIA', 'FACTA', 'FACTS', 'FADDY', 'FADED', 'FADER', 'FADES', 'FADGE', 'FADOS', 'FAENA', 
@@ -11666,6 +11666,12 @@ export const wordleWords = [
         gameDate: "7/11/25",
         myScore: 4,
         wordNumber: 1483,
+      },
+      {
+        word: "EXILE",
+        gameDate: "7/12/25",
+        myScore: 4,
+        wordNumber: 1484,
       },
     
     
