@@ -415,6 +415,12 @@
     background-size: cover;
     padding: .55rem;
   }
+
+  .whole-box-48 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbmrucHzJrWWCJPYY_OF1y_lx06-0nuauc_w&s);
+    background-size: cover;
+    padding: .55rem;
+  }
   
   .line-1a {
     color: rgb(0, 0, 0);
