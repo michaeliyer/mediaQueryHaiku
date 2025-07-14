@@ -1436,7 +1436,7 @@ export const dailyWordsSmall = [
     'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
-    'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 'UNDID',
+    'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 
     'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VOCAL', 'VOGUE', 
@@ -2647,7 +2647,7 @@ export const dailyWordsLarge = [
     'UMIAK', 'UMIAQ', 'UMMAH', 'UMMAS', 'UMMED', 'UMPED', 'UMPHS', 'UMPIE', 'UMPTY', 'UMRAH',
     'UMRAS', 'UNAIS', 'UNAPT', 'UNARM', 'UNARY', 'UNAUS', 'UNBAG', 'UNBAN', 'UNBAR', 'UNBED',
     'UNBID', 'UNBOX', 'UNCAP', 'UNCES', 'UNCIA', 'UNCOS', 'UNCOY', 'UNCUS', 'UNCUT',
-    'UNDAM', 'UNDEE', 'UNDID', 'UNDOS', 'UNDUG', 'UNETH',
+    'UNDAM', 'UNDEE', 'UNDOS', 'UNDUG', 'UNETH',
     'UNFIX', 'UNGAG', 'UNGET', 'UNGOD', 'UNGOT', 'UNGUM', 'UNHAT', 'UNHIP', 'UNICA',
     'UNION', 'UNITS', 'UNITY', 'UNJAM', 'UNKED', 'UNKET', 'UNKID', 'UNLAW', 'UNLAY',
     'UNLED', 'UNLET', 'UNLID', 'UNMAN', 'UNMEW', 'UNMIX', 'UNPAY', 'UNPEG',
@@ -11678,6 +11678,12 @@ export const wordleWords = [
         gameDate: "7/13/25",
         myScore: 3,
         wordNumber: 1485,
+      },
+      {
+        word: "UNDID",
+        gameDate: "7/14/25",
+        myScore: 3,
+        wordNumber: 1486,
       },
     
     
