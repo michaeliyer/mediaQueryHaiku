@@ -2193,7 +2193,7 @@ export const dailyWordsLarge = [
     'NEELD', 'NEELE', 'NEEMB', 'NEEMS', 'NEEPS', 'NEESE', 'NEEZE', 'NEGUS', 'NEIFS', 
     'NEIST', 'NEIVE', 'NELIS', 'NELLY', 'NEMAS', 'NEMNS', 'NEMPT', 'NENES', 'NEONS', 'NEPER',
     'NEPIT', 'NERAL', 'NERDS', 'NERKA', 'NERKS', 'NEROL', 'NERTS', 'NERTZ',
-    'NERVY', 'NESTS', 'NETES', 'NETOP', 'NETTS', 'NETTY', 'NEUKS', 'NEUME', 'NEUMS', 'NEVEL',
+    'NESTS', 'NETES', 'NETOP', 'NETTS', 'NETTY', 'NEUKS', 'NEUME', 'NEUMS', 'NEVEL',
     'NEVES', 'NEVUS', 'NEWBS', 'NEWED', 'NEWEL', 'NEWER', 'NEWIE', 'NEWLY', 'NEWSY',
     'NEWTS', 'NEXTS', 'NEXUS',
     'NGAIO', 'NGANA', 'NGATI', 'NGOMA', 'NGWEE', 'NICAD', 'NICHT', 'NICKS',
@@ -11685,11 +11685,17 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1486,
       },
-          {
+      {
         word: "FOIST",
         gameDate: "7/15/25",
         myScore: 4,
         wordNumber: 1487,
+      },
+      {
+        word: "NERVY",
+        gameDate: "7/16/25",
+        myScore: 3,
+        wordNumber: 1488,
       },
     
     
@@ -11703,4 +11709,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 10, 2025")
+console.log("July 16, 202, Jackwagon")
