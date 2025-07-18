@@ -1384,7 +1384,7 @@ export const dailyWordsSmall = [
     'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
-    'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA', 'MODAL',
+    'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA', 
     'MOGUL', 'MOODY', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
@@ -2152,7 +2152,7 @@ export const dailyWordsLarge = [
     'MIRVS', 'MIRZA', 'MISCH', 'MISDO', 'MISER', 'MISES', 'MISGO', 'MISOS', 'MISSA', 'MISSY',
     'MISTS', 'MISTY', 'MITCH', 'MITER', 'MITES', 'MITIS', 'MITRE', 'MITTS', 'MIXED', 'MIXEN',
     'MIXER', 'MIXES', 'MIXTE', 'MIXUP', 'MIZEN', 'MIZZY', 'MNEME', 'MOANS', 'MOATS', 'MOBBY',
-    'MOBES', 'MOBEY', 'MOBIE', 'MOBLE', 'MOCHA', 'MOCHI', 'MOCHS', 'MOCHY', 'MOCKS', 'MODAL',
+    'MOBES', 'MOBEY', 'MOBIE', 'MOBLE', 'MOCHA', 'MOCHI', 'MOCHS', 'MOCHY', 'MOCKS',
     'MODER', 'MODES', 'MODGE', 'MODII', 'MODUS', 'MOERS', 'MOFOS', 'MOGGY',
     'MOGUL', 'MOHEL', 'MOHOS', 'MOHRS', 'MOHUA', 'MOHUR', 'MOILE', 'MOILS', 'MOIRA', 'MOIRE',
     'MOITS', 'MOJOS', 'MOKES', 'MOKIS', 'MOKOS', 'MOLAL', 'MOLAS', 'MOLDS',
@@ -11692,10 +11692,10 @@ export const wordleWords = [
         wordNumber: 1487,
       },
       {
-        word: "NERVY",
-        gameDate: "7/16/25",
+        word: "MODAL",
+        gameDate: "7/17/25",
         myScore: 3,
-        wordNumber: 1488,
+        wordNumber: 1489,
       },
     
     
