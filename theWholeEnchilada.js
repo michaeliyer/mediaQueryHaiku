@@ -1384,7 +1384,7 @@ export const dailyWordsSmall = [
     'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
-    'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA', 
+    'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA',
     'MOGUL', 'MOODY', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 'NASAL',
@@ -2095,7 +2095,7 @@ export const dailyWordsLarge = [
     'LOMAS', 'LOMED', 'LOMES', 'LONER', 'LONGA', 'LONGE', 'LONGS', 'LOOBY', 'LOOED', 'LOOEY',
     'LOOFA', 'LOOFS', 'LOOIE', 'LOOKS', 'LOOKY', 'LOOMS', 'LOONS', 'LOONY', 'LOOPS', 
     'LOORD', 'LOOSE', 'LOOTS', 'LOPED', 'LOPER', 'LOPES', 'LOPPY', 'LORAL', 'LORAN', 'LORDS',
-    'LORDY', 'LOREL', 'LORES', 'LORIC', 'LORIS', 'LORRY', 'LOSED', 'LOSEL', 'LOSEN', 
+    'LORDY', 'LOREL', 'LORES', 'LORIC', 'LORRY', 'LOSED', 'LOSEL', 'LOSEN', 
     'LOSES', 'LOSSY', 'LOTAH', 'LOTAS', 'LOTES', 'LOTIC', 'LOTOS', 'LOTSA', 'LOTTA', 'LOTTE',
     'LOTTO', 'LOTUS', 'LOUED', 'LOUGH', 'LOUIE', 'LOUIS', 'LOUMA', 'LOUND', 'LOUNS', 'LOUPE',
     'LOUPS', 'LOURE', 'LOURS', 'LOURY', 'LOUSY', 'LOUTS', 'LOVAT', 'LOVED', 
@@ -11692,12 +11692,23 @@ export const wordleWords = [
         wordNumber: 1487,
       },
       {
+        word: "NERVY",
+        gameDate: "7/16/25",
+        myScore: 3,
+        wordNumber: 1488,
+      },
+      {
         word: "MODAL",
         gameDate: "7/17/25",
         myScore: 3,
         wordNumber: 1489,
-      },
-    
+      },  
+      {
+        word: "LORIS",
+        gameDate: "7/18/25",
+        myScore: 3,
+        wordNumber: 1490,
+      },  
     
   ];
 
