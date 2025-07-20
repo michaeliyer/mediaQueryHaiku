@@ -1428,7 +1428,7 @@ export const dailyWordsSmall = [
     'STEER', 'STOKE', 'STOOP', 'STORK', 
     'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUNK', 'STUNT', 'SUING',
     'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
-    'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORD', 'SWORE', 
+    'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORE', 
     'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
@@ -2554,7 +2554,7 @@ export const dailyWordsLarge = [
     'SWEIR', 'SWELT', 'SWEPT', 'SWERF', 'SWEYS', 'SWIES', 'SWIFT', 'SWIGS',
     'SWILE', 'SWIMS', 'SWING', 'SWINK', 'SWIPE', 'SWIRE',
     'SWISS', 'SWITH', 'SWITS', 'SWIVE', 'SWIZZ', 'SWOBS', 'SWOLE', 'SWOLN', 'SWOOP',
-    'SWOPS', 'SWOPT', 'SWORD', 'SWORE', 'SWORN', 'SWOTS', 'SWOUN', 'SYBBE', 'SYBIL',
+    'SWOPS', 'SWOPT', 'SWORE', 'SWORN', 'SWOTS', 'SWOUN', 'SYBBE', 'SYBIL',
     'SYBOE', 'SYBOW', 'SYCEE', 'SYCES', 'SYCON', 'SYENS', 'SYKER', 'SYKES', 'SYLIS', 'SYLPH',
     'SYLVA', 'SYMAR', 'SYNCH', 'SYNCS', 'SYNDS', 'SYNED', 'SYNES', 'SYNOD', 'SYNTH', 'SYPED',
     'SYPES', 'SYPHS', 'SYRAH', 'SYREN', 'SYSOP', 'SYTHE', 'SYVER',
@@ -11708,6 +11708,12 @@ export const wordleWords = [
         gameDate: "7/18/25",
         myScore: 3,
         wordNumber: 1490,
+      },  
+      {
+        word: "SWORD",
+        gameDate: "7/19/25",
+        myScore: 5,
+        wordNumber: 1491,
       },  
     
   ];
