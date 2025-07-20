@@ -453,13 +453,13 @@
   }
 
   .whole-box-54 {
-    background-image: url();
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mAXsmsnNaXRR8kiHgdZ_oTXF64GShwFYeQ&s);
     background-size: cover;
     padding: .55rem;
   }
 
   .whole-box-55 {
-    background-image: url();
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRscx0haymyjdnoAqNvGWdLLHSPZW9WNz8NSg&s);
     background-size: cover;
     padding: .55rem;
   }
@@ -1377,19 +1377,19 @@
   }
 
   .line-53a {
-    background-color: red;
-    color: white;    
+    background-color: purple;
+    color: yellow;    
     opacity: .85;
   }
 
   .line-53b {
-    background-color:  white;
-    color: red;
+    background-color:  pink;
+    color: yellow;
     opacity: .6;
   }
   
   .line-53c {
-    background-color: red;
+    background-color: purple;
     color: white;
     opacity: .85;
   }
