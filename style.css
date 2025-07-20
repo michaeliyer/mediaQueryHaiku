@@ -452,6 +452,18 @@
     padding: .55rem;
   }
 
+  .whole-box-54 {
+    background-image: url();
+    background-size: cover;
+    padding: .55rem;
+  }
+
+  .whole-box-55 {
+    background-image: url();
+    background-size: cover;
+    padding: .55rem;
+  }
+
 
 
   
@@ -1381,3 +1393,41 @@
     color: white;
     opacity: .85;
   }
+
+.line-54a {
+    background-color: red;
+    color: white;    
+    opacity: .85;
+  }
+
+  .line-54b {
+    background-color:  white;
+    color: red;
+    opacity: .6;
+  }
+  
+  .line-54c {
+    background-color: red;
+    color: white;
+    opacity: .85;
+  }
+
+  .line-55a {
+    background-color: red;
+    color: white;    
+    opacity: .85;
+  }
+
+  .line-55b {
+    background-color:  white;
+    color: red;
+    opacity: .6;
+  }
+  
+  .line-55c {
+    background-color: red;
+    color: white;
+    opacity: .85;
+  }
+
+
