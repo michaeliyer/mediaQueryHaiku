@@ -1328,7 +1328,7 @@ export const dailyWordsSmall = [
     'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
-    'BIDDY', 'BIGOT', 'BILLY', 'BINGO', 'BISON', 'BITTY', 'BLANK', 
+    'BIDDY', 'BIGOT', 'BILLY', 'BINGO', 'BISON', 'BITTY', 
     'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOBBY', 'BONEY', 
     'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
@@ -1560,7 +1560,7 @@ export const dailyWordsLarge = [
     'BISES', 'BISKS', 'BISOM', 'BISON', 'BITCH', 'BITER', 'BITES', 'BITOS', 'BITOU',
     'BITSY', 'BITTE', 'BITTS', 'BITTY', 'BIVIA', 'BIVVY', 'BIZES', 'BIZZO', 'BIZZY', 'BLABS',
     'BLADS', 'BLADY', 'BLAER', 'BLAES', 'BLAFF', 'BLAGS', 'BLAHS', 'BLAIN',
-    'BLAMS', 'BLANK', 'BLART', 'BLASE', 'BLASH', 'BLAST', 'BLATE',
+    'BLAMS', 'BLART', 'BLASE', 'BLASH', 'BLAST', 'BLATE',
     'BLATS', 'BLATT', 'BLAUD', 'BLAWN', 'BLAWS', 'BLAYS', 'BLEAR', 'BLEAT',
     'BLEBS', 'BLECH', 'BLEES', 'BLEND', 'BLENT', 'BLERT', 'BLESS', 'BLEST',
     'BLETS', 'BLEYS', 'BLIMY', 'BLIND', 'BLING', 'BLINI', 'BLINS', 'BLINY',
@@ -11714,6 +11714,12 @@ export const wordleWords = [
         gameDate: "7/19/25",
         myScore: 5,
         wordNumber: 1491,
+      },  
+      {
+        word: "BLANK",
+        gameDate: "7/20/25",
+        myScore: 3,
+        wordNumber: 1492,
       },  
     
   ];
