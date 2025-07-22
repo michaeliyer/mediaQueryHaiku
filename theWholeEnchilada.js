@@ -2601,7 +2601,7 @@ export const dailyWordsLarge = [
     'TIMID', 'TIMON', 'TIMPS', 'TINAS', 'TINCT', 'TINDS', 'TINEA', 'TINED', 'TINES', 'TINGE',
     'TINGS', 'TINKS', 'TINNY', 'TINTS', 'TINTY', 'TIPIS', 'TIPPY', 'TIRED', 'TIRES',
     'TIRLS', 'TIROS', 'TIRRS', 'TITCH', 'TITER', 'TITIS', 'TITRE',
-    'TITTY', 'TITUP', 'TIYIN', 'TIYNS', 'TIZES', 'TIZZY', 'TOADS', 'TOADY', 'TOAZE',
+    'TITTY', 'TITUP', 'TIYIN', 'TIYNS', 'TIZES', 'TOADS', 'TOADY', 'TOAZE',
     'TOCKS', 'TOCKY', 'TOCOS', 'TODDE', 'TODDY', 'TOEAS', 'TOFFS', 'TOFFY', 'TOFTS',
     'TOFUS', 'TOGAE', 'TOGAS', 'TOGED', 'TOGES', 'TOGUE', 'TOHOS', 'TOILE', 'TOILS', 'TOING',
     'TOISE', 'TOITS', 'TOKAY', 'TOKED', 'TOKEN', 'TOKER', 'TOKES', 'TOKOS', 'TOLAN', 'TOLAR',
@@ -11720,6 +11720,12 @@ export const wordleWords = [
         gameDate: "7/20/25",
         myScore: 3,
         wordNumber: 1492,
+      },  
+      {
+        word: "TIZZY",
+        gameDate: "7/21/25",
+        myScore: 6,
+        wordNumber: 1493,
       },  
     
   ];
