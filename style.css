@@ -464,6 +464,12 @@
     padding: .55rem;
   }
 
+  .whole-box-56 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhu2WTPX9tQtXcp_JBQYxHixygVizmibrnQ&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
 
 
   
@@ -1426,6 +1432,24 @@
   .line-55c {
     background-color: red;
     color: white;
+    opacity: .8;
+  }
+
+  .line-56a {
+    background-color: grey;
+    color: yellow;    
+    opacity: .85;
+  }
+
+  .line-56b {
+    background-color:  grey;
+    color: yellow;
+    opacity: .6;
+  }
+  
+  .line-56c {
+    background-color: grey;
+    color: yellow;
     opacity: .8;
   }
 
