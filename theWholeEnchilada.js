@@ -1440,7 +1440,7 @@ export const dailyWordsSmall = [
     'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VOCAL', 'VOGUE', 
-    'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
+    'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 
     'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WOMEN', 'WOODY', 'WOOLY',
@@ -2693,7 +2693,7 @@ export const dailyWordsLarge = [
     'WAMUS', 'WANDS', 'WANED', 'WANES', 'WANEY', 'WANGS', 'WANKS', 'WANKY', 'WANLE', 'WANLY',
     'WANNA', 'WANTS', 'WANTY', 'WANZE', 'WAQFS', 'WARBS', 'WARBY', 'WARDS', 'WARED', 'WARES',
     'WAREZ', 'WARKS', 'WARMS', 'WARNS', 'WARPS', 'WARRE', 'WARST', 'WARTS', 'WARTY', 'WASES',
-    'WASHY', 'WASMS', 'WASPS', 'WASPY', 'WASTS', 'WATAP', 'WATER', 'WATTS',
+    'WASHY', 'WASMS', 'WASPS', 'WASPY', 'WASTS', 'WATAP', 'WATTS',
     'WAUFF', 'WAUGH', 'WAUKS', 'WAULK', 'WAULS', 'WAURS', 'WAVED', 'WAVER', 'WAVES', 'WAVEY',
     'WAWAS', 'WAWES', 'WAWLS', 'WAXED', 'WAXEN', 'WAXER', 'WAXES', 'WAYED', 'WAZIR', 'WAZOO',
     'WEALD', 'WEALS', 'WEAMB', 'WEANS', 'WEARS', 'WEAVE', 'WEBBY', 'WEBER', 'WECHT',
@@ -11732,6 +11732,12 @@ export const wordleWords = [
         gameDate: "7/22/25",
         myScore: 3,
         wordNumber: 1494,
+      },  
+      {
+        word: "WATER",
+        gameDate: "7/21/25",
+        myScore: 3,
+        wordNumber: 1495,
       },  
     
   ];
