@@ -469,8 +469,15 @@
     background-size: cover;
     padding: .55rem;
   }
+
   .whole-box-57 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2vd2a2J6nJfeHlZ_0i9OqNkelsdNHqholQ&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
+  .whole-box-58 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4WZJzE8ShPuQOG3BLMHtY6VPuh-ElJUavDQ&s);
     background-size: cover;
     padding: .55rem;
   }
@@ -1459,18 +1466,36 @@
   }
 
   .line-57a {
+    background-color: orange;
+    color: grey;    
+    opacity: .85;
+  }
+
+  .line-57b {
+    background-color:  grey;
+    color: orange;
+    opacity: .65;
+  }
+  
+  .line-57c {
+    background-color: orange;
+    color: grey;
+    opacity: .8;
+  }
+
+  .line-58a {
     background-color: black;
     color: white;    
     opacity: .85;
   }
 
-  .line-57b {
+  .line-58b {
     background-color:  white;
     color: black;
     opacity: .65;
   }
   
-  .line-57c {
+  .line-58c {
     background-color: black;
     color: white;
     opacity: .8;
