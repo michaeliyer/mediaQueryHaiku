@@ -1898,7 +1898,7 @@ export const dailyWordsLarge = [
     'GLUGS', 'GLUME', 'GLUMS', 'GLUON', 'GLUTE', 'GLUTS', 'GNARL', 'GNARR', 'GNARS',
     'GNATS', 'GNAWN', 'GNAWS', 'GNOWS', 'GOADS', 'GOAFS', 'GOALS', 'GOARY',
     'GOATS', 'GOATY', 'GOBAN', 'GOBAR', 'GOBBI', 'GOBBO', 'GOBBY', 'GOBIS', 'GOBOS', 'GODET',
-    'GODLY', 'GODSO', 'GOELS', 'GOERS', 'GOEST', 'GOETH', 'GOETY', 'GOFER', 'GOFFS', 'GOGGA',
+    'GODLY', 'GODSO', 'GOELS', 'GOERS', 'GOEST', 'GOETH', 'GOETY', 'GOFFS', 'GOGGA',
     'GOGOS', 'GOIER', 'GOJIS', 'GOLDS', 'GOLDY', 'GOLES', 'GOLFS', 'GOLLY',
     'GOLPE', 'GOLPS', 'GOMBO', 'GOMER', 'GOMPA', 'GONAD', 'GONCH', 'GONEF', 'GONGS',
     'GONIA', 'GONIF', 'GONKS', 'GONNA', 'GONOF', 'GONYS', 'GONZO', 'GOOBY', 'GOODS',
@@ -11742,6 +11742,12 @@ export const wordleWords = [
         gameDate: "7/24/25",
         myScore: 4,
         wordNumber: 1496,
+      },  
+      {
+        word: "GOFER",
+        gameDate: "7/25/25",
+        myScore: 7,
+        wordNumber: 1497,
       },  
     
   ];
