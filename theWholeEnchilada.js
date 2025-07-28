@@ -1442,7 +1442,7 @@ export const dailyWordsSmall = [
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 
     'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
-    'WHITE', 'WHOLE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
+    'WHITE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WOMEN', 'WOODY', 'WOOLY',
     'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 
     'ZONAL'
@@ -2705,7 +2705,7 @@ export const dailyWordsLarge = [
     'WHENS', 'WHETS', 'WHEWS', 'WHEYS', 'WHIDS', 'WHIFT', 'WHIGS',
     'WHILK', 'WHIMS', 'WHINS', 'WHIOS', 'WHIPS', 'WHIPT', 
     'WHIRR', 'WHIRS', 'WHISH', 'WHISS', 'WHIST', 'WHITE', 'WHITS', 'WHITY', 'WHIZZ',
-    'WHOLE', 'WHOMP', 'WHOOF', 'WHOOT', 'WHOPS', 'WHORE', 'WHORL', 'WHORT', 
+    'WHOMP', 'WHOOF', 'WHOOT', 'WHOPS', 'WHORE', 'WHORL', 'WHORT', 
     'WHOSO', 'WHOWS', 'WHUMP', 'WHUPS', 'WHYDA', 'WICCA', 'WICKS', 'WICKY', 'WIDDY',
     'WIDER', 'WIDES', 'WIDOW', 'WIDTH', 'WIELD', 'WIELS', 'WIFED', 'WIFES', 'WIFEY', 'WIFIE',
     'WIFTY', 'WIGAN', 'WIGGY', 'WIGHT', 'WIKIS', 'WILCO', 'WILDS', 'WILED', 'WILES', 'WILGA',
@@ -11755,6 +11755,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1498,
       },  
+      {
+        word: "WHOLE",
+        gameDate: "7/27/25",
+        myScore: 3,
+        wordNumber: 1499,
+      },  
     
   ];
 
@@ -11766,4 +11772,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 16, 202, Jackwagon")
+console.log("July 27, 202, Jackwagon. Dickerson.")
