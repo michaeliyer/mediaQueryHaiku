@@ -1409,7 +1409,7 @@ export const dailyWordsSmall = [
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
     'ROOST', 'ROTOR', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
     'SADLY', 'SAFER', 'SALON', 'SALVE', 'SALVO', 'SANER', 'SAPPY', 'SATIN', 'SATYR', 
-    'SAUCE', 'SAVOY', 'SAVVY', 'SCALP', 'SCALY', 'SCAMP', 'SCARY', 'SCENE',
+    'SAUCE', 'SAVOY', 'SCALP', 'SCALY', 'SCAMP', 'SCARY', 'SCENE',
     'SCION', 'SCOOP', 'SCREE', 'SCREW', 
     'SCUBA', 'SEGUE', 'SEIZE', 'SEMEN', 'SEPIA', 'SERIF', 'SETUP', 'SEWER', 'SHACK',
     'SHADY', 'SHALE', 'SHALT', 'SHARK', 
@@ -2411,7 +2411,7 @@ export const dailyWordsLarge = [
     'SARUS', 'SASER', 'SASIN', 'SASSE', 'SATAI', 'SATAY', 'SATED', 'SATEM', 'SATES',
     'SATIN', 'SATIS', 'SATYR', 'SAUBA', 'SAUCE', 'SAUCH', 'SAUGH', 'SAULS', 'SAULT',
     'SAUNT', 'SAURY', 'SAUTS', 'SAVED', 'SAVER', 'SAVES', 'SAVEY', 'SAVIN',
-    'SAVOY', 'SAVVY', 'SAWAH', 'SAWED', 'SAWER', 'SAXES', 'SAYED', 'SAYER', 'SAYID',
+    'SAVOY', 'SAWAH', 'SAWED', 'SAWER', 'SAXES', 'SAYED', 'SAYER', 'SAYID',
     'SAYNE', 'SAYON', 'SAYST', 'SAZES', 'SCABS', 'SCADS', 'SCAFF', 'SCAGS', 'SCAIL', 'SCALA',
     'SCALL', 'SCALP', 'SCALY', 'SCAMP', 'SCAMS', 'SCAND', 'SCANS', 
     'SCAPA', 'SCAPE', 'SCAPI', 'SCARP', 'SCARS', 'SCART', 'SCARY', 'SCATH',
@@ -11760,6 +11760,12 @@ export const wordleWords = [
         gameDate: "7/27/25",
         myScore: 3,
         wordNumber: 1499,
+      },  
+      {
+        word: "SAVVY",
+        gameDate: "7/28/25",
+        myScore: 4,
+        wordNumber: 1500,
       },  
     
   ];
