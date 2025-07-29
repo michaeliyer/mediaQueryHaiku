@@ -506,6 +506,12 @@
     padding: .55rem;
   }
 
+  .whole-box-63 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXwQav3XUndqKNsTwLNLfJkGz-WcxICVJog&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
 
   
   .line-1a {
@@ -1593,6 +1599,24 @@
   .line-62c {
     background-color: red;
     color: black;
+    opacity: .85;
+  }
+
+  .line-63a {
+    background-color: purple;
+    color: white;    
+    opacity: .85;
+  }
+
+  .line-63b {
+    background-color:  white;
+    color: purple;
+    opacity: .85;
+  }
+  
+  .line-63c {
+    background-color: purple;
+    color: white;
     opacity: .85;
   }
 
