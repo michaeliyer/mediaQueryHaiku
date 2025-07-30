@@ -1391,7 +1391,7 @@ export const dailyWordsSmall = [
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
     'NOBLY', 'NOISY', 'NOMAD', 'NOOSE', 'NOSEY', 'NOTCH', 'NUTTY',
     'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'OLDEN', 'OMBRE',
-    'OMEGA', 'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
+    'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
@@ -2224,7 +2224,7 @@ export const dailyWordsLarge = [
     'OHMIC', 'OHONE', 'OIDIA', 'OILED', 'OILER', 'OINKS', 'OINTS', 'OJIME', 'OKAPI', 'OKAYS',
     'OKEHS', 'OKRAS', 'OKTAS', 'OLDEN', 'OLDIE', 'OLEIC', 'OLEIN', 'OLENT', 'OLEOS',
     'OLEUM', 'OLIOS', 'OLLAS', 'OLLAV', 'OLLER', 'OLLIE', 'OLOGY', 'OLPAE', 'OLPES',
-    'OMASA', 'OMBER', 'OMBRE', 'OMBUS', 'OMEGA', 'OMENS', 'OMERS', 'OMITS', 'OMLAH', 'OMOVS',
+    'OMASA', 'OMBER', 'OMBRE', 'OMBUS', 'OMENS', 'OMERS', 'OMITS', 'OMLAH', 'OMOVS',
     'OMRAH', 'ONCER', 'ONCES', 'ONCET', 'ONCUS', 'ONELY', 'ONERS', 'ONERY', 'ONIUM',
     'ONKUS', 'ONLAY', 'ONNED', 'ONTIC', 'OOBIT', 'OOHED', 'OOMPH', 'OONTS', 'OOPED',
     'OORIE', 'OOSES', 'OOTID', 'OOZED', 'OOZES', 'OPAHS', 'OPALS', 'OPENS', 'OPEPE', 
@@ -11767,6 +11767,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1500,
       },  
+      {
+        word: "OMEGA",
+        gameDate: "7/29/25",
+        myScore: 3,
+        wordNumber: 1501,
+      },  
     
   ];
 
@@ -11778,4 +11784,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 27, 2025, Jackwagon. Dickerson.")
+console.log("July 29, 2025, Jackwagon. Dickerson. Eff Off Guy.")
