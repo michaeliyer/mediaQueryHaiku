@@ -1621,7 +1621,7 @@
   }
 
   .line-63b {
-    background-color:  white;
+    background-color:  dodgerblue;
     color: purple;
     opacity: .80;
   }
@@ -1639,7 +1639,7 @@
   }
 
   .line-64b {
-    background-color:  yellow;
+    background-color:  rgb(251, 251, 179);
     color: blue;
     opacity: .80;
   }
@@ -1657,9 +1657,9 @@
   }
 
   .line-65b {
-    background-color:  navy;
+    background-color:  lightskyblue;
     color: cream;
-    opacity: .80;
+    opacity: .60;
   }
   
   .line-65c {
