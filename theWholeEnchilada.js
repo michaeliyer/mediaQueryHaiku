@@ -1324,7 +1324,7 @@ export const dailyWordsSmall = [
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'ALONG', 'AMAZE', 'AMEND',
     'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNEX', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
-    'ARSON', 'ASSAY', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
+    'ARSON', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BANJO', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
@@ -1505,7 +1505,7 @@ export const dailyWordsLarge = [
     'ARTEL', 'ARTIC', 'ARTIS', 'ARUHE', 'ARUMS', 'ARVAL', 'ARVEE', 'ARVOS', 'ARYLS',
     'ASANA', 'ASCON', 'ASCUS', 'ASDIC', 'ASHED', 'ASHES', 'ASHET', 
     'ASKED', 'ASKER', 'ASKOI', 'ASKOS', 'ASPEN', 'ASPER', 'ASPIC', 'ASPIS', 'ASPRO',
-    'ASSAI', 'ASSAM', 'ASSAY', 'ASSES', 'ASSEZ', 'ASSOT', 'ASTER', 'ASTIR', 'ASTUN',
+    'ASSAI', 'ASSAM', 'ASSES', 'ASSEZ', 'ASSOT', 'ASTER', 'ASTIR', 'ASTUN',
     'ASURA', 'ASWAY', 'ASWIM', 'ASYLA', 'ATAPS', 'ATAXY', 'ATIGI', 'ATILT', 'ATIMY', 
     'ATMAN', 'ATMAS', 'ATMOS', 'ATOCS', 'ATOKE', 'ATOKS', 'ATOMS', 'ATOMY', 
     'ATONY', 'ATOPY', 'ATRIP', 'ATTAP', 'ATTAR', 'ATTIC', 'ATUAS', 'AUDAD', 
@@ -11773,6 +11773,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1501,
       },  
+      {
+        word: "ASSAY",
+        gameDate: "7/30/25",
+        myScore: 3,
+        wordNumber: 1502,
+      },  
     
   ];
 
@@ -11784,4 +11790,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 29, 2025, Jackwagon. Dickerson. Eff Off Guy.")
+console.log("July 30, 2025, Jackwagon. Dickerson. Eff Off Guyo.")
