@@ -1362,7 +1362,7 @@ export const dailyWordsSmall = [
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
     'FLECK', 'FLEET', 'FLIER', 'FLUID', 'FLUKE', 
     'FLUSH', 'FLUTE', 'FORUM', 'FRAUD',
-    'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRILL', 'FRISK', 'FRITZ', 'FRUIT', 'FUCKO', 'FUDGE',
+    'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRITZ', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
     'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 'GEESE',  
     'GIPSY', 'GIRLY', 'GIVER', 'GLARE', 'GLINT', 'GLOSS', 
@@ -1852,7 +1852,7 @@ export const dailyWordsLarge = [
     'FRABS', 'FRACK', 'FRACT', 'FRAGS', 'FRAIM', 'FRANC', 'FRAPE',
     'FRAPS', 'FRASS', 'FRATE', 'FRATI', 'FRATS', 'FRAUD', 'FRAUS', 'FRAYS', 'FREAK', 'FREED',
     'FREER', 'FREES', 'FREET', 'FREIT', 'FREMD', 'FRENA', 'FREON', 'FRERE', 'FRETS',
-    'FRIAR', 'FRIBS', 'FRIER', 'FRIES', 'FRIGS', 'FRILL', 'FRISE', 'FRISK', 'FRIST',
+    'FRIAR', 'FRIBS', 'FRIER', 'FRIES', 'FRIGS', 'FRISE', 'FRISK', 'FRIST',
     'FRITH', 'FRITS', 'FRITT', 'FRITZ', 'FRIZE', 'FRIZZ', 'FROES', 'FROGS', 
     'FRONS', 'FRORE', 'FRORN', 'FRORY', 'FROSH', 'FROWS',
     'FROWY', 'FRUGS', 'FRUIT', 'FRUMP', 'FRUSH', 'FRUST', 'FRYER', 'FUBAR', 'FUBBY',
@@ -11779,6 +11779,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1502,
       },  
+      {
+        word: "FRILL",
+        gameDate: "7/31/25",
+        myScore: 4,
+        wordNumber: 1503,
+      },  
     
   ];
 
@@ -11790,4 +11796,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 30, 2025, Jackwagon. Dickerson. Eff Off Guyo.")
+console.log("July 31, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
