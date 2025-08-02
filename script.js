@@ -9,7 +9,7 @@ console.log(moreThing);
 const anotherThing = "Man";
 console.log(anotherThing);
 const yetAnotherThing = "Good job";
-console.log(yetAnotherThing, "You, um, suck Man. Got, um, that!");
+console.log(yetAnotherThing, "You, um, suck Man. Got, um, that?");
 
 const blueLink = document.querySelector(".line-1a");
 blueLink.addEventListener("click", changeOpacity);
@@ -26,5 +26,5 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall, "Eat it, um, eh? Yeh, um, yeh fuckin' loser Varlicks! ☠️ You, um, really und truly do suck, um, a mean, um, old slick, ah, dick, GOP. You are soooo full on Pros, Pals!! That's good in a bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you stii do it right, perverts! Please Licketh our taints, and, um, fucketh thous ☠️. Your pervert's going down");
+console.log(dailyWordsSmall, "Eat, um it, um, eh? Yeh, um, yeh fuckin' loser Varlicks! ☠️ You, um, really und truly do suck, um, a mean, um, old slick, ah, dick, GOP. You are soooo full on Pros, Pals!! That's good in a bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you stii do it right, perverts! Please Licketh our taints, and, um, fucketh thous ☠️. Your pervert's going down");
 
