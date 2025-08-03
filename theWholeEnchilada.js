@@ -1345,7 +1345,7 @@ export const dailyWordsSmall = [
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
-    'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DAUNT', 'DEALT', 'DEBAR',
+    'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DEALT', 'DEBAR',
     'DECOR', 'DEFER', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
@@ -1711,7 +1711,7 @@ export const dailyWordsLarge = [
     'DANNY', 'DANTS', 'DARAF', 'DARBS', 'DARCY', 'DARED', 'DARER', 'DARES', 'DARGA', 'DARGS',
     'DARIC', 'DARIS', 'DARKS', 'DARNS', 'DARRE', 'DARTS', 'DARZI', 'DASHI', 'DASHY', 'DATAL',
     'DATED', 'DATER', 'DATES', 'DATOS', 'DATTO', 'DAUBE', 'DAUBS', 'DAUBY', 'DAUDS',
-    'DAULT', 'DAUNT', 'DAURS', 'DAUTS', 'DAVEN', 'DAVIT', 'DAWAH', 'DAWDS', 'DAWED', 'DAWEN',
+    'DAULT', 'DAURS', 'DAUTS', 'DAVEN', 'DAVIT', 'DAWAH', 'DAWDS', 'DAWED', 'DAWEN',
     'DAWKS', 'DAWNS', 'DAWTS', 'DAYAN', 'DAYCH', 'DAYNT', 'DAZED', 'DAZER', 'DAZES',
     'DEADS', 'DEAIR', 'DEALS', 'DEALT', 'DEANS', 'DEARE', 'DEARN', 'DEARS', 'DEARY', 'DEASH',
     'DEAVE', 'DEAWS', 'DEAWY', 'DEBAG', 'DEBAR', 'DEBBY', 'DEBEL', 'DEBES', 
@@ -11790,6 +11790,12 @@ export const wordleWords = [
         gameDate: "8/1/25",
         myScore: 4,
         wordNumber: 1504,
+      },  
+      {
+        word: "DAUNT",
+        gameDate: "8/2/25",
+        myScore: 3,
+        wordNumber: 1505,
       },  
     
   ];
