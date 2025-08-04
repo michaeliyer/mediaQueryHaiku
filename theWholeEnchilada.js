@@ -1381,7 +1381,7 @@ export const dailyWordsSmall = [
     'LATHE', 'LEACH', 'LEANT', 'LEAST', 'LEFTY', 'LEGAL',
     'LEPER', 'LEVEL', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LLAMA',
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LOUSY', 'LUMEN',
-    'LUMPY', 'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
+    'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
     'MINIM', 'MINOR', 'MINTY', 'MIRTH', 'MISER', 'MISSY', 'MOCHA',
@@ -2103,7 +2103,7 @@ export const dailyWordsLarge = [
     'LOWNS', 'LOWPS', 'LOWRY', 'LOWSE', 'LOWTS', 'LOXED', 'LOXES', 'LOZEN', 'LUACH',
     'LUAUS', 'LUBED', 'LUBES', 'LUCES', 'LUCKS', 'LUCRE', 'LUDES', 'LUDIC',
     'LUDOS', 'LUFFA', 'LUFFS', 'LUGED', 'LUGER', 'LUGES', 'LULLS', 'LULUS', 'LUMAS', 'LUMBI',
-    'LUMEN', 'LUMME', 'LUMMY', 'LUMPS', 'LUMPY', 'LUNAS', 'LUNES', 'LUNET',
+    'LUMEN', 'LUMME', 'LUMMY', 'LUMPS', 'LUNAS', 'LUNES', 'LUNET',
     'LUNGI', 'LUNGS', 'LUNKS', 'LUNTS', 'LUPIN', 'LUPUS', 'LURCH', 'LURED', 'LURER',
     'LURES', 'LUREX', 'LURGI', 'LURGY', 'LURID', 'LURKS', 'LURRY', 'LURVE', 'LUSER', 'LUSHY',
     'LUSKS', 'LUSTS', 'LUSUS', 'LUTEA', 'LUTED', 'LUTER', 'LUTES',
@@ -11796,6 +11796,12 @@ export const wordleWords = [
         gameDate: "8/2/25",
         myScore: 3,
         wordNumber: 1505,
+      },  
+      {
+        word: "LUMPY",
+        gameDate: "8/3/25",
+        myScore: 4,
+        wordNumber: 1506,
       },  
     
   ];
