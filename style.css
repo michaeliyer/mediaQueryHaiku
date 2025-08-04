@@ -975,7 +975,7 @@
   
   .line-25c {
     background-color: wheat;
-    color: cream;
+    color: wheat;
     opacity: .25;
   }
 
@@ -1268,15 +1268,15 @@
   }
 
   .line-42a {
-    background-color: wheat;
+    background-color: rgb(228, 152, 10);
     color: white;    
     opacity: .85;
   }
 
   .line-42b {
-    background-color:  grey;
-    color: hotpink;
-    opacity: .6;
+    background-color:  white;
+    color: rgba(138, 9, 74, .6);
+    opacity: .7;
   }
   
   .line-42c {
@@ -1286,8 +1286,8 @@
   }
 
   .line-43a {
-    background-color: pink;
-    color: silver;    
+    background-color: rgb(248, 101, 126);
+    color: rgb(130, 41, 41);    
     opacity: .85;
   }
 
@@ -1420,7 +1420,7 @@
 
   .line-50b {
     background-color:  maroon;
-    color: cream;
+    color: whitesmoke;
     opacity: .6;
   }
   
