@@ -1795,4 +1795,21 @@
     opacity: .80;
   }
 
+  .line-71a {
+    background-color: green;
+    color: yellow;    
+    opacity: .85;
+  }
+
+  .line-71b {
+    background-color:  yellow;
+    color: green;
+    opacity: .80;
+  }
+  
+  .line-71c {
+    background-color: green;
+    color: yellow;
+    opacity: .80;
+  }
 
