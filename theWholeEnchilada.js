@@ -1405,7 +1405,7 @@ export const dailyWordsSmall = [
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
     'RARER', 'RASPY', 'RATTY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
-    'RENAL', 'REPLY', 'RESET', 'RICER', 'RIFLE', 'RIGID',
+    'RENAL', 'REPLY', 'RESET', 'RICER', 'RIFLE', 
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
     'ROOST', 'ROTOR', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
     'SADLY', 'SAFER', 'SALON', 'SALVE', 'SALVO', 'SANER', 'SAPPY', 'SATIN', 'SATYR', 
@@ -2370,7 +2370,7 @@ export const dailyWordsLarge = [
     'RHUMB', 'RHYNE', 'RHYTA', 'RIADS', 'RIALS', 'RIANT', 'RIATA', 'RIBAS', 'RIBBY',
     'RIBES', 'RICED', 'RICER', 'RICES', 'RICEY', 'RICHT', 'RICIN', 'RICKS', 'RIDES',
     'RIDGY', 'RIDIC', 'RIELS', 'RIEMS', 'RIEVE', 'RIFER', 'RIFFS', 'RIFLE', 'RIFTE',
-    'RIFTS', 'RIFTY', 'RIGGS', 'RIGID', 'RIGOL', 'RIGOR', 'RILED', 'RILES', 'RILEY',
+    'RIFTS', 'RIFTY', 'RIGGS', 'RIGOL', 'RIGOR', 'RILED', 'RILES', 'RILEY',
     'RILLE', 'RILLS', 'RIMAE', 'RIMED', 'RIMER', 'RIMES', 'RIMUS', 'RINDS', 'RINDY', 'RINES',
     'RINGS', 'RINKS', 'RINSE', 'RIOJA', 'RIOTS', 'RIPED', 'RIPEN', 'RIPES', 'RIPPS',
     'RISER', 'RISES', 'RISHI', 'RISKS', 'RISKY', 'RISPS', 'RISUS', 'RITES', 'RITTS',
@@ -11803,6 +11803,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1506,
       },  
+      {
+        word: "RIGID",
+        gameDate: "8/4/25",
+        myScore: 3,
+        wordNumber: 1507,
+      },  
     
   ];
 
@@ -11814,4 +11820,4 @@ export const letterValues = {
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
-console.log("July 31, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
+console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
