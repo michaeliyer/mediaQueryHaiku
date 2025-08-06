@@ -1802,7 +1802,7 @@
   }
 
   .line-71b {
-    background-color:  yellow;
+    background-color: yellow;
     color: green;
     opacity: .80;
   }
@@ -1810,6 +1810,24 @@
   .line-71c {
     background-color: green;
     color: yellow;
+    opacity: .80;
+  }
+
+  .line-72a {
+    background-color: grey;
+    color: apricot;    
+    opacity: .85;
+  }
+
+  .line-72b {
+    background-color: navy;
+    color: orange;
+    opacity: .80;
+  }
+  
+  .line-72c {
+    background-color: grey;
+    color: apricot;
     opacity: .80;
   }
 
