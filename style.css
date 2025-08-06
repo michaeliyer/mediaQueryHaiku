@@ -98,7 +98,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr;
       grid-gap: .5rem;
-      background-color: rgb(255, 77, 0);
+      background-color: rgb(255, 77, 1);
     }
   
     .whole-box {
