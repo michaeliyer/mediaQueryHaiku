@@ -561,6 +561,12 @@
     padding: .55rem;
   }
 
+  .whole-box-72 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyhYh_6ZZpAkxKpraIhFjOuaT7JDIIzxhnQ&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
 
   
   .line-1a {
@@ -1815,7 +1821,7 @@
 
   .line-72a {
     background-color: grey;
-    color: apricot;    
+    color: rgb(224, 137, 87);    
     opacity: .85;
   }
 
@@ -1827,7 +1833,7 @@
   
   .line-72c {
     background-color: grey;
-    color: apricot;
+    color: rgb(224, 137, 87);
     opacity: .80;
   }
 
