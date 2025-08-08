@@ -1832,20 +1832,20 @@
   }
 
   .line-72a {
-    background-color: grey;
-    color: rgb(224, 137, 87);    
+    background-color: coral;
+   color: chartreuse; 
     opacity: .85;
   }
 
   .line-72b {
-    background-color: navy;
-    color: orange;
+    background-color: coral;
+    color: chartreuse; 
     opacity: .80;
   }
   
   .line-72c {
-    background-color: grey;
-    color: rgb(224, 137, 87);
+    background-color: coral;
+   color: chartreuse; 
     opacity: .80;
   }
 
@@ -1868,8 +1868,8 @@
   }
 
   .line-74a {
-    background-color: blue;
-    color: yellow;    
+    background-color: grey;  
+    color: rgb(224, 137, 87); 
     opacity: .85;
   }
 
@@ -1880,8 +1880,8 @@
   }
   
   .line-74c {
-    background-color: blue;
-    color: yellow;    
+    background-color: grey;  
+    color: rgb(224, 137, 87);    
     opacity: .85;
   }
 
