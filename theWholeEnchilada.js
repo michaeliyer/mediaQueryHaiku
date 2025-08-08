@@ -1341,7 +1341,7 @@ export const dailyWordsSmall = [
     'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMIC', 'CONCH',
-    'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
+    'COPSE', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
@@ -1674,7 +1674,7 @@ export const dailyWordsLarge = [
     'CONUS', 'CONVO', 'COOCH', 'COOED', 'COOEE', 'COOER', 'COOEY', 'COOFS', 'COOKS', 'COOKY',
     'COOLS', 'COOMB', 'COOMS', 'COOMY', 'COONS', 'COOPS', 'COOPT', 'COOST', 'COOTS', 'COOZE',
     'COPAL', 'COPAY', 'COPED', 'COPEN', 'COPER', 'COPES', 'COPPY', 'COPRA', 'COPSE', 'COPSY',
-    'COQUI', 'CORAL', 'CORAM', 'CORBE', 'CORBY', 'CORDS', 'CORED', 'CORES', 'COREY',
+    'COQUI', 'CORAM', 'CORBE', 'CORBY', 'CORDS', 'CORED', 'CORES', 'COREY',
     'CORGI', 'CORIA', 'CORKS', 'CORKY', 'CORMS', 'CORNI', 'CORNO', 'CORNS', 'CORNU',
     'CORPS', 'CORSE', 'CORSO', 'COSEC', 'COSED', 'COSES', 'COSET', 'COSEY', 'COSIE', 'COSTA',
     'COSTE', 'COSTS', 'COTAN', 'COTED', 'COTES', 'COTHS', 'COTTA', 'COTTS', 'COUCH', 'COUDE',
@@ -11821,6 +11821,12 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1509,
       },  
+      {
+        word: "CORAL",
+        gameDate: "8/7/25",
+        myScore: 1,
+        wordNumber: 1510,
+      },  
     
   ];
 
@@ -11833,3 +11839,5 @@ console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
+console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
+
