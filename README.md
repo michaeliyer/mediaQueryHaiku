@@ -1,1 +1,1 @@
-Figuring out how to make this useful, Jerk!! And Not Successfully! Got it? Do You? I asked DO YOU? Okay? [[[[[[[[[[[[[[[[[
+Figuring out how to make this useful, Jerk!! And Not Successfully! Got it? Do You? I asked DO YOU? Okay? Coral day 8-8-25 ***********
