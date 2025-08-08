@@ -562,13 +562,19 @@
   }
 
   .whole-box-72 {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyhYh_6ZZpAkxKpraIhFjOuaT7JDIIzxhnQ&s);
+    background-image: url(https://a-z-animals.com/media/2020/05/Coral-in-aquarium.jpg);
     background-size: cover;
     padding: .55rem;
   }
 
   .whole-box-73 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZImlnYX0qXmPOHdmYkob3OVI6uwnkz9vXZA&s);
+    background-size: cover;
+    padding: .55rem;
+  }
+
+  .whole-box-74 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyhYh_6ZZpAkxKpraIhFjOuaT7JDIIzxhnQ&s);
     background-size: cover;
     padding: .55rem;
   }
@@ -1844,13 +1850,13 @@
   }
 
   .line-73a {
-    background-color: turquoise;
+    background-color: coral;
     color: chartreuse;    
     opacity: .85;
   }
 
   .line-73b {
-    background-color: crimson;
+    background-color: coral;
     color: turquoise;
     opacity: .80;
   }
@@ -1858,6 +1864,24 @@
   .line-73c {
     background-color: turquoise;
     color: chartreuse;    
+    opacity: .85;
+  }
+
+  .line-74a {
+    background-color: blue;
+    color: yellow;    
+    opacity: .85;
+  }
+
+  .line-74b {
+    background-color: yellow;
+    color: blue;
+    opacity: .80;
+  }
+  
+  .line-74c {
+    background-color: blue;
+    color: yellow;    
     opacity: .85;
   }
 
