@@ -1374,7 +1374,7 @@ export const dailyWordsSmall = [
     'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOT', 'IDYLL', 'ILIAC', 
-    'IMBUE', 'IMPLY', 'INGOT', 'INLET', 'ISSUE', 
+    'IMPLY', 'INGOT', 'INLET', 'ISSUE', 
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'LADEN', 'LANCE', 'LATCH', 'LATER',
@@ -1983,7 +1983,7 @@ export const dailyWordsLarge = [
     'IDOLA', 'IDOLS', 'IDYLL', 'IDYLS', 'IFTAR', 'IGAPO', 'IGGED', 'IGLUS', 'IHRAM',
     'IKANS', 'IKATS', 'IKONS', 'ILEAC', 'ILEAL', 'ILEUM', 'ILEUS', 'ILIAC', 'ILIAD', 'ILIAL',
     'ILIUM', 'ILLER', 'ILLTH', 'IMAGO', 'IMAMS', 'IMARI', 'IMAUM', 'IMBAR', 'IMBED',
-    'IMBUE', 'IMIDE', 'IMIDO', 'IMIDS', 'IMINE', 'IMINO', 'IMMEW', 'IMMIT', 'IMMIX', 'IMPED',
+    'IMIDE', 'IMIDO', 'IMIDS', 'IMINE', 'IMINO', 'IMMEW', 'IMMIT', 'IMMIX', 'IMPED',
     'IMPIS', 'IMPLY', 'IMPOT', 'IMPRO', 'IMSHI', 'IMSHY', 'INAPT', 'INARM',
     'INBYE', 'INCEL', 'INCLE', 'INCOG', 'INCUS', 'INCUT', 'INDEW',
     'INDIA', 'INDOL', 'INDOW', 'INDRI', 'INDUE', 'INERM', 
@@ -11827,6 +11827,12 @@ export const wordleWords = [
         myScore: 1,
         wordNumber: 1510,
       },  
+      {
+        word: "IMBUE",
+        gameDate: "8/8/25",
+        myScore: 3,
+        wordNumber: 1511,
+      },  
     
   ];
 
@@ -11835,9 +11841,11 @@ export const letterValues = {
     J: 8, K: 5, L: 1, M: 3, N: 1, O: 1, P: 3, Q: 10, R: 1,
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
+
+
 console.log("this works goddamn fucking great");
 console.log("real eefin nice like, Girly Girl!")
 console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
-
+console.log("August 8, 2025, Ace: Hello" )
