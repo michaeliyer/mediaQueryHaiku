@@ -26,5 +26,5 @@ function changeMyOpacity() {
     document.body.innerText = "Bad Job Philbo!";
 }
 
-console.log(dailyWordsSmall, "Eat, um it, um, eh? Yeh, um, yeh, um, fuckin' loser, um, Varlicks! ☠️ You, um, really und truly do, well, um, suck, um, a mean, um, old slick, ah, dick, GOP. You are soooo full on Pros, Pals!! That's good in a, um, bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you stii do it right, perverts! Please Licketh our taints, and, um, fucketh thous ☠️. Your pervert's going down");
+console.log(dailyWordsSmall, "Eat, um it, um, eh? Yeh, um, yeh, um, fuckin' dumbo loser, um, Varlicks! ☠️ You, um, really und truly do, well, um, suck, um, a mean, um, old slick, ah, dick, GOP. You are soooo full on Pros, Pals!! That's good in a, um, bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you stii do it right, perverts! Please Licketh our taints, and, um, fucketh thous ☠️. Your pervert's going down");
 
