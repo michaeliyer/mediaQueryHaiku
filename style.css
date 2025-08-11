@@ -589,6 +589,12 @@
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCySsdNoOt0Iw3r4WA2MwMbvPqIl-G4NbZTA&s);
     background-size: cover;
     padding: .55rem;
+  }  
+
+  .whole-box-77 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCySsdNoOt0Iw3r4WA2MwMbvPqIl-G4NbZTA&s);
+    background-size: cover;
+    padding: .55rem;
   }   
 
 
@@ -1930,6 +1936,24 @@
   .line-76c {
     background-color: yellow;  
     color: red;    
+    opacity: .85;
+  }
+
+  .line-77a {
+    background-color: dodgerblue;  
+    color: navy; 
+    opacity: .85;
+  }
+
+  .line-77b {
+    background-color: navy;
+    color: dodgerblue;
+    opacity: .80;
+  }
+  
+  .line-77c {
+    background-color: dodgerblue;  
+    color: navy;    
     opacity: .85;
   }
 
