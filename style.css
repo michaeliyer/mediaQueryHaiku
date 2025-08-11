@@ -596,6 +596,11 @@
     background-size: cover;
     padding: .55rem;
   }   
+  .whole-box-78 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBC0-FeLeXopvR-L2ULg3FK72NaCosNjk_g&s);
+    background-size: cover;
+    padding: .55rem;
+  }   
 
 
   
@@ -1954,6 +1959,24 @@
   .line-77c {
     background-color: dodgerblue;  
     color: navy;    
+    opacity: .85;
+  }
+
+  .line-78a {
+    background-color: pink;  
+    color: red; 
+    opacity: .85;
+  }
+
+  .line-78b {
+    background-color: red;
+    color: pink;
+    opacity: .80;
+  }
+  
+  .line-78c {
+    background-color: pink;  
+    color: red;    
     opacity: .85;
   }
 
