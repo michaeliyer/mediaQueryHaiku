@@ -1420,7 +1420,7 @@ export const dailyWordsSmall = [
     'SLEET', 'SLEPT', 'SLICK', 'SLIDE', 'SLIME', 'SLIMY', 'SLING', 'SLINK',
     'SLOOP', 'SLUNK', 'SLURP', 'SLUSH', 'SLYLY', 'SMACK', 'SMELL', 'SMOKY',
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
-    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SOUTH', 'SPANK', 
+    'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SPANK', 
     'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
     'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 'SPORE', 
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
@@ -2500,7 +2500,7 @@ export const dailyWordsLarge = [
     'SOPOR', 'SOPPY', 'SOPRA', 'SORAL', 'SORAS', 'SORBO', 'SORBS', 'SORDA', 'SORDO', 'SORDS',
     'SORED', 'SOREE', 'SOREL', 'SORER', 'SORES', 'SOREX', 'SORGO', 'SORNS', 'SORRA', 'SORRY',
     'SORTA', 'SORTS', 'SORUS', 'SOTHS', 'SOTOL', 'SOUCE', 'SOUCT', 'SOUGH', 'SOUKS', 'SOULS',
-    'SOUMS', 'SOUPS', 'SOUPY', 'SOURS', 'SOUSE', 'SOUTH', 'SOUTS', 'SOWAR', 'SOWCE',
+    'SOUMS', 'SOUPS', 'SOUPY', 'SOURS', 'SOUSE', 'SOUTS', 'SOWAR', 'SOWCE',
     'SOWED', 'SOWFF', 'SOWFS', 'SOWLE', 'SOWLS', 'SOWMS', 'SOWND', 'SOWNE', 'SOWPS',
     'SOWSE', 'SOWTH', 'SOYAS', 'SOYLE', 'SOYUZ', 'SOZIN',
     'SPACY', 'SPADO', 'SPAED', 'SPAER', 'SPAES', 'SPAGS', 'SPAHI', 'SPAIL',
@@ -11845,6 +11845,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1513,
       },  
+      {
+        word: "SOUTH",
+        gameDate: "8/11/25",
+        myScore: 2,
+        wordNumber: 1514,
+      },  
     
   ];
 
@@ -11861,4 +11867,4 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 10, 2025: Trump sux" )
+console.log("August 11, 2025: Trump sux dykk!")
