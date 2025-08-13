@@ -595,12 +595,19 @@
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ccMbd2ZKAB7EZJHlBcFAiCvdrKw4uvrNXQ&s);
     background-size: cover;
     padding: .55rem;
-  }   
+  }  
+
   .whole-box-78 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBC0-FeLeXopvR-L2ULg3FK72NaCosNjk_g&s);
     background-size: cover;
     padding: .55rem;
   }   
+
+  .whole-box-79 {
+    background-image: url();
+    background-size: cover;
+    padding: .55rem;
+  }  
 
 
   
@@ -1975,6 +1982,24 @@
   }
   
   .line-78c {
+    background-color: pink;  
+    color: red;    
+    opacity: .85;
+  }
+
+  .line-79a {
+    background-color: pink;  
+    color: red; 
+    opacity: .85;
+  }
+
+  .line-79b {
+    background-color: black;
+    color: orange;
+    opacity: .80;
+  }
+  
+  .line-79c {
     background-color: pink;  
     color: red;    
     opacity: .85;
