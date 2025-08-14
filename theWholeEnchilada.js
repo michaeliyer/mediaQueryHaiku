@@ -2025,7 +2025,7 @@ export const dailyWordsLarge = [
     'KAUGH', 'KAURI', 'KAURU', 'KAURY', 'KAVAL', 'KAVAS', 'KAWAS', 'KAWAU', 'KAWED',
     'KAYLE', 'KAYOS', 'KAZIS', 'KBARS', 'KEBAR', 'KEBOB', 'KECKS', 'KEDGE',
     'KEDGY', 'KEECH', 'KEEFS', 'KEEKS', 'KEELS', 'KEEMA', 'KEENO', 'KEENS', 'KEEPS', 'KEETS',
-    'KEEVE', 'KEFIR', 'KEHUA', 'KEIRS', 'KELEP', 'KELIM', 'KELLS', 'KELLY', 'KELPS', 'KELPY',
+    'KEEVE', 'KEHUA', 'KEIRS', 'KELEP', 'KELIM', 'KELLS', 'KELLY', 'KELPS', 'KELPY',
     'KELTS', 'KELTY', 'KEMBO', 'KEMBS', 'KEMPS', 'KEMPT', 'KEMPY', 'KENAF', 'KENCH', 'KENDO',
     'KENOS', 'KENTE', 'KENTS', 'KEPIS', 'KERBS', 'KEREL', 'KERFS', 'KERKY', 'KERMA', 'KERNE',
     'KERNS', 'KEROS', 'KERRY', 'KERVE', 'KESAR', 'KESTS', 'KETAS', 'KETCH', 'KETES', 'KETOL',
@@ -11857,6 +11857,12 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1515,
       },  
+      {
+        word: "KEFIR",
+        gameDate: "8/13/25",
+        myScore: 5,
+        wordNumber: 1516,
+      },  
     
   ];
 
@@ -11873,4 +11879,4 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 12, 2025: Trump sux dykk!")
+console.log("August 13, 2025: Trump sux dykk0!")
