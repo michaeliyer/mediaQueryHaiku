@@ -2039,7 +2039,7 @@ export const dailyWordsLarge = [
     'KISTS', 'KITED', 'KITER', 'KITES', 'KITHE', 'KITHS', 'KITTY', 'KITUL', 'KIVAS', 'KIWIS',
     'KLANG', 'KLAPS', 'KLETT', 'KLICK', 'KLIEG', 'KLIKS', 'KLONG', 'KLOOF', 'KLUGE', 'KLUTZ',
     'KNAGS', 'KNAPS', 'KNARL', 'KNARS', 'KNAUR', 'KNAWE', 'KNEED',
-    'KNEES', 'KNELL', 'KNIFE', 'KNISH', 'KNITS', 'KNIVE', 'KNOBS', 
+    'KNEES', 'KNIFE', 'KNISH', 'KNITS', 'KNIVE', 'KNOBS', 
     'KNOPS', 'KNOSP', 'KNOTS', 'KNOUT', 'KNOWE', 'KNOWS', 'KNUBS', 'KNURL',
     'KNURR', 'KNURS', 'KNUTS', 'KOANS', 'KOAPS', 'KOBAN', 'KOBOS', 'KOELS', 'KOFFS',
     'KOFTA', 'KOGAL', 'KOHAS', 'KOHEN', 'KOHLS', 'KOINE', 'KOJIS', 'KOKAM', 'KOKAS', 'KOKER',
@@ -11863,6 +11863,12 @@ export const wordleWords = [
         myScore: 5,
         wordNumber: 1516,
       },  
+      {
+        word: "KNELL",
+        gameDate: "8/14/25",
+        myScore: 3,
+        wordNumber: 1517,
+      },  
     
   ];
 
@@ -11879,4 +11885,4 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 13, 2025: Trump sux dykk0!")
+console.log("August 14, 2025: Trump sux dykk0!")
