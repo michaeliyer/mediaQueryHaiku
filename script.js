@@ -1,4 +1,4 @@
-import { dailyWordsSmall } from  './theWholeEnchilada.js';
+import { dailyWordsSmall, wordleWords } from  './theWholeEnchilada.js';
 
 const anyThing = "Nothing";
 console.log(anyThing);
@@ -28,3 +28,19 @@ function changeMyOpacity() {
 
 console.log(dailyWordsSmall, "Eat, um it, um, eh? Yeh, um, yeh, um, fuckin' dumbo loser, um, Varlicks! ☠️ You, um, really und truly do, well, um, suck, um, a mean, um, old slick, ah, dick, GOP. You are soooo full on Pros, Pals!! That's good in a, um, bad way", "Hello Putrid People! You really goddamn fucking do molest, and you do it often, ☠️ and you do it with Joy! And you stii do it right, perverts! Please Licketh our taints, and, um, fucketh thous ☠️. Your pervert's going down");
 
+
+function logOverallAverageScore() {
+  const playedWords = wordleWords.filter(word => word.myScore > 0 && word.myScore <= 7);
+
+  if (playedWords.length === 0) {
+    console.log("No played words found with scores between 1 and 7.");
+    return;
+  }
+
+  const totalScore = playedWords.reduce((sum, word) => sum + word.myScore, 0);
+  const averageScore = totalScore / playedWords.length;
+
+  console.log(`Overall average score (excluding unplayed words): ${averageScore.toFixed(5)}`);
+}
+
+logOverallAverageScore();
