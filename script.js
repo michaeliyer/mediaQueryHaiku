@@ -15,7 +15,7 @@ const blueLink = document.querySelector(".line-1a");
 blueLink.addEventListener("click", changeOpacity);
 
 function changeOpacity() {
-    document.body.innerText = "NICE WORK Old CALVINO, Asshole that you are!";
+    document.body.innerText = "NICE WORK Old CALVINO, Asshole, er, that you are!";
     console.log("Bite me wire, I declare!");
 }
 
