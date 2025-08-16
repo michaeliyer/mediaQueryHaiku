@@ -2125,7 +2125,7 @@ export const dailyWordsLarge = [
     'MARLE', 'MARLS', 'MARLY', 'MARMS', 'MARON', 'MAROR', 'MARRA', 'MARRI', 'MARSE',
     'MARTS', 'MARVY', 'MASAS', 'MASED', 'MASER', 'MASES', 'MASHY', 'MASKS',
     'MASSA', 'MASSY', 'MASTS', 'MASTY', 'MASUS', 'MATAI', 'MATED', 'MATER',
-    'MATES', 'MATHS', 'MATIN', 'MATLO', 'MATTE', 'MATTS', 'MATZA', 'MATZO', 'MAUBY',
+    'MATES', 'MATHS', 'MATIN', 'MATLO', 'MATTS', 'MATZA', 'MATZO', 'MAUBY',
     'MAUDS', 'MAULS', 'MAUND', 'MAURI', 'MAUSY', 'MAUTS', 'MAUZY', 'MAVEN', 'MAVIE',
     'MAVIN', 'MAVIS', 'MAWED', 'MAWKS', 'MAWKY', 'MAWNS', 'MAWRS', 'MAXED', 'MAXES',
     'MAXIS', 'MAYAN', 'MAYAS', 'MAYED', 'MAYOS', 'MAYST', 'MAZED', 'MAZER',
@@ -11875,6 +11875,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1518,
       },  
+      {
+        word: "MATTE",
+        gameDate: "8/16/25",
+        myScore: 4,
+        wordNumber: 1519,
+      },  
     
   ];
 
@@ -11891,4 +11897,4 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 15, 2025: Trump sux dykk0!")
+console.log("August 16, 2025: Trump sux dykk0000!")
