@@ -627,6 +627,12 @@
     padding: .55rem;
   }  
 
+  .whole-box-83 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SpT0zyA1NngcJ9eibRcEXk3_0cE90IYfDA&s);
+    background-size: cover;
+    padding: .55rem;
+  }  
+
 
   
   .line-1a {
@@ -2074,6 +2080,24 @@
   .line-82c {
     background-color: yellow;  
     color: black;    
+    opacity: .85;
+  }
+
+  .line-83a {
+    background-color: white;  
+    color: dodgerblue;
+    opacity: .85;
+  }
+
+  .line-83b {
+    background-color: dodgerblue;
+    color: white;
+    opacity: .80;
+  }
+  
+  .line-83c {
+    background-color: white;  
+    color: dodgerblue;    
     opacity: .85;
   }
 
