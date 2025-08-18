@@ -632,8 +632,15 @@
     background-size: cover;
     padding: .55rem;
   }  
+
   .whole-box-84 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fKyMXnvENpACdX5n_e6WFjNxADpQOwyXog&s);
+    background-size: cover;
+    padding: .55rem;
+  }  
+
+  .whole-box-85 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G8a8h_VMoJXEcQgjkGGGVf24YnfrojPPoA&s);
     background-size: cover;
     padding: .55rem;
   }  
@@ -2079,7 +2086,7 @@
   .line-82b {
     background-color: black;
     color: yellow;
-    opacity: .80;
+    opacity: .81;
   }
   
   .line-82c {
