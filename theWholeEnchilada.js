@@ -1374,7 +1374,7 @@ export const dailyWordsSmall = [
     'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOT', 'IDYLL', 'ILIAC', 
-    'IMPLY', 'INGOT', 'INLET', 'ISSUE', 
+    'IMPLY', 'INGOT', 'INLET',  
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUNTA',
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'LADEN', 'LANCE', 'LATCH', 'LATER',
@@ -1992,7 +1992,7 @@ export const dailyWordsLarge = [
     'INTEL', 'INTIL', 'INTIS', 'INTRA', 'INULA', 'INURE', 'INURN', 'INUST',
     'INVAR', 'INWIT', 'IODIC', 'IODID', 'IODIN', 'IOTAS', 'IPPON', 'IRADE', 
     'IRIDS', 'IRING', 'IRKED', 'IROKO', 'IRONE', 'IRONS', 'ISBAS', 'ISHES', 'ISLED',
-    'ISLES', 'ISNAE', 'ISSEI', 'ISSUE', 'ISTLE', 'ITEMS', 'ITHER', 'IVIED',
+    'ISLES', 'ISNAE', 'ISSEI', 'ISTLE', 'ITEMS', 'ITHER', 'IVIED',
     'IVIES', 'IXIAS', 'IXNAY', 'IXORA', 'IXTLE', 'IZARD', 'IZARS', 'IZZAT', 'JAAPS',
     'JABOT', 'JACAL', 'JACKS', 'JACKY', 'JADED', 'JADES', 'JAFAS', 'JAFFA', 'JAGAS', 'JAGER',
     'JAGGS', 'JAGGY', 'JAGIR', 'JAGRA', 'JAILS', 'JAKER', 'JAKES', 'JAKEY', 'JALAP', 'JALOP',
@@ -11886,6 +11886,12 @@ export const wordleWords = [
         gameDate: "8/17/25",
         myScore: 3,
         wordNumber: 1520,
+      },  
+      {
+        word: "ISSUE",
+        gameDate: "8/18/25",
+        myScore: 3,
+        wordNumber: 1521,
       },  
     
   ];
