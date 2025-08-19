@@ -1407,7 +1407,7 @@ export const dailyWordsSmall = [
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
     'RENAL', 'REPLY', 'RESET', 'RICER', 'RIFLE', 
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
-    'ROOST', 'ROTOR', 'ROWDY', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
+    'ROOST', 'ROTOR', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
     'SADLY', 'SAFER', 'SALON', 'SALVE', 'SALVO', 'SANER', 'SAPPY', 'SATIN', 'SATYR', 
     'SAUCE', 'SAVOY', 'SCALP', 'SCALY', 'SCAMP', 'SCARY', 'SCENE',
     'SCION', 'SCOOP', 'SCREE', 'SCREW', 
@@ -2386,7 +2386,7 @@ export const dailyWordsLarge = [
     'ROSIN', 'ROSIT', 'ROSTI', 'ROSTS', 'ROTAL', 'ROTAN', 'ROTAS', 'ROTCH', 'ROTED', 'ROTES',
     'ROTIS', 'ROTLS', 'ROTON', 'ROTOR', 'ROTOS', 'ROTTE', 'ROUEN', 'ROUES', 
     'ROULE', 'ROULS', 'ROUMS', 'ROUPS', 'ROUPY', 'ROUST', 'ROUTH',
-    'ROUTS', 'ROVED', 'ROVEN', 'ROVES', 'ROWAN', 'ROWDY', 'ROWED', 'ROWEL', 'ROWEN',
+    'ROUTS', 'ROVED', 'ROVEN', 'ROVES', 'ROWAN', 'ROWED', 'ROWEL', 'ROWEN',
     'ROWIE', 'ROWME', 'ROWND', 'ROWTH', 'ROWTS', 'ROYNE', 'ROYST', 'ROZET',
     'ROZIT', 'RUANA', 'RUBAI', 'RUBBY', 'RUBEL', 'RUBES', 'RUBIN', 'RUBLE', 'RUBLI', 'RUBUS',
     'RUCHE', 'RUCKS', 'RUDAS', 'RUDDS', 'RUDES', 'RUDIE', 'RUDIS', 'RUEDA',
@@ -11893,6 +11893,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1521,
       },  
+      {
+        word: "ROWDY",
+        gameDate: "8/19/25",
+        myScore: 4,
+        wordNumber: 1522,
+      },  
     
   ];
 
@@ -11909,4 +11915,4 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 16, 2025: Trump sux dykk0000!")
+console.log("August 19, 2025: Trump sux dykk0000!")
