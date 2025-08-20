@@ -1379,7 +1379,7 @@ export const dailyWordsSmall = [
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
     'LADEN', 'LANCE', 'LATCH', 'LATER',
     'LATHE', 'LEACH', 'LEANT', 'LEAST', 'LEFTY', 'LEGAL',
-    'LEPER', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 'LLAMA',
+    'LEPER', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LUMEN',
     'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
@@ -2086,7 +2086,7 @@ export const dailyWordsLarge = [
     'LINKS', 'LINKY', 'LINNS', 'LINNY', 'LINOS', 'LINTS', 'LINTY', 'LINUM', 'LINUX', 'LIONS',
     'LIPAS', 'LIPES', 'LIPID', 'LIPIN', 'LIPOS', 'LIPPY', 'LIRAS', 'LIRKS', 'LIROT', 'LISKS',
     'LISLE', 'LISPS', 'LISTS', 'LITAI', 'LITAS', 'LITED', 'LITER', 'LITES', 'LITHO',
-    'LITHS', 'LITRE', 'LIVED', 'LIVEN', 'LIVES', 'LIVOR', 'LIVRE', 'LLAMA',
+    'LITHS', 'LITRE', 'LIVED', 'LIVEN', 'LIVES', 'LIVOR', 'LIVRE',
     'LLANO', 'LOACH', 'LOADS', 'LOAFS', 'LOAMS', 'LOAMY', 'LOANS', 'LOAST', 'LOATH', 'LOAVE',
     'LOBAR', 'LOBBY', 'LOBED', 'LOBES', 'LOBOS', 'LOBUS', 'LOCHE', 'LOCHS', 'LOCIE',
     'LOCIS', 'LOCKS', 'LOCOS', 'LOCUM', 'LODEN', 'LODES', 'LOESS', 'LOFTS',
@@ -11899,6 +11899,12 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1522,
       },  
+      {
+        word: "LLAMA",
+        gameDate: "8/20/25",
+        myScore: 3,
+        wordNumber: 1523,
+      },  
     
   ];
 
@@ -11915,6 +11921,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 19, 2025: Trump sux dykk0000!")
+console.log("August 20, 2025: Trump sux dykk0000! LLAMA")
 
 
+console.log(wordleWords)
