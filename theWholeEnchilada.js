@@ -1356,7 +1356,7 @@ export const dailyWordsSmall = [
     'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'EMBED', 'EMCEE', 'ENEMY', 
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
-    'EXTOL', 'EYING', 'FABLE', 'FACET', 'FAIRY', 
+    'EYING', 'FABLE', 'FACET', 'FAIRY', 
     'FANNY', 'FATAL', 'FATTY', 'FAUNA', 'FECAL', 'FELLA', 'FELON', 'FEMME', 'FEMUR', 'FENCE',
     'FETAL', 'FETCH', 'FETID', 'FETUS', 'FICUS', 'FIERY', 
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
@@ -1801,7 +1801,7 @@ export const dailyWordsLarge = [
     'EVICT', 'EVILS', 'EVITE', 'EVOHE', 'EWERS', 'EWEST', 'EWHOW', 'EWKED', 
     'EXAMS', 'EXEAT', 'EXECS', 'EXEEM', 'EXEME', 'EXFIL', 'EXIES',
     'EXINE', 'EXING', 'EXITS', 'EXODE', 'EXOME', 'EXONS', 'EXPAT', 
-    'EXPOS', 'EXTOL', 'EXUDE', 'EXULS', 'EXURB', 'EYASS', 'EYERS', 'EYING',
+    'EXPOS', 'EXUDE', 'EXULS', 'EXURB', 'EYASS', 'EYERS', 'EYING',
     'EYOTS', 'EYRAS', 'EYRES', 'EYRIE', 'EYRIR', 'EZINE', 'FABLE', 'FACED', 'FACES', 
     'FACIA', 'FACTA', 'FACTS', 'FADDY', 'FADED', 'FADER', 'FADES', 'FADGE', 'FADOS', 'FAENA', 
     'FAERY', 'FAGGY', 'FAGIN', 'FAGOT', 'FAILS', 'FAIRE', 'FAIRS', 'FAIRY', 'FAKED', 
@@ -11905,6 +11905,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1523,
       },  
+      {
+        word: "EXTOL",
+        gameDate: "8/21/25",
+        myScore: 3,
+        wordNumber: 1524,
+      },  
     
   ];
 
@@ -11921,7 +11927,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 20, 2025: Trump sux dykk0000! LLAMA")
+console.log("August 21, 2025: Trump sux dykk0000! EXTOL")
 
 
 console.log(wordleWords)
