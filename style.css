@@ -663,6 +663,12 @@
     padding: .55rem;
   }  
 
+  .whole-box-89 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbRyVaH93uDBt4kemkSSCOPQP0de_B_X9NQ&s);
+    background-size: cover;
+    padding: .55rem;
+  }  
+
 
   
   .line-1a {
@@ -2178,6 +2184,7 @@
     color: rgb(107, 2, 52);
     opacity: .85;
   }
+
   .line-86c {
     background-color: rgb(15, 150, 228);
     color: rgb(107, 2, 52);
@@ -2189,31 +2196,52 @@
     color: green;
     opacity: .80;
   }
-  
+
   .line-87b {
     background-color: green;
     color: blue;
     opacity: .85;
   }
+
   .line-87c {
     background-color: blue;
     color: green;
     opacity: .85;
   }
+
   .line-88a {
     background-color: purple;
     color: dodgerblue;
     opacity: .80;
   }
-  
+
   .line-88b {
     background-color: dodgerblue;
     color: purple;
     opacity: .85;
   }
+
   .line-88c {
     background-color: purple;
     color: dodgerblue;
+    opacity: .85;
+  }
+
+  .line-89a {
+    background-color: crimson;
+    color: red;
+    opacity: .80;
+  }
+
+  .line-89b {
+    background-color: red;
+    color: crimson;
+    opacity: .85;
+  }
+
+  .line-89 {
+    background-color: crimson;
+    color: red;
     opacity: .85;
   }
 
