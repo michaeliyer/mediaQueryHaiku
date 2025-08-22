@@ -1403,7 +1403,7 @@ export const dailyWordsSmall = [
     'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK',
     'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTH',
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
-    'RARER', 'RASPY', 'RATTY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
+    'RARER', 'RASPY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
     'RENAL', 'REPLY', 'RESET', 'RICER', 'RIFLE', 
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
@@ -2344,7 +2344,7 @@ export const dailyWordsLarge = [
     'RANTS', 'RAPED', 'RAPER', 'RAPES', 'RAPHE', 'RAPPE', 'RARED', 'RAREE', 'RARER',
     'RARES', 'RARKS', 'RASED', 'RASER', 'RASES', 'RASPS', 'RASPY', 'RASSE', 'RASTA', 'RATAL',
     'RATAN', 'RATAS', 'RATCH', 'RATED', 'RATEL', 'RATER', 'RATES', 'RATHA', 'RATHE', 'RATHS',
-    'RATOO', 'RATOS', 'RATTY', 'RATUS', 'RAUNS', 'RAUPO', 'RAVED', 'RAVEL', 'RAVEN',
+    'RATOO', 'RATOS', 'RATUS', 'RAUNS', 'RAUPO', 'RAVED', 'RAVEL', 'RAVEN',
     'RAVER', 'RAVES', 'RAVEY', 'RAVIN', 'RAWER', 'RAWIN', 'RAWLY', 'RAWNS', 'RAXED', 'RAXES',
     'RAYAH', 'RAYAS', 'RAYED', 'RAYLE', 'RAYNE', 'RAZED', 'RAZEE', 'RAZER', 'RAZES',
     'RAZOO', 'RAZOR', 'READD', 'READS', 'REAIS', 'REAKS',
@@ -11910,6 +11910,12 @@ export const wordleWords = [
         gameDate: "8/21/25",
         myScore: 3,
         wordNumber: 1524,
+      }, 
+      {
+        word: "RATTY",
+        gameDate: "8/22/25",
+        myScore: 3,
+        wordNumber: 1525,
       },  
     
   ];
@@ -11927,7 +11933,8 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 21, 2025: Trump sux dykk0000! EXTOL")
+console.log("August 22, 2025: Trump sux dykk0000! RATTY")
 
 
 console.log(wordleWords)
+
