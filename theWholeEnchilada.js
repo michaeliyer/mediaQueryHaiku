@@ -1437,7 +1437,7 @@ export const dailyWordsSmall = [
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
     'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 
-    'UNION', 'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
+    'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 
@@ -2647,7 +2647,7 @@ export const dailyWordsLarge = [
     'UNBID', 'UNBOX', 'UNCAP', 'UNCES', 'UNCIA', 'UNCOS', 'UNCOY', 'UNCUS', 'UNCUT',
     'UNDAM', 'UNDEE', 'UNDOS', 'UNDUG', 'UNETH',
     'UNFIX', 'UNGAG', 'UNGET', 'UNGOD', 'UNGOT', 'UNGUM', 'UNHAT', 'UNHIP', 'UNICA',
-    'UNION', 'UNITS', 'UNITY', 'UNJAM', 'UNKED', 'UNKET', 'UNKID', 'UNLAW', 'UNLAY',
+    'UNITS', 'UNITY', 'UNJAM', 'UNKED', 'UNKET', 'UNKID', 'UNLAW', 'UNLAY',
     'UNLED', 'UNLET', 'UNLID', 'UNMAN', 'UNMEW', 'UNMIX', 'UNPAY', 'UNPEG',
     'UNPEN', 'UNPIN', 'UNRED', 'UNRID', 'UNRIG', 'UNRIP', 'UNSAW', 'UNSAY', 'UNSEE', 'UNSET',
     'UNSEW', 'UNSEX', 'UNSOD', 'UNTAX', 'UNTIN', 'UNWED', 'UNWET', 'UNWIT',
@@ -11917,6 +11917,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1525,
       },  
+      {
+        word: "UNION",
+        gameDate: "8/23/25",
+        myScore: 4,
+        wordNumber: 1526,
+      },  
     
   ];
 
@@ -11933,8 +11939,25 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 22, 2025: Trump sux dykk0000! RATTY")
+console.log("August 23, 2025: Trump sux dykk0000! UNION")
 
 
 console.log(wordleWords)
+
+function logOverallAverageScore() {
+  const playedWords = wordleWords.filter(word => word.myScore > 0 && word.myScore <= 7);
+
+  if (playedWords.length === 0) {
+    console.log("No played words found with scores between 1 and 7.");
+    return;
+  }
+
+  const totalScore = playedWords.reduce((sum, word) => sum + word.myScore, 0);
+  const averageScore = totalScore / playedWords.length;
+
+  console.log(`Overall average score (excluding unplayed words): ${averageScore.toFixed(5)}. Happy?`);
+}
+
+logOverallAverageScore();
+
 
