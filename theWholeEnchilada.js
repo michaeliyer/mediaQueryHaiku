@@ -1384,7 +1384,7 @@ export const dailyWordsSmall = [
     'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
     'MEATY', 'MECCA', 'MELEE', 'MIGHT', 'MILKY', 
-    'MINIM', 'MINOR', 'MIRTH', 'MISER', 'MISSY', 'MOCHA',
+    'MINIM', 'MINOR', 'MISER', 'MISSY', 'MOCHA',
     'MOGUL', 'MOODY', 'MORON', 'MORPH', 'MOTEL', 'MOTIF', 'MOUND', 'MOUTH', 
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO', 'NADIR', 
@@ -2148,7 +2148,7 @@ export const dailyWordsLarge = [
     'MILTY', 'MILTZ', 'MIMED', 'MIMEO', 'MIMER', 'MIMES', 'MIMSY', 'MINAE', 'MINAR',
     'MINAS', 'MINCY', 'MINDS', 'MINED', 'MINES', 'MINGE', 'MINGS', 'MINGY',
     'MINIM', 'MINIS', 'MINKE', 'MINKS', 'MINNY', 'MINOR', 'MINOS', 'MINTS',  
-    'MIRED', 'MIRES', 'MIREX', 'MIRID', 'MIRIN', 'MIRKS', 'MIRKY', 'MIRLY', 'MIROS', 'MIRTH',
+    'MIRED', 'MIRES', 'MIREX', 'MIRID', 'MIRIN', 'MIRKS', 'MIRKY', 'MIRLY', 'MIROS', 
     'MIRVS', 'MIRZA', 'MISCH', 'MISDO', 'MISER', 'MISES', 'MISGO', 'MISOS', 'MISSA', 'MISSY',
     'MISTS', 'MISTY', 'MITCH', 'MITER', 'MITES', 'MITIS', 'MITRE', 'MITTS', 'MIXED', 'MIXEN',
     'MIXER', 'MIXES', 'MIXTE', 'MIXUP', 'MIZEN', 'MIZZY', 'MNEME', 'MOANS', 'MOATS', 'MOBBY',
@@ -11929,6 +11929,12 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1527,
       },  
+      {
+        word: "MIRTH",
+        gameDate: "8/25/25",
+        myScore: 4,
+        wordNumber: 1528,
+      },  
     
   ];
 
@@ -11945,7 +11951,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 24, 2025: Trump sux dykk0000! SPORE")
+console.log("August 25, 2025: Trump sux dykk0000! MIRTH")
 
 
 console.log(wordleWords)
