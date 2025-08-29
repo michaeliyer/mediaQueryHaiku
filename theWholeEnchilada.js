@@ -1422,7 +1422,7 @@ export const dailyWordsSmall = [
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
     'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SPANK', 
     'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
-    'SPINY', 'SPLIT', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 
+    'SPINY', 'SPOIL', 'SPOOF', 'SPOOK', 'SPOOL', 
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
     'STEER', 'STOKE', 'STOOP', 
@@ -1433,7 +1433,7 @@ export const dailyWordsSmall = [
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENOR', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
     'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
-    'TONER', 'TONGA', 'TORUS', 'TOWEL', 'TOWER', 
+    'TONER', 'TONGA', 'TORUS',  
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
     'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 
@@ -2511,7 +2511,6 @@ export const dailyWordsLarge = [
     'SPEKS', 'SPELD', 'SPELK', 'SPEOS', 'SPERM', 'SPETS',
     'SPEUG', 'SPEWS', 'SPEWY', 'SPIAL', 'SPICA', 'SPICK', 'SPIDE', 'SPIED',
     'SPIER', 'SPIES', 'SPIFF', 'SPIFS', 'SPIKY', 'SPILE', 
-    'SPILT',
     'SPIMS', 'SPINA', 'SPINK', 'SPINS', 'SPINY', 'SPIRT', 'SPIRY', 
     'SPITS', 'SPITZ', 'SPIVS', 'SPLAY', 'SPLIT', 'SPLOG', 'SPODE', 'SPODS', 'SPOIL',
     'SPOOF', 'SPOOK', 'SPOOL', 'SPOOM', 'SPOOR', 'SPOOT', 'SPORK',
@@ -2612,7 +2611,7 @@ export const dailyWordsLarge = [
     'TORSI', 'TORSK', 'TORTA', 'TORTE', 'TORTS', 'TORUS', 'TOSAS', 'TOSED', 'TOSES',
     'TOSHY', 'TOSSY', 'TOTED', 'TOTER', 'TOTES', 'TOTTY', 
     'TOUKS', 'TOUNS', 'TOURS', 'TOUSE', 'TOUSY', 'TOUTS', 'TOUZE', 'TOUZY', 'TOWED',
-    'TOWER', 'TOWIE', 'TOWNS', 'TOWNY', 'TOWSE', 'TOWSY', 'TOWTS', 'TOWZE', 'TOWZY',
+    'TOWIE', 'TOWNS', 'TOWNY', 'TOWSE', 'TOWSY', 'TOWTS', 'TOWZE', 'TOWZY',
     'TOYED', 'TOYER', 'TOYON', 'TOYOS', 'TOZED', 'TOZES', 'TOZIE', 'TRABS', 
     'TRADS', 'TRAGI', 'TRAIK', 'TRAMP',
     'TRAMS', 'TRANK', 'TRANQ', 'TRANS', 'TRANT', 'TRAPE', 'TRAPS', 'TRAPT', 'TRASS',
@@ -11946,6 +11945,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1530,
       },  
+      { word: "SPLIT",
+        gameDate: "8/28/25",
+        myScore: 2,
+        wordNumber: 1531,
+      },  
     
   ];
 
@@ -11962,7 +11966,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 27, 2025: Trump sux dykk0000! TOWER")
+console.log("August 28, 2025: Trump sux dykk0000! Split")
 
 
 console.log(wordleWords)
