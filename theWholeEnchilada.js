@@ -1395,7 +1395,7 @@ export const dailyWordsSmall = [
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
-    'PEONY', 'PERIL', 'PESTO', 'PETAL', 'PIGGY', 'PIVOT', 'PIZZA',
+    'PEONY', 'PERIL', 'PESTO', 'PIGGY', 'PIVOT', 'PIZZA',
     'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POSER', 'POSIT', 'POSSE', 'POUCH', 'POUTY',
     'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
@@ -2267,7 +2267,7 @@ export const dailyWordsLarge = [
     'PEPLA', 'PEPOS', 'PEPPY', 'PEPSI', 'PERAI', 'PERCE', 'PERCS', 'PERDU', 'PERDY',
     'PEREA', 'PERES', 'PERIL', 'PERIS', 'PERKS', 'PERKY', 'PERMS', 'PERNS', 'PEROG', 'PERPS',
     'PERRY', 'PERSE', 'PERST', 'PERTS', 'PERVE', 'PERVO', 'PERVS', 'PERVY', 'PESOS',
-    'PESTO', 'PESTS', 'PESTY', 'PETAL', 'PETAR', 'PETER', 'PETIT', 'PETRE', 'PETRI', 'PETTI',
+    'PESTO', 'PESTS', 'PESTY', 'PETAR', 'PETER', 'PETIT', 'PETRE', 'PETRI', 'PETTI',
     'PETTO', 'PEWEE', 'PEWIT', 'PEYSE', 'PHAGE', 'PHANG', 'PHARE', 'PHARM', 
     'PHEER', 'PHENE', 'PHEON', 'PHESE', 'PHIAL', 'PHISH', 'PHIZZ', 'PHLOX', 'PHOCA', 
     'PHONO', 'PHONS', 'PHOTS', 'PHPHT', 'PHUTS', 'PHYLA', 'PHYLE', 'PIANI',
@@ -11960,6 +11960,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1533,
       },  
+      { word: "PETAL",
+        gameDate: "8/31/25",
+        myScore: 2,
+        wordNumber: 1534,
+      },  
     
   ];
 
@@ -11976,7 +11981,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 30, 2025: Trump sux dykk0000! ELATE")
+console.log("August 31, 2025: Trump sux dykk0000! PETAL")
 
 
 console.log(wordleWords)
