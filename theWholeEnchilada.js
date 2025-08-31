@@ -1353,7 +1353,7 @@ export const dailyWordsSmall = [
     'DRANK', 'DRAPE', 'DRAWL', 'DRESS', 'DRIED', 'DRIER', 'DRIFT', 'DRILL',
     'DROIT', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING',   
-    'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELATE', 'ELECT',
+    'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELECT',
     'ELEGY', 'ELFIN', 'ELIDE', 'EMBED', 'EMCEE', 'ENEMY', 
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
     'EYING', 'FABLE', 'FACET', 'FAIRY', 
@@ -1779,7 +1779,7 @@ export const dailyWordsLarge = [
     'EDGED', 'EDGER', 'EDGES', 'EDILE', 'EDITS', 'EDUCE', 'EDUCT', 'EEJIT',
     'EENSY', 'EERIE', 'EEVEN', 'EEVNS', 'EFFED', 'EGADS', 'EGERS', 'EGEST', 'EGGAR', 'EGGED',
     'EGGER', 'EGMAS', 'EHING', 'EIDER', 'EIDOS', 'EIGHT', 'EIGNE', 'EIKED', 'EIKON',
-    'EILDS', 'EISEL', 'EJIDO', 'EKING', 'EKKAS', 'ELAIN', 'ELAND', 'ELANS', 'ELATE',
+    'EILDS', 'EISEL', 'EJIDO', 'EKING', 'EKKAS', 'ELAIN', 'ELAND', 'ELANS',
     'ELCHI', 'ELDIN', 'ELECT', 'ELEGY', 'ELEMI', 'ELFED', 'ELFIN', 'ELIAD',
     'ELIDE', 'ELINT', 'ELMEN', 'ELOGE', 'ELOGY', 'ELOIN', 'ELOPS', 'ELPEE',
     'ELSIN', 'ELUTE', 'ELVAN', 'ELVEN', 'ELVER', 'ELVES', 'EMACS', 'EMBAR',
@@ -11971,7 +11971,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("August 29, 2025: Trump sux dykk0000! GRAFT")
+console.log("August 30, 2025: Trump sux dykk0000! ELATE")
 
 
 console.log(wordleWords)
