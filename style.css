@@ -710,8 +710,15 @@
     background-size: cover;
     padding: .55rem;
   }  
+
   .whole-box-97 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgA4SA0g4L4amtpQsqSRI83xHvReaGhlYh0g&s);
+    background-size: cover;
+    padding: .55rem;
+  }  
+
+  .whole-box-98 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaWtPpOrTnhiZ32e4M_YV2hQJ30fyHsXX8g&s);
     background-size: cover;
     padding: .55rem;
   }  
@@ -2433,6 +2440,24 @@
   .line-97c {
     background-color: ivory;
     color: sienna;
+    opacity: .85;
+  }
+
+  .line-98a {
+    background-color: white;  
+    color: dodgerblue;  
+    opacity: .80;
+  }
+
+  .line-98b {
+    background-color: white;  
+    color: dodgerblue;  
+    opacity: .85;
+  }
+
+  .line-98c {
+    background-color: white;  
+    color: dodgerblue;  
     opacity: .85;
   }
 
