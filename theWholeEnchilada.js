@@ -1358,7 +1358,7 @@ export const dailyWordsSmall = [
     'ENTRY', 'ENVOY', 'ERASE', 'ERECT', 'ESTER', 'ETUDE', 'EVICT',
     'EYING', 'FABLE', 'FACET', 'FAIRY', 
     'FANNY', 'FATAL', 'FATTY', 'FAUNA', 'FECAL', 'FELLA', 'FELON', 'FEMME', 'FEMUR', 'FENCE',
-    'FETAL', 'FETCH', 'FETID', 'FETUS', 'FICUS', 'FIERY', 
+    'FETAL', 'FETID', 'FETUS', 'FICUS', 'FIERY', 
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
     'FLECK', 'FLEET', 'FLIER', 'FLUID', 'FLUKE', 
     'FLUSH', 'FLUTE', 'FORUM', 'FRAUD',
@@ -1819,7 +1819,7 @@ export const dailyWordsLarge = [
     'FELTS', 'FELTY', 'FEMAL', 'FEMES', 'FEMME', 'FEMMY', 'FEMUR', 'FENCE', 'FENDS', 'FENDY',
     'FENIS', 'FENKS', 'FENNY', 'FENTS', 'FEODS', 'FEOFF', 'FERER', 'FERES', 'FERIA',
     'FERLY', 'FERMI', 'FERMS', 'FERNS', 'FERNY', 'FESSE', 'FESTA', 'FESTS', 'FESTY',
-    'FETAL', 'FETAS', 'FETCH', 'FETED', 'FETES', 'FETID', 'FETOR', 'FETTA', 'FETTS', 'FETUS',
+    'FETAL', 'FETAS', 'FETED', 'FETES', 'FETID', 'FETOR', 'FETTA', 'FETTS', 'FETUS',
     'FETWA', 'FEUAR', 'FEUDS', 'FEUED', 'FEYED', 'FEYER', 'FEYLY', 'FEZES',
     'FEZZY', 'FIARS', 'FIATS', 'FIBRE', 'FIBRO', 'FICES', 'FICHE', 'FICHU', 'FICIN',
     'FICOS', 'FICUS', 'FIDES', 'FIDGE', 'FIDOS', 'FIEFS', 'FIENT', 'FIERE',
@@ -11971,7 +11971,12 @@ export const wordleWords = [
         wordNumber: 1535,
       },  
       { word: "MIGHT",
-        gameDate: "9/1/25",
+        gameDate: "9/2/25",
+        myScore: 4,
+        wordNumber: 1536,
+      },  
+      { word: "FETCH",
+        gameDate: "9/3/25",
         myScore: 4,
         wordNumber: 1536,
       },  
@@ -11991,7 +11996,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 2, 2025: Trump sux dykk0000! MIGHT")
+console.log("September 3, 2025: Trump sux dykk0000! FETCH")
 
 
 console.log(wordleWords)
