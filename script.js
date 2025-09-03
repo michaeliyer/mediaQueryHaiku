@@ -15,7 +15,7 @@ const blueLink = document.querySelector(".line-1a");
 blueLink.addEventListener("click", changeOpacity);
 
 function changeOpacity() {
-    document.body.innerText = "NICE WORK Old, um, CALVINO, er, Asshole, ahem, gaa, um, er, ah, er, that, er, ah, you, ah, are, see!";
+    document.body.innerText = "NICE WORK Old, um, CALVINO, er, Asshole, ahem, gaaaq, um, er, ah, er, that, er, ah, you, ah, are, see!";
     console.log("Bite me wire, I declare!");
 }
 
