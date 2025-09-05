@@ -1329,7 +1329,7 @@ export const dailyWordsSmall = [
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
     'BIDDY', 'BIGOT', 'BILLY', 'BINGO', 'BISON', 'BITTY', 
-    'BLAST', 'BLEAT', 'BLEND', 'BLESS', 'BLIND', 'BLITZ',
+    'BLAST', 'BLEAT', 'BLESS', 'BLIND', 'BLITZ',
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOBBY', 'BONEY', 
     'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
     'BRAWL', 'BRICK', 'BROIL',
@@ -1562,7 +1562,7 @@ export const dailyWordsLarge = [
     'BLADS', 'BLADY', 'BLAER', 'BLAES', 'BLAFF', 'BLAGS', 'BLAHS', 'BLAIN',
     'BLAMS', 'BLART', 'BLASE', 'BLASH', 'BLAST', 'BLATE',
     'BLATS', 'BLATT', 'BLAUD', 'BLAWN', 'BLAWS', 'BLAYS', 'BLEAR', 'BLEAT',
-    'BLEBS', 'BLECH', 'BLEES', 'BLEND', 'BLENT', 'BLERT', 'BLESS', 'BLEST',
+    'BLEBS', 'BLECH', 'BLEES', 'BLENT', 'BLERT', 'BLESS', 'BLEST',
     'BLETS', 'BLEYS', 'BLIMY', 'BLIND', 'BLING', 'BLINI', 'BLINS', 'BLINY',
     'BLIPS', 'BLIST', 'BLITE', 'BLITS', 'BLITZ', 'BLIVE', 'BLOAT', 'BLOBS',
     'BLOCS', 'BLOGS', 'BLOOD', 'BLOOK', 'BLOOM', 'BLOOP', 'BLORE', 'BLOTS',
@@ -11980,6 +11980,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1537,
       },  
+      { word: "BLEND",
+        gameDate: "9/4/25",
+        myScore: 2,
+        wordNumber: 1538,
+      },  
     
   ];
 
@@ -11996,7 +12001,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 3, 2025: Trump sux dykk0000! FETCH")
+console.log("September 4, 2025: Trump sux dykk0000! BLEND")
 
 
 console.log(wordleWords)
