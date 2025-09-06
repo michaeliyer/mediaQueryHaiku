@@ -747,6 +747,12 @@
     padding: .55rem;
   }  
 
+  .whole-box-103 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4ZCbHpR81-ByfHoh9rLyGYveD0wynFsNLg&s);
+    background-size: cover;
+    padding: .55rem;
+  }  
+
 
   
   .line-1a {
@@ -2540,20 +2546,38 @@
   }
 
   .line-102a {
-    background-color: rgb(22, 152, 11);  
-    color: rgb(210, 11, 200);
+    background-color: rgb(22, 12, 111);  
+    color: rgb(210, 111, 20);
     opacity: .80;
   }
 
   .line-102b {
-    background-color: rgb(22, 152, 11);  
-    color: rgb(210, 11, 200);
+    background-color: rgb(22, 12, 111);  
+    color: rgb(210, 111, 20);
     opacity: .65;
   }
 
   .line-102c {
-    background-color: rgb(22, 152, 11);  
-    color: rgb(210, 11, 200);
+    background-color: rgb(22, 12, 111);  
+    color: rgb(210, 111, 20);
+    opacity: .85;
+  }
+
+  .line-103a {
+    background-color: rgb(212, 12, 11);  
+    color: rgb(110, 81, 20);
+    opacity: .80;
+  }
+
+  .line-103b {
+    background-color: rgb(212, 12, 11);  
+    color: rgb(110, 81, 20);
+    opacity: .65;
+  }
+
+  .line-103c {
+    background-color: rgb(212, 12, 11);  
+    color: rgb(110, 81, 20);
     opacity: .85;
   }
 
