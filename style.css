@@ -758,8 +758,15 @@
     background-size: cover;
     padding: .55rem;
   }  
+
   .whole-box-105 {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTkpO88ffDGO5nNUKA_QHJOX8p1M_bNMQuw&s);
+    background-size: cover;
+    padding: .55rem;
+  }  
+
+  .whole-box-106 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJTmjrfIHgDomiCu5G3YEl28NDbTgTGJtzg&s);
     background-size: cover;
     padding: .55rem;
   }  
@@ -2626,6 +2633,24 @@
   .line-105c {
     background-color: rgb(2, 12, 11);  
     color: rgb(200, 210, 177);
+    opacity: .5;
+  }
+
+  .line-106a {
+    background-color: rgb(122, 112, 111);  
+    color: rgb(20, 21, 77);
+    opacity: .50;
+  }
+
+  .line-106b {
+    background-color: rgb(122, 112, 111);  
+    color: rgb(20, 21, 77);
+    opacity: .55;
+  }
+
+  .line-106c {
+    background-color: rgb(122, 112, 111);  
+    color: rgb(20, 21, 77);
     opacity: .5;
   }
 
