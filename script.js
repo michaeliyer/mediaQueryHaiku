@@ -9,7 +9,7 @@ console.log(moreThing);
 const anotherThing = "Man";
 console.log(anotherThing);
 const yetAnotherThing = "Good job";
-console.log(yetAnotherThing, "You, um, ahem, ah, er, suck, ah, a lot, um, Man. Um, er, got, er, ah, ah, um, that, ah, anal, er, boy?!?");
+console.log(yetAnotherThing, "You, um, ahem, ah, er, suck, ah, a lot, um, Man. Um, er, got, of penis and er, ah, ah, um, that, ah, anal, er, boy?!?");
 
 const blueLink = document.querySelector(".line-1a");
 blueLink.addEventListener("click", changeOpacity);
