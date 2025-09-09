@@ -1339,7 +1339,7 @@ export const dailyWordsSmall = [
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
     'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CELLO', 'CHAFF', 'CHAIR',
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
-    'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
+    'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMIC', 'CONCH',
     'COPSE', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
@@ -1642,7 +1642,7 @@ export const dailyWordsLarge = [
     'CHEWS', 'CHEWY', 'CHIAO', 'CHIAS', 'CHIBS', 'CHICA', 'CHICH', 'CHICK', 'CHICO', 'CHICS',
     'CHIDE', 'CHIEL', 'CHIKS', 'CHILE', 'CHILI', 'CHIMB', 
     'CHIMO', 'CHIMP', 'CHINA', 'CHINE', 'CHING', 'CHINK', 'CHINO', 'CHINS', 'CHIPS', 'CHIRK',
-    'CHIRL', 'CHIRM', 'CHIRO', 'CHIRP', 'CHIRR', 'CHIRT', 'CHIRU', 'CHITS', 'CHIVE', 'CHIVS',
+    'CHIRL', 'CHIRM', 'CHIRO', 'CHIRR', 'CHIRT', 'CHIRU', 'CHITS', 'CHIVE', 'CHIVS',
     'CHIVY', 'CHIZZ', 'CHOCO', 'CHOCS', 'CHODE', 'CHOGS', 'CHOIL', 
     'CHOKO', 'CHOKY', 'CHOLA', 'CHOLI', 'CHOMP', 'CHONS', 'CHOOF', 'CHOOK', 'CHOOM', 'CHOON',
     'CHOPS', 'CHOTA', 'CHOTT', 'CHOUT', 'CHOUX', 'CHOWK', 'CHOWS',
@@ -12001,6 +12001,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1541,
       },  
+      { word: "CHIRP",
+        gameDate: "9/8/25",
+        myScore: 3,
+        wordNumber: 1542,
+      },  
     
   ];
 
@@ -12017,7 +12022,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 7, 2025: Trump sux dykk0000! TENOR")
+console.log("September 8, 2025: Trump sux dykk0000! CHIRP")
 
 
 console.log(wordleWords)
