@@ -2613,20 +2613,20 @@
 
   .line-105a {
     background-color: rgb(2, 12, 11);  
-    color: rgb(200, 210, 177)
-    opacity: .80;
+    color: rgb(200, 210, 177);
+    opacity: .50;
   }
 
   .line-105b {
     background-color: rgb(2, 12, 11);  
-    color: rgb(200, 210, 177)
-    opacity: .65;
+    color: rgb(200, 210, 177);
+    opacity: .55;
   }
 
   .line-105c {
     background-color: rgb(2, 12, 11);  
-    color: rgb(200, 210, 177)
-    opacity: .85;
+    color: rgb(200, 210, 177);
+    opacity: .5;
   }
 
 
