@@ -1435,7 +1435,7 @@ export const dailyWordsSmall = [
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
     'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS',  
-    'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRICK', 'TRIED', 'TRUCE',
+    'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRIED', 'TRUCE',
     'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
     'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 
     'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
@@ -2618,7 +2618,7 @@ export const dailyWordsLarge = [
     'TRAMS', 'TRANK', 'TRANQ', 'TRANS', 'TRANT', 'TRAPE', 'TRAPS', 'TRAPT', 'TRASS',
     'TRATS', 'TRATT', 'TRAVE', 'TRAYF', 'TRAYS', 'TREAD', 'TRECK', 'TREED',
     'TREEN', 'TREES', 'TREFA', 'TREIF', 'TREKS', 'TREMA', 'TREMS', 'TRESS', 'TREST',
-    'TRETS', 'TREWS', 'TREYF', 'TREYS', 'TRIAC', 'TRIAL', 'TRIBE', 'TRICK',
+    'TRETS', 'TREWS', 'TREYF', 'TREYS', 'TRIAC', 'TRIAL', 'TRIBE', 
     'TRIDE', 'TRIED', 'TRIER', 'TRIES', 'TRIFF', 'TRIGO', 'TRIGS', 'TRIKE', 'TRILD', 'TRILL',
     'TRIMS', 'TRINE', 'TRINS', 'TRIOL', 'TRIOR', 'TRIOS', 'TRIPS', 'TRIPY', 'TRIST',
     'TROAD', 'TROAK', 'TROAT', 'TROCK', 'TRODE', 'TRODS', 'TROGS', 'TROIS', 'TROKE',
@@ -8683,7 +8683,7 @@ export const wordleWords = [
       },
       {
         word: "URBAN",
-        gameDate: "3/3/24",
+        gameDate: "3/2/24",
         myScore: 3,
         wordNumber: 987,
       },
@@ -12006,6 +12006,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1542,
       },  
+      { word: "TRICK",
+        gameDate: "9/9/25",
+        myScore: 3,
+        wordNumber: 1543,
+      },  
     
   ];
 
@@ -12022,7 +12027,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 8, 2025: Trump sux dykk0000! CHIRP")
+console.log("September 9, 2025: Trump sux dykk0000! TRICK")
 
 
 console.log(wordleWords)
