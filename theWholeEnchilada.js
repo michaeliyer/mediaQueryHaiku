@@ -1337,7 +1337,7 @@ export const dailyWordsSmall = [
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
-    'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CELLO', 'CHAFF', 'CHAIR',
+    'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CELLO', 'CHAFF', 
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
@@ -1634,7 +1634,7 @@ export const dailyWordsLarge = [
     'CENTS', 'CENTU', 'CEORL', 'CEPES', 'CERCI', 'CERED', 'CERES', 'CERGE', 'CERIA', 'CERIC',
     'CERNE', 'CEROC', 'CEROS', 'CERTS', 'CERTY', 'CESSE', 'CESTA', 'CESTI', 'CETES', 'CETYL',
     'CEZVE', 'CHACE', 'CHACK', 'CHACO', 'CHADO', 'CHADS', 'CHAFF', 'CHAFT', 
-    'CHAIR', 'CHAIS', 'CHALS', 'CHAMS', 'CHANA', 'CHANG', 'CHANK', 
+    'CHAIS', 'CHALS', 'CHAMS', 'CHANA', 'CHANG', 'CHANK', 
     'CHAPE', 'CHAPS', 'CHAPT', 'CHARA', 'CHARE', 'CHARK', 'CHARR',
     'CHARS', 'CHARY', 'CHASM', 'CHATS', 'CHAVE', 'CHAVS', 'CHAWK', 'CHAWS',
     'CHAYA', 'CHAYS', 'CHEEP', 'CHEFS', 'CHEKA',
@@ -12016,6 +12016,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1544,
       },  
+      { word: "CHAIR",
+        gameDate: "9/11/25",
+        myScore: 3,
+        wordNumber: 1545,
+      },  
     
   ];
 
@@ -12032,7 +12037,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 10, 2025: Trump sux dykk0000! POUTY")
+console.log("September 11, 2025: Trump sux dykk0000! CHAIR")
 
 
 console.log(wordleWords)
