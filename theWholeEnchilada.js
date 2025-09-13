@@ -1432,7 +1432,7 @@ export const dailyWordsSmall = [
     'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORE', 
     'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
     'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENSE', 'TEPEE', 
-    'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG', 'THROB', 
+    'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG',
     'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS',  
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRIED', 'TRUCE',
@@ -2590,7 +2590,7 @@ export const dailyWordsLarge = [
     'THESP', 'THETA', 'THETE', 'THEWS', 'THEWY', 'THICK', 'THIGS',
     'THILK', 'THILL', 'THINE', 'THINS', 'THIOL', 'THIRL', 'THOFT',
     'THOLE', 'THOLI', 'THONG', 'THORO', 'THORP', 'THOUS', 'THOWL', 'THRAE',
-    'THRAW', 'THRID', 'THRIP', 'THROB', 'THROE', 'THUDS',
+    'THRAW', 'THRID', 'THRIP', 'THROE', 'THUDS',
     'THUGS', 'THUJA', 'THUNK', 'THURL', 'THUYA', 'THYMI', 'THYMY',
     'TIANS', 'TIARS', 'TICAL', 'TICCA', 'TICED', 'TICES', 'TICHY', 'TICKS',
     'TICKY', 'TIDDY', 'TIDED', 'TIDES', 'TIERS', 'TIFFS', 'TIFOS', 'TIFTS',
@@ -12037,7 +12037,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 11, 2025: Trump sux dykk0000! CHAIR")
+console.log("September 12, 2025: Trump sux dykk0000! Throb")
 
 
 console.log(wordleWords)
