@@ -1390,7 +1390,7 @@ export const dailyWordsSmall = [
     'MOVER', 'MOWER',
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO',
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
-    'NOBLY', 'NOISY', 'NOOSE', 'NOSEY', 'NOTCH', 'NUTTY',
+    'NOBLY', 'NOOSE', 'NOSEY', 'NOTCH', 'NUTTY',
     'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'OLDEN', 'OMBRE',
     'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
@@ -2204,7 +2204,7 @@ export const dailyWordsLarge = [
     'NIPPY', 'NIQAB', 'NIRLS', 'NIRLY', 'NISEI', 'NISSE', 'NISUS', 'NITER', 'NITES', 'NITID',
     'NITON', 'NITRE', 'NITRO', 'NITRY', 'NITTY', 'NIVAL', 'NIXED', 'NIXER', 'NIXES', 'NIXIE',
     'NIZAM', 'NKOSI', 'NOAHS', 'NOBBY', 'NOBLY', 'NOCKS', 'NODAL', 'NODDY', 'NODES',
-    'NODUS', 'NOELS', 'NOGGS', 'NOHOW', 'NOILS', 'NOILY', 'NOINT', 'NOIRS', 'NOISY',
+    'NODUS', 'NOELS', 'NOGGS', 'NOHOW', 'NOILS', 'NOILY', 'NOINT', 'NOIRS', 
     'NOLES', 'NOLLS', 'NOLOS', 'NOMAS', 'NOMEN', 'NOMES', 'NOMIC', 'NOMOI', 'NOMOS',
     'NONAS', 'NONCE', 'NONES', 'NONET', 'NONGS', 'NONIS', 'NONNY', 'NONYL', 'NOOBS', 'NOOIT',
     'NOOKS', 'NOOKY', 'NOONS', 'NOOPS', 'NOOSE', 'NOPAL', 'NORIA', 'NORIS', 'NORKS', 'NORMA',
@@ -12031,6 +12031,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1547,
       },  
+      { word: "NOISY",
+        gameDate: "9/14/25",
+        myScore: 3,
+        wordNumber: 1548,
+      },  
     
   ];
 
@@ -12047,7 +12052,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 13, 2025: Trump sux dykk0000! NADIR")
+console.log("September 14, 2025: Trump sux dykk0000! NOISY")
 
 
 console.log(wordleWords)
