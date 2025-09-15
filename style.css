@@ -2513,20 +2513,20 @@ body {
 }
 
 .line-96a {
-  background-color: orange;
-  color: blue;
+  background-color: black;
+  color: white; 
   opacity: 0.8;
 }
 
 .line-96b {
-  background-color: orange;
-  color: blue;
+  background-color: black;
+  color: white; 
   opacity: 0.85;
 }
 
 .line-96c {
-  background-color: orange;
-  color: blue;
+  background-color: black;
+  color: white; 
   opacity: 0.85;
 }
 
@@ -2801,19 +2801,19 @@ body {
 }
 
 .line-112a {
-  background-color: rgb(27, 167, 218);
-  color: rgb(222, 161, 11);
+  background-color: black;
+  color: white; 
   opacity: 0.5;
 }
 
 .line-112b {
-  background-color: rgb(27, 167, 218);
-  color: rgb(222, 161, 11);
+  background-color: black;
+  color: white; 
   opacity: 0.55;
 }
 
 .line-112c {
-  background-color: rgb(27, 167, 218);
-  color: rgb(222, 161, 11);
+  background-color: black;
+  color: white; 
   opacity: 0.5;
 }
