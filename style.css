@@ -842,6 +842,12 @@ body {
   padding: 0.55rem;
 }
 
+.whole-box-115 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgR0QLLts3BQWaUXOwIkMvOlr52CUQBoWvOQ&s);
+  background-size: cover;
+  padding: 0.55rem;
+}
+
 .line-1a {
   color: rgb(0, 0, 0);
   background-color: rgb(255, 255 255);
@@ -2863,5 +2869,23 @@ body {
 .line-114c {
   background-color: purple;
   color: yellow; 
+  opacity: 0.5;
+}
+
+.line-115a {
+  background-color: yellow;
+  color: purple;
+  opacity: 0.5;
+}
+
+.line-115b {
+  background-color: yellow;
+  color: purple;
+  opacity: 0.55;
+}
+
+.line-115c {
+  background-color: yellow;
+  color: purple; 
   opacity: 0.5;
 }
