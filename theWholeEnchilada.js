@@ -1431,7 +1431,7 @@ export const dailyWordsSmall = [
     'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
     'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORE', 
     'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
-    'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TEETH', 'TENET', 'TENSE', 'TEPEE', 
+    'TANGO', 'TAROT', 'TATTY', 'TEDDY', 'TENET', 'TENSE', 'TEPEE', 
     'TERRA', 'TESTY', 'THEFT', 'THETA', 'THICK', 'THONG',
     'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS',  
@@ -2575,7 +2575,7 @@ export const dailyWordsLarge = [
     'TAWSE', 'TAWTS', 'TAXED', 'TAXER', 'TAXES', 'TAXIS', 'TAXOL', 'TAXON', 'TAXOR',
     'TAXUS', 'TAYRA', 'TAZZA', 'TAZZE', 'TEADE', 'TEADS', 'TEAED', 'TEAKS', 'TEALS',
     'TEAMS', 'TEARS', 'TEATS', 'TEAZE', 'TECHS', 'TECHY', 'TECTA', 'TEDDY',
-    'TEELS', 'TEEMS', 'TEEND', 'TEENE', 'TEENS', 'TEENY', 'TEERS', 'TEETH', 'TEFFS', 'TEGGS',
+    'TEELS', 'TEEMS', 'TEEND', 'TEENE', 'TEENS', 'TEENY', 'TEERS', 'TEFFS', 'TEGGS',
     'TEGUA', 'TEGUS', 'TEHRS', 'TEIID', 'TEILS', 'TEIND', 'TEINS', 'TELAE', 'TELCO', 'TELES',
     'TELEX', 'TELIA', 'TELIC', 'TELLS', 'TELLY', 'TELOI', 'TELOS', 'TEMED', 'TEMES', 'TEMPI',
     'TEMPS', 'TEMPT', 'TEMSE', 'TENCH', 'TENDS', 'TENDU', 'TENES', 'TENET', 'TENGE',
@@ -12046,6 +12046,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1550,
       },  
+      { word: "TEETH",
+        gameDate: "9/17/25",
+        myScore: 3,
+        wordNumber: 1551,
+      },  
     
   ];
 
@@ -12062,7 +12067,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 16, 2025: Trump sux dykk0000! LEFTY")
+console.log("September 17, 2025: Trump sux dykk0000! TEETH ")
 
 
 console.log(wordleWords)
