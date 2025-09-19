@@ -1377,7 +1377,7 @@ export const dailyWordsSmall = [
     'HYMEN', 'ICILY', 'IDEAL', 'IDIOT', 'IDYLL', 'ILIAC', 
     'IMPLY', 'INGOT', 'INLET',  
     'JETTY', 'JOIST', 'JUICY', 'JUMBO', 'JUNTA',
-    'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 'KNIFE',
+    'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 
     'LADEN', 'LANCE', 'LATCH', 'LATER',
     'LATHE', 'LEACH', 'LEANT', 'LEGAL',
     'LEPER', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 
@@ -2040,7 +2040,7 @@ export const dailyWordsLarge = [
     'KISTS', 'KITED', 'KITER', 'KITES', 'KITHE', 'KITHS', 'KITTY', 'KITUL', 'KIVAS', 'KIWIS',
     'KLANG', 'KLAPS', 'KLETT', 'KLICK', 'KLIEG', 'KLIKS', 'KLONG', 'KLOOF', 'KLUGE', 'KLUTZ',
     'KNAGS', 'KNAPS', 'KNARL', 'KNARS', 'KNAUR', 'KNAWE', 'KNEED',
-    'KNEES', 'KNIFE', 'KNISH', 'KNITS', 'KNIVE', 'KNOBS', 
+    'KNEES', 'KNISH', 'KNITS', 'KNIVE', 'KNOBS', 
     'KNOPS', 'KNOSP', 'KNOTS', 'KNOUT', 'KNOWE', 'KNOWS', 'KNUBS', 'KNURL',
     'KNURR', 'KNURS', 'KNUTS', 'KOANS', 'KOAPS', 'KOBAN', 'KOBOS', 'KOELS', 'KOFFS',
     'KOFTA', 'KOGAL', 'KOHAS', 'KOHEN', 'KOHLS', 'KOINE', 'KOJIS', 'KOKAM', 'KOKAS', 'KOKER',
@@ -12051,6 +12051,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1551,
       },  
+      { word: "KNIFE",
+        gameDate: "9/18/25",
+        myScore: 4,
+        wordNumber: 1552,
+      },  
     
   ];
 
@@ -12067,7 +12072,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 17, 2025: Trump sux dykk0000! TEETH ")
+console.log("September 18, 2025: Trump sux dykk0000! KNIFE ")
 
 
 console.log(wordleWords)
