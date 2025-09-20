@@ -854,6 +854,12 @@ body {
   padding: 0.55rem;
 }
 
+.whole-box-117 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRieLBSt2apPWkaBp-SIcmJWrsYJVeshlk95g&s);
+  background-size: cover;
+  padding: 0.55rem;
+}
+
 .line-1a {
   color: rgb(0, 0, 0);
   background-color: rgb(255, 255 255);
@@ -2896,20 +2902,38 @@ body {
   opacity: 0.5;
 }
 
-.line-115a {
+.line-116a {
   background-color: dodgerblue;
   color: silver;
   opacity: 0.5;
 }
 
-.line-115b {
+.line-116b {
   background-color: dodgerblue;
   color: silver;
   opacity: 0.55;
 }
 
-.line-115c {
+.line-116c {
   background-color: dodgerblue;
   color: silver;
+  opacity: 0.5;
+}
+
+.line-117a {
+  background-color: orange;
+  color: red;
+  opacity: 0.5;
+}
+
+.line-117b {
+  background-color: orange;
+  color: red;
+  opacity: 0.55;
+}
+
+.line-117c {
+  background-color: orange;
+  color: red;
   opacity: 0.5;
 }
