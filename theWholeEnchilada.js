@@ -1343,7 +1343,7 @@ export const dailyWordsSmall = [
     'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMIC', 'CONCH',
-    'COPSE', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
+    'COPSE', 'COUCH', 'COUGH', 'COUPE', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
@@ -1681,7 +1681,7 @@ export const dailyWordsLarge = [
     'CORPS', 'CORSE', 'CORSO', 'COSEC', 'COSED', 'COSES', 'COSET', 'COSEY', 'COSIE', 'COSTA',
     'COSTE', 'COSTS', 'COTAN', 'COTED', 'COTES', 'COTHS', 'COTTA', 'COTTS', 'COUCH', 'COUDE',
     'COUGH', 'COUPE', 'COUPS', 'COURB', 'COURD', 'COURE', 'COURS',
-    'COUTA', 'COUTH', 'COVED', 'COVEN', 'COVES', 'COVEY', 'COVIN', 'COWAL',
+    'COUTA', 'COUTH', 'COVED', 'COVES', 'COVEY', 'COVIN', 'COWAL',
     'COWAN', 'COWED', 'COWKS', 'COWLS', 'COWPS', 'COWRY', 'COXAE', 'COXAL', 'COXED',
     'COXES', 'COXIB', 'COYAU', 'COYED', 'COYER', 'COYPU', 'COZED', 'COZEN', 'COZES',
     'COZEY', 'COZIE',
@@ -12083,7 +12083,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 20, 2025: Trump sux dykk0000! DEFER")
+console.log("September 21, 2025: Trump sux dykk0000! COVEN")
 
 
 console.log(wordleWords)
