@@ -1,5 +1,6 @@
 
 
+
 export const fixedWordsLarge = [
     'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
@@ -1347,7 +1348,7 @@ export const dailyWordsSmall = [
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DEALT', 'DEBAR',
-    'DECOR', 'DEFER', 'DEIGN', 
+    'DECOR', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOUGH', 'DOWDY', 'DOWNY', 'DRAKE', 'DRAMA',
@@ -1719,7 +1720,7 @@ export const dailyWordsLarge = [
     'DEBTS', 'DEBUD', 'DEBUR', 'DEBUS', 'DEBYE', 'DECAD', 'DECAF',
     'DECAN', 'DECKO', 'DECKS', 'DECOR', 'DECOS', 'DEDAL', 'DEEDS',
     'DEEDY', 'DEELY', 'DEEMS', 'DEENS', 'DEEPS', 'DEERE', 'DEERS', 'DEETS', 'DEEVE', 'DEEVS',
-    'DEFAT', 'DEFER', 'DEFFO', 'DEFIS', 'DEFOG', 'DEGAS', 'DEGUM', 'DEGUS', 'DEICE', 'DEIDS',
+    'DEFAT', 'DEFFO', 'DEFIS', 'DEFOG', 'DEGAS', 'DEGUM', 'DEGUS', 'DEICE', 'DEIDS',
     'DEIFY', 'DEIGN', 'DEILS', 'DEISM', 'DEIST', 'DEKED', 'DEKES', 'DEKKO', 
     'DELED', 'DELES', 'DELFS', 'DELFT', 'DELIS', 'DELLS', 'DELLY', 'DELOS', 'DELPH',
     'DELTS', 'DEMAN', 'DEMES', 'DEMIC', 'DEMIT', 'DEMOB', 'DEMOI', 'DEMON', 'DEMOS',
@@ -12061,6 +12062,11 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1553,
       },  
+      { word: "DEFER",
+        gameDate: "9/20/25",
+        myScore: 4,
+        wordNumber: 1554,
+      },  
     
   ];
 
@@ -12077,7 +12083,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 19, 2025: Trump sux dykk0000! LATER ")
+console.log("September 20, 2025: Trump sux dykk0000! DEFER")
 
 
 console.log(wordleWords)
