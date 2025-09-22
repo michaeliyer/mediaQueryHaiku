@@ -1403,7 +1403,7 @@ export const dailyWordsSmall = [
     'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
     'PUPPY', 'PUREE', 'PURER', 'PURSE', 'PUSHY', 'PUTTY', 'PYGMY', 'QUACK',
-    'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILL', 'QUILT', 'QUOTH',
+    'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILT', 'QUOTH',
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
     'RARER', 'RASPY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
     'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
@@ -2332,7 +2332,7 @@ export const dailyWordsLarge = [
     'QORMA', 'QUACK', 'QUADS', 'QUAFF', 'QUAGS', 'QUAIR', 'QUAIS', 'QUAKY', 'QUALE', 'QUANT',
     'QUARE', 'QUARK', 'QUASI', 'QUASS', 'QUATE', 'QUATS', 'QUAYD', 'QUAYS',
     'QUBIT', 'QUEAN', 'QUEER', 'QUELL', 'QUEME', 'QUENA', 'QUERN', 'QUEYN', 'QUEYS', 'QUICH', 
-    'QUIDS', 'QUIFF', 'QUILL', 'QUILT', 'QUIMS', 'QUINA', 'QUINE', 'QUINO', 'QUINS', 'QUINT', 
+    'QUIDS', 'QUIFF', 'QUILT', 'QUIMS', 'QUINA', 'QUINE', 'QUINO', 'QUINS', 'QUINT', 
     'QUIPO', 'QUIPS', 'QUIPU', 'QUIRE', 'QUIRT', 'QUIST', 'QUITS', 'QUOAD', 'QUODS', 'QUOIF', 
     'QUOIN', 'QUOIT', 'QUOLL', 'QUONK', 'QUOPS', 'QUOTH', 'QURSH', 'QUYTE', 'RABAT', 'RABBI',
     'RABIC', 'RABID', 'RABIS', 'RACED', 'RACER', 'RACES', 'RACHE', 'RACKS', 'RACON', 'RADAR',
@@ -12072,6 +12072,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1555,
       },  
+      { word: "QUILL",
+        gameDate: "9/22/25",
+        myScore: 4,
+        wordNumber: 1556,
+      },  
     
   ];
 
@@ -12088,7 +12093,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 21, 2025: Trump sux dykk0000! COVEN")
+console.log("September 22, 2025: Trump sux dykk0000! QUILL")
 
 
 console.log(wordleWords)
