@@ -1,4 +1,4 @@
-* {
+n* {
   font-family: "Gaegu", sans-serif;
   margin: 0;
   padding: 0;
@@ -2982,20 +2982,20 @@ body {
 
 .line-119a {
   background-color: yellow;
-  color: aqua;
-  opacity: 0.5;
+  color: green;
+  opacity: 0.75;
 }
 
 .line-119b {
   background-color: yellow;
-  color: aqua;
-  opacity: 0.55;
+  color: green;
+  opacity: 0.8;
 }
 
 .line-119c {
   background-color: yellow;
-  color: aqua;
-  opacity: 0.5;
+  color: green;
+  opacity: 0.75;
 }
 
 .line-120a {
