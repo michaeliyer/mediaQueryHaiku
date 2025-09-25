@@ -1,6 +1,4 @@
 
-
-
 export const fixedWordsLarge = [
     'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX', 
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
@@ -1332,7 +1330,7 @@ export const dailyWordsSmall = [
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
     'BIDDY', 'BIGOT', 'BILLY', 'BINGO', 'BISON', 'BITTY', 
     'BLAST', 'BLEAT', 'BLESS', 'BLIND', 'BLITZ',
-    'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BLUNT', 'BOBBY', 'BONEY', 
+    'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BOBBY', 'BONEY', 
     'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
     'BRAWL', 'BRICK', 'BROIL',
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
@@ -1569,7 +1567,7 @@ export const dailyWordsLarge = [
     'BLIPS', 'BLIST', 'BLITE', 'BLITS', 'BLITZ', 'BLIVE', 'BLOAT', 'BLOBS',
     'BLOCS', 'BLOGS', 'BLOOD', 'BLOOK', 'BLOOM', 'BLOOP', 'BLORE', 'BLOTS',
     'BLOWS', 'BLOWY', 'BLUBS', 'BLUDE', 'BLUDS', 'BLUDY', 'BLUED', 'BLUER', 'BLUES',
-    'BLUET', 'BLUEY', 'BLUID', 'BLUME', 'BLUNK', 'BLUNT', 'BLURS', 
+    'BLUET', 'BLUEY', 'BLUID', 'BLUME', 'BLUNK', 'BLURS', 
     'BLYPE', 'BOABS', 'BOAKS', 'BOARS', 'BOART', 'BOATS', 'BOBAC',
     'BOBAK', 'BOBAS', 'BOBBY', 'BOBOL', 'BOBOS', 'BOCCA', 'BOCCE', 'BOCCI', 'BOCKS', 'BODED',
     'BODES', 'BODGE', 'BODHI', 'BODLE', 'BOEPS', 'BOETS', 'BOEUF', 'BOFFO', 'BOFFS', 'BOGAN',
@@ -12082,6 +12080,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1557,
       },  
+      { word: "BLUNT",
+        gameDate: "9/24/25",
+        myScore: 4,
+        wordNumber: 1558,
+      },  
     
   ];
 
@@ -12098,7 +12101,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 23, 2025: Trump sux dykk0000! MOUTH")
+console.log("September 24, 2025: Trump sux dykk0000! BLUNT")
 
 
 console.log(wordleWords)
