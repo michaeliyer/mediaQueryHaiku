@@ -1350,7 +1350,7 @@ export const dailyWordsSmall = [
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOUGH', 'DOWDY', 'DOWNY', 'DRAKE', 'DRAMA',
-    'DRANK', 'DRAPE', 'DRAWL', 'DRESS', 'DRIED', 'DRIER', 'DRILL',
+    'DRANK', 'DRAWL', 'DRESS', 'DRIED', 'DRIER', 'DRILL',
     'DROIT', 'DROSS', 'DROWN', 'DRUID', 'DRUNK', 'DRYLY',
     'DULLY', 'DUMPY', 'DUNCE', 'DUSKY', 'DUSTY', 'DYING',   
     'EATEN', 'EATER', 'ECLAT', 'EERIE', 'EIGHT', 'EKING', 'ELECT',
@@ -1754,7 +1754,7 @@ export const dailyWordsLarge = [
     'DOWAR', 'DOWDS', 'DOWDY', 'DOWED', 'DOWER', 'DOWIE', 'DOWLE', 'DOWLS', 'DOWLY',
     'DOWNA', 'DOWNS', 'DOWNY', 'DOWPS', 'DOWSE', 'DOWTS', 'DOXED', 'DOXES', 'DOXIE',
     'DOYEN', 'DOYLY', 'DOZED', 'DOZER', 'DOZES', 'DRABS', 'DRACK', 'DRACO', 'DRAFF',
-    'DRAGS', 'DRAIL', 'DRAKE', 'DRAMA', 'DRAMS', 'DRANK', 'DRANT', 'DRAPE',
+    'DRAGS', 'DRAIL', 'DRAKE', 'DRAMA', 'DRAMS', 'DRANK', 'DRANT',
     'DRAPS', 'DRATS', 'DRAVE', 'DRAWL', 'DRAWS', 'DRAYS', 'DREAR',
     'DRECK', 'DREED', 'DREER', 'DREES', 'DREGS', 'DREKS', 'DRENT', 'DRERE', 'DRESS', 'DREST',
     'DREYS', 'DRIBS', 'DRICE', 'DRIED', 'DRIER', 'DRIES', 'DRILL', 'DRILY', 
@@ -12085,6 +12085,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1558,
       },  
+      { word: "DRAPE",
+        gameDate: "9/25/25",
+        myScore: 3,
+        wordNumber: 1559,
+      },  
     
   ];
 
@@ -12101,7 +12106,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 24, 2025: Trump sux dykk0000! BLUNT")
+console.log("September 25, 2025: Trump sux dykk0000! DRAPE")
 
 
 console.log(wordleWords)
