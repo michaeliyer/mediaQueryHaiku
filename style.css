@@ -885,13 +885,19 @@ body {
 }
 
 .whole-box-122 {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDpKDUDk3BedcUbSDTakvRXRjFYKdb9-mkQ&s);
   background-size: cover;
   padding: 0.55rem;
 }
 
 .whole-box-123 {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-size: cover;
+  padding: 0.55rem;
+}
+
+.whole-box-124 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
   background-size: cover;
   padding: 0.55rem;
 }
@@ -3031,35 +3037,35 @@ body {
 .line-121a {
   background-color: #4B4B4B;
   color: red;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .line-121b {
   background-color: #4B4B4B;
   color: red;
-  opacity: 0.55;
+  opacity: 0.75;
 }
 
 .line-121c {
   background-color: #4B4B4B;
   color: black;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .line-122a {
-  background-color: pink;
+  background-color: dodgerblue;
   color: chartreuse;
   opacity: 0.75;
 }
 
 .line-122b {
-  background-color: pink;
+  background-color: dodgerblue;
   color: chartreuse;
   opacity: 0.75;
 }
 
 .line-122c {
-  background-color: pink;
+  background-color: dodgerblue;
   color: chartreuse;
   opacity: 0.75;
 }
@@ -3077,6 +3083,24 @@ body {
 }
 
 .line-123c {
+  background-color: navy;
+  color: red;
+  opacity: 0.75;
+}
+
+.line-124a {
+  background-color: navy;
+  color: red;
+  opacity: 0.75;
+}
+
+.line-124b {
+  background-color: navy;
+  color: red;
+  opacity: 0.75;
+}
+
+.line-124c {
   background-color: navy;
   color: red;
   opacity: 0.75;
