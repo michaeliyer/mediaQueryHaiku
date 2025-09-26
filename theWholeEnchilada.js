@@ -1345,7 +1345,7 @@ export const dailyWordsSmall = [
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
     'CRICK', 'CRIED', 'CRIER', 'CROCK', 'CRONY', 'CROUP', 'CRUDE',
     'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
-    'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DALLY', 'DEALT', 'DEBAR',
+    'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DEALT', 'DEBAR',
     'DECOR', 'DEIGN', 
     'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRTY', 'DITCH', 'DIVER', 'DIZZY', 'DODGY',
@@ -1706,7 +1706,7 @@ export const dailyWordsLarge = [
     'CYMAE', 'CYMAR', 'CYMAS', 'CYMES', 'CYMOL', 'CYSTS', 'CYTES', 'CYTON', 'CZARS',
     'DAALS', 'DABBA', 'DACES', 'DACHA', 'DACKS', 'DADAH', 'DADAS', 'DADOS', 'DAFFS',
     'DAFFY', 'DAGGA', 'DAGGY', 'DAHLS', 'DAIKO', 'DAILY', 'DAINE', 'DAINT', 'DAIRY', 
-    'DAKER', 'DALED', 'DALES', 'DALIS', 'DALLE', 'DALLY', 'DALTS', 'DAMAN', 'DAMAR', 'DAMES',
+    'DAKER', 'DALED', 'DALES', 'DALIS', 'DALLE', 'DALTS', 'DAMAN', 'DAMAR', 'DAMES',
     'DAMME', 'DAMNS', 'DAMPS', 'DAMPY', 'DANCY', 'DANGS', 'DANIO', 'DANKS',
     'DANNY', 'DANTS', 'DARAF', 'DARBS', 'DARCY', 'DARED', 'DARER', 'DARES', 'DARGA', 'DARGS',
     'DARIC', 'DARIS', 'DARKS', 'DARNS', 'DARRE', 'DARTS', 'DARZI', 'DASHI', 'DASHY', 'DATAL',
@@ -12090,6 +12090,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1559,
       },  
+      { word: "DALLY",
+        gameDate: "9/26/25",
+        myScore: 4,
+        wordNumber: 1560,
+      },  
     
   ];
 
@@ -12106,7 +12111,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 25, 2025: Trump sux dykk0000! DRAPE")
+console.log("September 26, 2025: Trump sux dykk0000! DALLY")
 
 
 console.log(wordleWords)
