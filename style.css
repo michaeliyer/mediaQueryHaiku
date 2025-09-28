@@ -891,12 +891,18 @@ body {
 }
 
 .whole-box-123 {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-image: url(https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bag3en5lx7l39ujvqr5a);
   background-size: cover;
   padding: 0.55rem;
 }
 
 .whole-box-124 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-size: cover;
+  padding: 0.55rem;
+}
+
+.whole-box-125 {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
   background-size: cover;
   padding: 0.55rem;
@@ -3103,5 +3109,23 @@ body {
 .line-124c {
   background-color: navy;
   color: red;
+  opacity: 0.75;
+}
+
+.line-125a {
+  background-color: crimson;
+  color: tomato;
+  opacity: 0.75;
+}
+
+.line-125b {
+  background-color: crimson;
+  color: tomato;
+  opacity: 0.75;
+}
+
+.line-125c {
+  background-color: crimson;
+  color: tomato;
   opacity: 0.75;
 }
