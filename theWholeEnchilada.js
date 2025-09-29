@@ -1362,7 +1362,7 @@ export const dailyWordsSmall = [
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
     'FLECK', 'FLEET', 'FLIER', 'FLUID', 'FLUKE', 
     'FLUSH', 'FLUTE', 'FORUM', 'FRAUD',
-    'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRITZ', 'FRUIT', 'FUCKO', 'FUDGE',
+    'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
     'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 'GEESE',  
     'GIPSY', 'GIRLY', 'GIVER', 'GLARE', 'GLINT', 'GLOSS', 
