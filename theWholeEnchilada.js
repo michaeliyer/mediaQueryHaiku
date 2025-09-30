@@ -1338,7 +1338,7 @@ export const dailyWordsSmall = [
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
     'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CELLO', 'CHAFF', 
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
-    'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
+    'CHUCK', 'CHUMP', 'CHURN', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMIC', 'CONCH',
     'COPSE', 'COUCH', 'COUGH', 'COUPE', 'COVEY', 'CRACK', 
@@ -1650,7 +1650,7 @@ export const dailyWordsLarge = [
     'CIBOL', 'CIDED', 'CIDES', 'CIELS', 'CIGGY', 'CILIA', 'CILLS', 'CIMAR',
     'CIMEX', 'CINCT', 'CINES', 'CINQS', 'CIONS', 'CIPPI', 'CIRCS', 'CIRES',
     'CIRLS', 'CIRRI', 'CISCO', 'CISSY', 'CISTS', 'CITAL', 'CITED', 'CITER', 'CITES', 'CIVES',
-    'CIVET', 'CIVIE', 'CIVIL', 'CIVVY', 'CLACH', 'CLACK', 'CLADE', 'CLADS', 'CLAES',
+    'CIVET', 'CIVIE', 'CIVVY', 'CLACH', 'CLACK', 'CLADE', 'CLADS', 'CLAES',
     'CLAGS', 'CLAIM', 'CLAME', 'CLAMP', 'CLAMS', 'CLANG', 'CLANK', 'CLANS', 'CLAPS', 'CLAPT',
     'CLARO', 'CLART', 'CLARY', 'CLASP', 'CLAST', 'CLATS', 'CLAUT', 'CLAVE',
     'CLAVI', 'CLAWS', 'CLAYS', 'CLEAT', 'CLECK', 'CLEEK', 'CLEEP', 'CLEFS',
@@ -12105,6 +12105,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1562,
       },  
+      { word: "CIVIL",
+        gameDate: "9/29/25",
+        myScore: 4,
+        wordNumber: 1563,
+      },  
     
   ];
 
@@ -12121,7 +12126,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 28, 2025: Trump sux dykk000000000! GOOEY")
+console.log("September 29, 2025: Trump sux dykk000000000! CIVIL")
 
 
 console.log(wordleWords)
