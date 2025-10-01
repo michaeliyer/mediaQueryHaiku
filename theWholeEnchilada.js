@@ -1364,7 +1364,7 @@ export const dailyWordsSmall = [
     'FLUSH', 'FLUTE', 'FORUM', 'FRAUD',
     'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
-    'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 'GEESE',  
+    'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 
     'GIPSY', 'GIRLY', 'GIVER', 'GLARE', 'GLINT', 'GLOSS', 
     'GODLY', 'GOLLY', 'GONAD', 'GOURD',
     'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GRILL', 
@@ -1875,7 +1875,7 @@ export const dailyWordsLarge = [
     'GAULT', 'GAUMS', 'GAUMY', 'GAUPS', 'GAURS', 'GAUSS', 'GAUZY', 'GAVEL',
     'GAVOT', 'GAWCY', 'GAWDS', 'GAWKS', 'GAWPS', 'GAWSY', 'GAYAL', 'GAYER', 'GAYLY',
     'GAZAL', 'GAZAR', 'GAZED', 'GAZER', 'GAZES', 'GAZON', 'GAZOO', 'GEALS', 'GEANS', 'GEARE',
-    'GEARS', 'GEATS', 'GEBUR', 'GECKS', 'GEEKS', 'GEEKY', 'GEEPS', 'GEESE', 'GEEST',
+    'GEARS', 'GEATS', 'GEBUR', 'GECKS', 'GEEKS', 'GEEKY', 'GEEPS', 'GEEST',
     'GEIST', 'GEITS', 'GELDS', 'GELEE', 'GELID', 'GELLY', 'GELTS', 'GEMEL', 'GEMMA', 'GEMMY',
     'GEMOT', 'GENAL', 'GENAS', 'GENES', 'GENET', 'GENIC', 'GENII', 'GENIP', 'GENNY',
     'GENOA', 'GENOM', 'GENRO', 'GENTS', 'GENTY', 'GENUA', 'GENUS', 'GEODE', 'GEOID',
@@ -12110,6 +12110,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1563,
       },  
+      { word: "GEESE",
+        gameDate: "9/30/25",
+        myScore: 4,
+        wordNumber: 1564,
+      },  
     
   ];
 
@@ -12126,7 +12131,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("September 29, 2025: Trump sux dykk000000000! CIVIL")
+console.log("September 30, 2025: Trump sux dykk000000000! GEESE")
 
 
 console.log(wordleWords)
@@ -12146,4 +12151,3 @@ function logOverallAverageScore() {
 }
 
 logOverallAverageScore();
-
