@@ -931,6 +931,11 @@ body {
   background-size: cover;
   padding: 0.55rem;
 }
+.whole-box-130 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJxeGn7nXprW2jLSea9NEptlgZow7cq0dMA&s);
+  background-size: cover;
+  padding: 0.55rem;
+}
 
 .line-1a {
   color: rgb(0, 0, 0);
@@ -3223,5 +3228,23 @@ body {
 .line-129c {
   background-color: rgb(15, 150, 228);
   color: rgb(107, 2, 52);
+  opacity: 0.73;
+}
+
+.line-130a {
+  background-color: rgb(180, 180, 180);
+  color: rrgb(40, 40, 40);
+  opacity: 0.73;
+}
+
+.line-130b {
+  background-color: rgb(180, 180, 180);
+  color: rgb(40, 40, 40);
+  opacity: 0.73;
+}
+
+.line-130c {
+  background-color: rgb(180, 180, 180);
+  color: rgb(40, 40, 40);
   opacity: 0.73;
 }
