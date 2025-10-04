@@ -1421,7 +1421,7 @@ export const dailyWordsSmall = [
     'SLOOP', 'SLUNK', 'SLURP', 'SLUSH', 'SLYLY', 'SMACK', 'SMELL', 'SMOKY',
     'SMOTE', 'SNEER', 'SNIDE', 'SNIFF', 'SNIPE', 'SNORE', 'SNOWY', 'SNUCK', 'SNUFF',
     'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SPANK', 
-    'SPASM', 'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
+    'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
     'SPINY', 'SPOOF', 'SPOOK', 'SPOOL', 
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
@@ -2505,7 +2505,7 @@ export const dailyWordsLarge = [
     'SOWSE', 'SOWTH', 'SOYAS', 'SOYLE', 'SOYUZ', 'SOZIN',
     'SPACY', 'SPADO', 'SPAED', 'SPAER', 'SPAES', 'SPAGS', 'SPAHI', 'SPAIL',
     'SPAIN', 'SPAIT', 'SPAKE', 'SPALD', 'SPALE', 'SPALL', 'SPALT', 'SPAMS', 'SPANE', 'SPANG',
-    'SPANK', 'SPANS', 'SPARD', 'SPARS', 'SPART', 'SPASM', 'SPATS',
+    'SPANK', 'SPANS', 'SPARD', 'SPARS', 'SPART', 'SPATS',
     'SPAUL', 'SPAWL', 'SPAWN', 'SPAWS', 'SPAYD', 'SPAYS', 'SPAZA', 'SPEAL', 'SPEAN',
     'SPEAT', 'SPECS', 'SPECT', 'SPEED', 'SPEEL', 'SPEER', 'SPEIL', 'SPEIR',
     'SPEKS', 'SPELD', 'SPELK', 'SPEOS', 'SPERM', 'SPETS',
@@ -12120,11 +12120,15 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1565,
       },  
-    
       { word: "WIDTH",
         gameDate: "10/2/25",
         myScore: 3,
         wordNumber: 1566,
+      },  
+      { word: "SPASM",
+        gameDate: "10/3/25",
+        myScore: 4,
+        wordNumber: 1567,
       },  
     
   ];
@@ -12142,7 +12146,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 2, 2025: Trump sux dykk000000000! WIDTH")
+console.log("October 3, 2025: Trump sux dykk000000000! SPASM")
 
 
 console.log(wordleWords)
