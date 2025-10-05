@@ -1404,7 +1404,7 @@ export const dailyWordsSmall = [
     'QUARK', 'QUASI', 'QUEER', 'QUELL', 'QUILT', 'QUOTH',
     'RABBI', 'RABID', 'RACER', 'RADAR', 'RADII', 'RAJAH', 'RALLY', 'RALPH', 'RANDY',
     'RARER', 'RASPY', 'RAVEN', 'RAZOR', 'REARM', 'REBAR', 
-    'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'RELAY', 'REMIT',
+    'RECUT', 'REEDY', 'REFIT', 'REHAB', 'REIGN', 'REMIT',
     'RENAL', 'REPLY', 'RESET', 'RICER', 'RIFLE', 
     'RIGOR', 'RINSE', 'RIPEN', 'RISER', 'RISKY', 'RIVER', 'ROAST', 'ROGER',
     'ROOST', 'ROTOR', 'RUGBY', 'RULER', 'RUMOR', 'RURAL',
@@ -2357,7 +2357,7 @@ export const dailyWordsLarge = [
     'REELS', 'REENS', 'REEST', 'REEVE', 'REFED', 'REFEL', 'REFIS', 'REFIT', 'REFIX',
     'REFLY', 'REFRY', 'REGAR', 'REGES', 'REGGO', 'REGIE', 'REGMA', 'REGNA', 'REGOS',
     'REGUR', 'REHAB', 'REHEM', 'REIFS', 'REIFY', 'REIGN', 'REIKI', 'REIKS', 'REINK', 'REINS',
-    'REIRD', 'REIST', 'REIVE', 'REJIG', 'REJON', 'REKED', 'REKES', 'REKEY', 'RELAY',
+    'REIRD', 'REIST', 'REIVE', 'REJIG', 'REJON', 'REKED', 'REKES', 'REKEY', 
     'RELET', 'RELIE', 'RELIT', 'RELLO', 'REMAN', 'REMAP', 'REMEN', 'REMET', 'REMEX',
     'REMIT', 'REMIX', 'RENAL', 'RENAY', 'RENDS', 'RENEY', 'RENGA', 'RENIG', 'RENIN',
     'RENNE', 'RENOS', 'RENTE', 'RENTS', 'REOIL', 'REORG', 'REPEG', 'REPIN',
@@ -12130,6 +12130,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1567,
       },  
+      { word: "RELAY",
+        gameDate: "10/4/25",
+        myScore: 3,
+        wordNumber: 1568,
+      },  
     
   ];
 
@@ -12146,7 +12151,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 3, 2025: Trump sux dykk000000000! SPASM")
+console.log("October 4, 2025: Trump sux dykk000000000! RELAY")
 
 
 console.log(wordleWords)
@@ -12166,3 +12171,4 @@ function logOverallAverageScore() {
 }
 
 logOverallAverageScore();
+
