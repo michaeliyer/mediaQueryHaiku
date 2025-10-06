@@ -1396,7 +1396,7 @@ export const dailyWordsSmall = [
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
     'PEONY', 'PERIL', 'PESTO', 'PIGGY', 'PIVOT', 'PIZZA',
-    'PLANE', 'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
+    'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUMP', 'PLUSH',
     'POESY', 'POOCH', 'POSER', 'POSIT', 'POSSE', 'POUCH', 
     'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
     'PROOF', 'PRUDE', 'PUBIC', 'PUDGY', 'PUFFY', 'PULSE', 'PUNCH',
@@ -2283,7 +2283,7 @@ export const dailyWordsLarge = [
     'PISKY', 'PISOS', 'PISSY', 'PISTE', 'PITAS', 'PITHS', 'PITON', 'PITOT',
     'PITTA',
     'PIUMS', 'PIVOT', 'PIXES', 'PIZED', 'PIZES', 'PIZZA', 'PLAAS',
-    'PLACK', 'PLAGE', 'PLANE', 'PLANS', 'PLAPS',
+    'PLACK', 'PLAGE', 'PLANS', 'PLAPS',
     'PLASH', 'PLASM', 'PLAST', 'PLATS', 'PLATT', 'PLATY', 'PLAYA', 'PLAYS', 
     'PLEAD', 'PLEAS', 'PLEBE', 'PLEBS', 'PLENA', 'PLEON', 'PLESH', 'PLEWS', 'PLICA',
     'PLIED', 'PLIER', 'PLIES', 'PLIMS', 'PLING', 'PLINK', 'PLOAT', 'PLODS', 'PLONG', 'PLONK',
@@ -12135,6 +12135,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1568,
       },  
+      { word: "PLANE",
+        gameDate: "10/5/25",
+        myScore: 3,
+        wordNumber: 1569,
+      },  
     
   ];
 
@@ -12151,7 +12156,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 4, 2025: Trump sux dykk000000000! RELAY")
+console.log("October 4, 2025: Trump sux dykk000000000! PLANE")
 
 
 console.log(wordleWords)
