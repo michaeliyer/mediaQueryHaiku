@@ -1322,7 +1322,7 @@ export const dailyWordsSmall = [
     'ABBOT', 'ABHOR', 'ABLED', 'ABODE', 'ABORT', 'ABUSE', 
     'ADORN', 'AFIRE', 'AFOOT', 'AFOUL', 'AIDER', 'ALGAE',
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'AMAZE', 'AMEND',
-    'AMITY', 'AMONG', 'AMPLY', 'AMUSE', 'ANIME', 'ANKLE', 'ANNOY',
+    'AMITY', 'AMONG', 'AMPLY', 'ANIME', 'ANKLE', 'ANNOY',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
     'ARSON', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BARON',
@@ -1484,7 +1484,7 @@ export const dailyWordsLarge = [
     'AMIAS', 'AMICE', 'AMICI', 'AMIDE', 'AMIDO', 'AMIDS', 'AMIES', 'AMIGA', 'AMIGO', 'AMINE',
     'AMINO', 'AMINS', 'AMIRS', 'AMITY', 'AMLAS', 'AMMAN', 'AMMON', 'AMMOS', 'AMNIA',
     'AMNIC', 'AMNIO', 'AMOKS', 'AMOLE', 'AMONG', 'AMORT', 'AMOUR', 'AMOVE', 'AMOWT', 'AMPED',
-    'AMPLY', 'AMPUL', 'AMRIT', 'AMUCK', 'AMUSE', 'AMYLS', 'ANANA', 'ANATA', 'ANCHO',
+    'AMPLY', 'AMPUL', 'AMRIT', 'AMUCK', 'AMYLS', 'ANANA', 'ANATA', 'ANCHO',
     'ANCLE', 'ANCON', 'ANDRO', 'ANEAR', 'ANELE', 'ANENT', 'ANGAS', 
     'ANGLO', 'ANIGH', 'ANILE', 'ANILS', 'ANIMA', 'ANIME', 'ANIMI', 'ANION',
     'ANISE', 'ANKER', 'ANKHS', 'ANKLE', 'ANKUS', 'ANLAS', 'ANNAL', 'ANNAS', 'ANNAT', 
@@ -12140,6 +12140,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1569,
       },  
+      { word: "AMUSE",
+        gameDate: "10/6/25",
+        myScore: 3,
+        wordNumber: 1570,
+      },  
     
   ];
 
@@ -12156,7 +12161,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 4, 2025: Trump sux dykk000000000! PLANE")
+console.log("October 6, 2025: Trump sux dykk000000000! AMUSE")
 
 
 console.log(wordleWords)
@@ -12176,4 +12181,3 @@ function logOverallAverageScore() {
 }
 
 logOverallAverageScore();
-
