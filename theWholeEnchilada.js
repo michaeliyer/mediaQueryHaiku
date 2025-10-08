@@ -1390,7 +1390,7 @@ export const dailyWordsSmall = [
     'MUCUS', 'MUDDY', 'MURKY', 'MUSKY', 'MYRRH', 'NACHO',
     'NEWER', 'NEWLY', 'NIECE', 'NINNY',
     'NOBLY', 'NOOSE', 'NOSEY', 'NOTCH', 'NUTTY',
-    'NYLON', 'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'OLDEN', 'OMBRE',
+    'OAKEN', 'OBESE', 'OCTAL', 'ODDER', 'OLDEN', 'OMBRE',
     'OPINE', 'OPIUM', 'OPTIC', 'ORBIT', 'OUTGO',
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
@@ -2213,7 +2213,7 @@ export const dailyWordsLarge = [
     'NOYED', 'NOYES', 'NUBBY', 'NUBIA', 'NUCHA', 'NUDDY', 'NUDER', 'NUDES', 'NUDIE',
     'NUDZH', 'NUFFS', 'NUGAE', 'NUKED', 'NUKES', 'NULLA', 'NULLS', 'NUMBS', 'NUMEN', 'NUMMY',
     'NUNNY', 'NURDS', 'NURDY', 'NURLS', 'NURRS', 'NUTSO', 'NUTSY', 'NUTTY', 'NYAFF',
-    'NYALA', 'NYING', 'NYLON', 'NYSSA', 'OAKED', 'OAKEN', 'OAKER', 'OAKUM', 'OARED',
+    'NYALA', 'NYING', 'NYSSA', 'OAKED', 'OAKEN', 'OAKER', 'OAKUM', 'OARED',
     'OASES', 'OASIS', 'OASTS', 'OATEN', 'OATER', 'OATHS', 'OAVES', 'OBANG', 'OBEAH', 'OBELI',
     'OBESE', 'OBEYS', 'OBIAS', 'OBIED', 'OBIIT', 'OBITS', 'OBJET', 'OBOES', 'OBOLE', 'OBOLI',
     'OBOLS', 'OCCAM', 'OCHER', 'OCHES', 'OCHRE', 'OCHRY', 'OCKER', 'OCREA',
@@ -12145,6 +12145,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1570,
       },  
+      { word: "NYLON",
+        gameDate: "10/7/25",
+        myScore: 3,
+        wordNumber: 1571,
+      },  
     
   ];
 
@@ -12161,7 +12166,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 6, 2025: Trump sux dykk000000000! AMUSE")
+console.log("October 6, 2025: Trump sux dykk000000000! NYLON")
 
 
 console.log(wordleWords)
@@ -12181,3 +12186,4 @@ function logOverallAverageScore() {
 }
 
 logOverallAverageScore();
+
