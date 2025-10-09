@@ -1322,7 +1322,7 @@ export const dailyWordsSmall = [
     'ABBOT', 'ABHOR', 'ABLED', 'ABODE', 'ABORT', 'ABUSE', 
     'ADORN', 'AFIRE', 'AFOOT', 'AFOUL', 'AIDER', 'ALGAE',
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'AMAZE', 'AMEND',
-    'AMITY', 'AMONG', 'AMPLY', 'ANIME', 'ANKLE', 'ANNOY',
+    'AMITY', 'AMONG', 'AMPLY', 'ANIME', 'ANKLE',
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
     'ARSON', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BARON',
@@ -1488,7 +1488,7 @@ export const dailyWordsLarge = [
     'ANCLE', 'ANCON', 'ANDRO', 'ANEAR', 'ANELE', 'ANENT', 'ANGAS', 
     'ANGLO', 'ANIGH', 'ANILE', 'ANILS', 'ANIMA', 'ANIME', 'ANIMI', 'ANION',
     'ANISE', 'ANKER', 'ANKHS', 'ANKLE', 'ANKUS', 'ANLAS', 'ANNAL', 'ANNAS', 'ANNAT', 
-    'ANNOY', 'ANNUL', 'ANOAS', 'ANOLE', 'ANOMY', 'ANSAE', 'ANTAE', 'ANTAR', 'ANTAS',
+    'ANNUL', 'ANOAS', 'ANOLE', 'ANOMY', 'ANSAE', 'ANTAE', 'ANTAR', 'ANTAS',
     'ANTED', 'ANTES', 'ANTIS', 'ANTRA', 'ANTRE', 'ANTSY', 'ANURA', 'ANYON',
     'APACE', 'APAGE', 'APAID', 'APAYD', 'APAYS', 'APEAK', 'APEEK', 'APERS',
     'APERT', 'APERY', 'APGAR', 'APHIS', 'APIAN', 'APING', 'APIOL', 'APISH', 'APISM',
@@ -12150,6 +12150,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1571,
       },  
+      { word: "ANNOY",
+        gameDate: "10/8/25",
+        myScore: 4,
+        wordNumber: 1572,
+      },  
     
   ];
 
@@ -12166,7 +12171,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 6, 2025: Trump sux dykk000000000! NYLON")
+console.log("October 8, 2025: Trump sux dykk000000000! ANNOY")
 
 
 console.log(wordleWords)
