@@ -1379,7 +1379,7 @@ export const dailyWordsSmall = [
     'JUNTO', 'JUROR', 'KAPPA', 'KINKY', 'KITTY', 'KNEED', 
     'LADEN', 'LANCE', 'LATCH', 
     'LATHE', 'LEACH', 'LEANT', 'LEGAL',
-    'LEPER', 'LEVER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 
+    'LEPER', 'LIEGE', 'LIKEN', 'LIMBO', 'LIPID', 
     'LOAMY', 'LOATH', 'LOBBY', 'LOGIN', 'LOOSE', 'LORRY', 'LUMEN',
     'LUPUS', 'LURCH', 'LURID', 'LYMPH', 'LYRIC', 'MACRO', 
     'MAFIA', 'MAKER', 'MAMMA', 'MAMMY', 'MANGE', 'MANGY', 'MANIC',
@@ -2075,7 +2075,7 @@ export const dailyWordsLarge = [
     'LEMES', 'LEMMA', 'LEMME', 'LENDS', 'LENES', 'LENGS', 'LENIS', 'LENOS',
     'LENSE', 'LENTI', 'LENTO', 'LEONE', 'LEPER', 'LEPID', 'LEPRA', 'LEPTA', 'LERED', 'LERES',
     'LERPS', 'LESTS', 'LETCH', 'LETHE', 'LETUP', 'LEUCH', 'LEUCO', 'LEUDS', 'LEUGH', 'LEVAS',
-    'LEVEE', 'LEVER', 'LEVES', 'LEVIN', 'LEVIS', 'LEWIS', 'LEXES', 'LEXIS', 'LIANA',
+    'LEVEE', 'LEVES', 'LEVIN', 'LEVIS', 'LEWIS', 'LEXES', 'LEXIS', 'LIANA',
     'LIANE', 'LIANG', 'LIARD', 'LIARS', 'LIART', 'LIBER', 'LIBRA', 'LIBRI', 'LICHI',
     'LICHT', 'LICIT', 'LICKS', 'LIDAR', 'LIDOS', 'LIEFS', 'LIEGE', 'LIENS', 'LIERS', 'LIEUS',
     'LIEVE', 'LIFER', 'LIFES', 'LIFTS', 'LIGAN', 'LIGER', 'LIGGE', 'LIGNE', 'LIKED',
@@ -12160,6 +12160,11 @@ export const wordleWords = [
         myScore: 5,
         wordNumber: 1573,
       },  
+      { word: "LEVER",
+        gameDate: "10/10/25",
+        myScore: 4,
+        wordNumber: 1574,
+      },  
     
   ];
 
@@ -12176,7 +12181,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 9, 2025: Trump sux dykk000000000! HARDY")
+console.log("October 10, 2025: Trump sux dykk000000000! LEVER")
 
 
 console.log(wordleWords)
