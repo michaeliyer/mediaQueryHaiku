@@ -1423,7 +1423,7 @@ export const dailyWordsSmall = [
     'SOAPY', 'SOBER', 'SONAR', 'SOOTH', 'SOOTY', 'SORRY', 'SPANK', 
     'SPAWN', 'SPEED', 'SPERM', 'SPIED', 'SPIKY', 'SPILT', 
     'SPINY', 'SPOOF', 'SPOOK', 'SPOOL', 
-    'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STACK', 'STALK',
+    'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
     'STEER', 'STOKE', 'STOOP', 
     'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUNK', 'STUNT', 'SUING',
@@ -2518,7 +2518,7 @@ export const dailyWordsLarge = [
     'SPREW', 'SPRIT', 'SPROD', 'SPROG', 'SPRUE', 'SPRUG', 'SPUDS', 'SPUED', 'SPUER',
     'SPUES', 'SPUGS', 'SPULE', 'SPUME', 'SPUMY', 'SPUNK', 'SPURN', 'SPURS', 'SPUTA',
     'SPYAL', 'SPYRE', 'SQUAB', 'SQUEG', 'SQUIB', 'SQUIT', 'SQUIZ',
-    'STABS', 'STACK', 'STADE', 'STAGS', 'STAGY', 'STAIG',
+    'STABS', 'STADE', 'STAGS', 'STAGY', 'STAIG',
     'STALK', 'STANE', 'STANG', 'STANK',
     'STAPH', 'STAPS', 'STARN', 'STARR', 'STARS',
     'STATS', 'STAUN', 'STAVE', 'STAWS', 'STAYS',
@@ -12165,6 +12165,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1574,
       },  
+      { word: "STACK",
+        gameDate: "10/11/25",
+        myScore: 2,
+        wordNumber: 1575,
+      },  
     
   ];
 
@@ -12181,7 +12186,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 10, 2025: Trump sux dykk000000000! LEVER")
+console.log("October 11, 2025: Trump sux dykk000000000! STACK")
 
 
 console.log(wordleWords)
