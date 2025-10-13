@@ -1326,7 +1326,7 @@ export const dailyWordsSmall = [
     'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
     'ARSON', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AWOKE', 'AXIAL', 'AXION', 'BAGGY', 'BARON',
-    'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEARD', 'BEECH', 'BEFIT',
+    'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEECH', 'BEFIT',
     'BEGAN', 'BEGAT', 'BEGUN', 'BELLE', 'BERRY', 'BETEL', 'BEZEL', 'BIBLE',
     'BIDDY', 'BIGOT', 'BILLY', 'BINGO', 'BISON', 'BITTY', 
     'BLAST', 'BLEAT', 'BLESS', 'BLIND', 'BLITZ',
@@ -1537,7 +1537,7 @@ export const dailyWordsLarge = [
     'BAWDS', 'BAWKS', 'BAWLS', 'BAWNS', 'BAWRS', 'BAWTY', 'BAYED', 'BAYER', 'BAYES',
     'BAYLE', 'BAYTS', 'BAZAR', 'BAZOO', 
     'BEADS', 'BEAKS', 'BEAKY', 'BEALS', 'BEAMS', 'BEAMY', 'BEANO', 'BEANS',
-    'BEANY', 'BEARD', 'BEARE', 'BEARS', 'BEATH', 'BEATS', 'BEATY', 'BEAUS',
+    'BEANY', 'BEARE', 'BEARS', 'BEATH', 'BEATS', 'BEATY', 'BEAUS',
     'BEAUX', 'BEBOP', 'BECAP', 'BECKE', 'BECKS', 'BEDAD', 'BEDEL', 'BEDES', 'BEDEW', 'BEDIM',
     'BEDYE', 'BEECH', 'BEEDI', 'BEEFS', 'BEEPS', 'BEERS', 'BEERY', 'BEETS', 'BEFIT',
     'BEFOG', 'BEGAD', 'BEGAN', 'BEGAR', 'BEGAT', 'BEGEM', 'BEGOT', 'BEGUM',
@@ -12175,6 +12175,11 @@ export const wordleWords = [
         myScore: 5,
         wordNumber: 1576,
       },  
+      { word: "BEARD",
+        gameDate: "10/13/25",
+        myScore: 4,
+        wordNumber: 1577,
+      },  
     
   ];
 
@@ -12191,7 +12196,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 12, 2025: Trump sux dykk000000000! WOUND")
+console.log("October 13, 2025: Trump sux dykk000000000! BEARD")
 
 
 console.log(wordleWords)
