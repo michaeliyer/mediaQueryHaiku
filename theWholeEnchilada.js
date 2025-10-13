@@ -1444,7 +1444,7 @@ export const dailyWordsSmall = [
     'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WIDER', 'WIDOW', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WOMEN', 'WOODY', 'WOOLY',
-    'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 
+    'WOOZY', 'WORTH', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 
     'ZONAL'
 ];
 
@@ -2718,7 +2718,7 @@ export const dailyWordsLarge = [
     'WONKS', 'WONKY', 'WONTS', 'WOODS', 'WOODY', 'WOOED', 'WOOFS', 'WOOFY', 'WOOLD',
     'WOOLS', 'WOOLY', 'WOONS', 'WOOPS', 'WOOPY', 'WOOSE', 'WOOSH', 'WOOTZ', 'WOOZY', 'WORDS',
     'WORKS', 'WORMS', 'WORMY', 'WORTH', 'WORTS',
-    'WOUND', 'WOWED', 'WOWEE', 'WOXEN', 'WRACK', 'WRANG', 'WRAPS', 'WRAPT',
+    'WOWED', 'WOWEE', 'WOXEN', 'WRACK', 'WRANG', 'WRAPS', 'WRAPT',
     'WRAST', 'WRATE', 'WRAWL', 'WRECK', 'WRENS', 'WREST', 'WRICK', 'WRIED',
     'WRIER', 'WRIES', 'WRING', 'WRITE', 'WRITS', 'WROKE', 'WROOT', 
     'WROTH', 'WRYER', 'WRYLY', 'WUDDY',
@@ -12170,6 +12170,11 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1575,
       },  
+      { word: "WOUND",
+        gameDate: "10/12/25",
+        myScore: 5,
+        wordNumber: 1576,
+      },  
     
   ];
 
@@ -12186,7 +12191,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 11, 2025: Trump sux dykk000000000! STACK")
+console.log("October 12, 2025: Trump sux dykk000000000! WOUND")
 
 
 console.log(wordleWords)
