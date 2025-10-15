@@ -1361,7 +1361,7 @@ export const dailyWordsSmall = [
     'FETAL', 'FETID', 'FETUS', 'FICUS', 'FIERY', 
     'FIGHT', 'FILER', 'FILLY', 'FILMY', 'FILTH', 'FIZZY', 'FLACK', 'FLAKY',
     'FLECK', 'FLEET', 'FLIER', 'FLUID', 'FLUKE', 
-    'FLUSH', 'FLUTE', 'FORUM', 'FRAUD',
+    'FLUSH', 'FLUTE', 'FRAUD',
     'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
     'GASSY', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 
@@ -1846,7 +1846,7 @@ export const dailyWordsLarge = [
     'FOLKY', 'FOMES', 'FONDA', 'FONDS', 'FONDU', 'FONES', 'FONLY', 'FONTS', 'FOODS',
     'FOODY', 'FOOLS', 'FOOTS', 'FOOTY', 'FORAM', 'FORBS', 'FORBY', 'FORDO',
     'FORDS', 'FOREL', 'FORES', 'FOREX', 'FORKS', 'FORKY', 'FORME', 'FORMS',
-    'FORTS', 'FORUM', 'FORZA', 'FORZE', 'FOSSA', 'FOSSE', 'FOUAT',
+    'FORTS', 'FORZA', 'FORZE', 'FOSSA', 'FOSSE', 'FOUAT',
     'FOUDS', 'FOUER', 'FOUET', 'FOULE', 'FOULS', 'FOUNT', 'FOURS', 'FOUTH', 'FOVEA',
     'FOWLS', 'FOWTH', 'FOXED', 'FOXES', 'FOXIE', 'FOYLE', 'FOYNE',
     'FRABS', 'FRACK', 'FRACT', 'FRAGS', 'FRAIM', 'FRANC', 'FRAPE',
@@ -12180,6 +12180,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1577,
       },  
+      { word: "FORUM",
+        gameDate: "10/14/25",
+        myScore: 4,
+        wordNumber: 1578,
+      },  
     
   ];
 
@@ -12196,7 +12201,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 13, 2025: Trump sux dykk000000000! BEARD")
+console.log("October 13, 2025: Trump sux dykk000000000! FORUM")
 
 
 console.log(wordleWords)
