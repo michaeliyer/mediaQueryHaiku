@@ -1336,7 +1336,7 @@ export const dailyWordsSmall = [
     'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
-    'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CELLO', 'CHAFF', 
+    'CAPUT', 'CASTE', 'CAVIL', 'CELLO', 'CHAFF', 
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHUCK', 'CHUMP', 'CHURN', 'CLACK', 'CLAIM',
     'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
@@ -1625,7 +1625,7 @@ export const dailyWordsLarge = [
     'CARED', 'CARER', 'CARES', 'CARET', 'CAREX', 'CARKS', 'CARLE', 'CARLS', 'CARNS',
     'CARNY', 'CAROB', 'CAROM', 'CARON', 'CARPI', 'CARPS', 'CARRS', 'CARSE',
     'CARTA', 'CARTE', 'CARTS', 'CARVY', 'CASAS', 'CASCO', 'CASED', 'CASES', 'CASKS',
-    'CASKY', 'CASTE', 'CASTS', 'CASUS', 'CATES', 'CATTY', 'CAUDA', 'CAUKS',
+    'CASKY', 'CASTE', 'CASTS', 'CASUS', 'CATES', 'CAUDA', 'CAUKS',
     'CAULD', 'CAULS', 'CAUMS', 'CAUPS', 'CAURI', 'CAUSA', 'CAVAS', 'CAVED',
     'CAVEL', 'CAVER', 'CAVES', 'CAVIE', 'CAVIL', 'CAWED', 'CAWKS', 'CAXON', 'CEAZE',
     'CEBID', 'CECAL', 'CECUM', 'CEDED', 'CEDER', 'CEDES', 'CEDIS', 'CEIBA', 'CEILI',
@@ -12190,6 +12190,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1579,
       },  
+      { word: "CATTY",
+        gameDate: "10/16/25",
+        myScore: 3,
+        wordNumber: 1580,
+      },  
     
   ];
 
@@ -12206,7 +12211,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 15, 2025: Trump sux dykk000000000! SPOOF")
+console.log("October 16, 2025: Trump sux dykk000000000! CATTY")
 
 
 console.log(wordleWords)
