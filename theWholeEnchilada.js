@@ -1347,7 +1347,7 @@ export const dailyWordsSmall = [
     'CRUEL', 'CRUMP', 'CUBIC', 'CURRY', 'CURVY',
     'CUTIE', 'CYCLE', 'DAILY', 'DAIRY', 'DEALT', 'DEBAR',
     'DECOR', 'DEIGN', 
-    'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DETOX', 'DEUCE', 'DILLY', 'DIMLY',
+    'DEMON', 'DEMUR', 'DENSE', 'DERBY', 'DEUCE', 'DILLY', 'DIMLY',
     'DIODE', 'DIRTY', 'DITCH', 'DIVAN', 'DIVER', 'DIZZY', 'DODGY',
     'DOGMA', 'DOUGH', 'DOWDY', 'DOWNY', 'DRAKE', 'DRAMA',
     'DRANK', 'DRAWL', 'DRESS', 'DRIED', 'DRIER', 'DRILL',
@@ -1725,7 +1725,7 @@ export const dailyWordsLarge = [
     'DEMPT', 'DEMUR', 'DENAR', 'DENAY', 'DENCH', 'DENES', 'DENET', 'DENIS', 'DENSE',
     'DENTS', 'DEOXY', 'DERAT', 'DERAY', 'DERBY', 'DERED', 'DERES', 'DERIG',
     'DERMA', 'DERMS', 'DERNS', 'DERNY', 'DEROS', 'DERRO', 'DERRY', 'DERTH', 'DERVS', 'DESEX',
-    'DESHI', 'DESIS', 'DESKS', 'DESSE', 'DETOX', 'DEUCE', 'DEVAS', 'DEVEL', 
+    'DESHI', 'DESIS', 'DESKS', 'DESSE', 'DEUCE', 'DEVAS', 'DEVEL', 
     'DEVIS', 'DEVON', 'DEVOS', 'DEVOT', 'DEWAN', 'DEWAR', 'DEWAX', 'DEWED', 'DEXES', 'DEXIE',
     'DHABA', 'DHAKS', 'DHALS', 'DHIKR', 'DHOBI', 'DHOLE', 'DHOLL', 'DHOLS', 'DHOTI', 'DHOWS',
     'DHUTI', 'DIACT', 'DIALS', 'DIANE', 'DIAZO', 'DIBBS', 'DICED', 'DICER', 'DICES',
@@ -12215,6 +12215,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1584,
       },  
+      { word: "DETOX",
+        gameDate: "10/21/25",
+        myScore: 4,
+        wordNumber: 1585,
+      },  
     
   ];
 
@@ -12231,7 +12236,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 20, 2025: Trump sux dykk000000000! LIMBO")
+console.log("October 21, 2025: Trump sux dykk000000000! DETOX")
 
 
 console.log(wordleWords)
