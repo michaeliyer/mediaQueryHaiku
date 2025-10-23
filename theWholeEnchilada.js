@@ -1426,7 +1426,7 @@ export const dailyWordsSmall = [
     'SPREE', 'SPUNK', 'SPURN', 'SQUIB', 'STALK',
     'STANK', 'STAVE', 'STEAK', 'STEAL', 
     'STEER', 'STOKE', 'STOOP', 
-    'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUNK', 'STUNT', 'SUING',
+    'STRIP', 'STRUT', 'STUCK', 'STUFF', 'STUNK', 'SUING',
     'SULLY', 'SUMAC', 'SURGE', 'SWAMI', 'SWAMP', 'SWARM', 'SWASH',
     'SWEAR', 'SWEPT', 'SWIFT', 'SWING', 'SWOOP', 'SWORE', 
     'SWORN', 'SYNOD', 'TABBY', 'TAINT', 'TAKER', 'TAMER', 
@@ -2436,7 +2436,6 @@ export const dailyWordsLarge = [
     'SERVO', 'SESEY', 'SESSA', 'SETAE', 'SETAL', 'SETON', 'SETTS', 'SETUP',
     'SEWAN', 'SEWAR', 'SEWED', 'SEWEL', 'SEWEN', 'SEWER', 'SEWIN', 'SEXED',
     'SEXER', 'SEXES', 'SEXTO', 'SEXTS', 'SEYEN', 'SHACK', 'SHADS', 'SHADY', 
-    
     'SHAGS', 'SHAHS', 'SHAKO', 'SHAKT', 'SHALE', 'SHALM', 'SHALT',
     'SHALY', 'SHAMA', 'SHAMS', 'SHAND', 'SHANS', 'SHAPS',
     'SHARK', 'SHARN', 'SHASH', 'SHAUL', 'SHAWM', 'SHAWN',
@@ -2472,7 +2471,6 @@ export const dailyWordsLarge = [
     'SLABS', 'SLACK', 'SLADE', 'SLAES', 'SLAGS', 'SLAID', 'SLAIN', 'SLAKE', 'SLAMS', 'SLANE',
     'SLANK', 'SLANT', 'SLAPS', 'SLART', 'SLASH', 'SLATS', 'SLATY', 'SLAVE',
     'SLAWS', 'SLAYS', 'SLEBS', 'SLEDS', 'SLEER', 'SLEET', 'SLEPT', 'SLEWS',
-    
     'SLEYS', 'SLICK', 'SLIDE', 'SLIER', 'SLILY', 'SLIME', 'SLIMS', 'SLIMY', 'SLING',
     'SLINK', 'SLIPE', 'SLIPS', 'SLIPT', 'SLISH', 'SLITS', 'SLIVE', 'SLOAN', 'SLOBS', 'SLOES',
     'SLOGS', 'SLOID', 'SLOJD', 'SLOMO', 'SLOOM', 'SLOOP', 'SLOOT', 'SLOPS', 'SLOPY',
@@ -2535,7 +2533,7 @@ export const dailyWordsLarge = [
     'STOWP', 'STOWS', 'STRAD', 'STRAE', 'STRAG', 'STRAK', 'STREP',
     'STREW', 'STRIA', 'STRIG', 'STRIM', 'STRIP', 'STROP', 'STROW', 'STROY', 'STRUM', 'STRUT',
     'STUBS', 'STUCK', 'STUDE', 'STUDS', 'STUFF', 'STULL', 'STULM', 'STUMM',
-    'STUMS', 'STUNK', 'STUNS', 'STUNT', 'STUPA', 'STUPE', 'STURE', 'STURT', 'STYED',
+    'STUMS', 'STUNK', 'STUNS', 'STUPA', 'STUPE', 'STURE', 'STURT', 'STYED',
     'STYES', 'STYLI', 'STYLO', 'STYME', 'STYMY', 'STYRE', 'STYTE', 'SUBAH',
     'SUBAS', 'SUBBY', 'SUBER', 'SUBHA', 'SUCCI', 'SUCKS', 'SUCKY', 'SUCRE', 'SUDDS', 'SUDOR',
     'SUDSY', 'SUENT', 'SUERS', 'SUETE', 'SUETS', 'SUETY', 'SUGAN', 'SUGHS',
@@ -12220,6 +12218,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1585,
       },  
+      { word: "STEAL",
+        gameDate: "10/22/25",
+        myScore: 4,
+        wordNumber: 1586,
+      },  
     
   ];
 
@@ -12236,7 +12239,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 21, 2025: Trump sux dykk000000000! DETOX")
+console.log("October 22, 2025: Trump sux dykk000000000! STUNT")
 
 
 console.log(wordleWords)
