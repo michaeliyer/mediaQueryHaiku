@@ -1032,7 +1032,6 @@ export const fixedWordsLarge = [
     'SLABS', 'SLACK', 'SLADE', 'SLAES', 'SLAGS', 'SLAID', 'SLAIN', 'SLAKE', 'SLAMS', 'SLANE',
     'SLANG', 'SLANK', 'SLANT', 'SLAPS', 'SLART', 'SLASH', 'SLATE', 'SLATS', 'SLATY', 'SLAVE',
     'SLAWS', 'SLAYS', 'SLEBS', 'SLEDS', 'SLEEK', 'SLEEP', 'SLEER', 'SLEET', 'SLEPT', 'SLEWS',
-    
     'SLEYS', 'SLICE', 'SLICK', 'SLIDE', 'SLIER', 'SLILY', 'SLIME', 'SLIMS', 'SLIMY', 'SLING',
     'SLINK', 'SLIPE', 'SLIPS', 'SLIPT', 'SLISH', 'SLITS', 'SLIVE', 'SLOAN', 'SLOBS', 'SLOES',
     'SLOGS', 'SLOID', 'SLOJD', 'SLOMO', 'SLOOM', 'SLOOP', 'SLOOT', 'SLOPE', 'SLOPS', 'SLOPY',
@@ -1115,7 +1114,6 @@ export const fixedWordsLarge = [
     'SYBOE', 'SYBOW', 'SYCEE', 'SYCES', 'SYCON', 'SYENS', 'SYKER', 'SYKES', 'SYLIS', 'SYLPH',
     'SYLVA', 'SYMAR', 'SYNCH', 'SYNCS', 'SYNDS', 'SYNED', 'SYNES', 'SYNOD', 'SYNTH', 'SYPED',
     'SYPES', 'SYPHS', 'SYRAH', 'SYREN', 'SYRUP', 'SYSOP', 'SYTHE', 'SYVER',
-    
     'TAALS', 'TAATA', 'TABBY', 'TABER', 'TABES', 'TABID', 'TABIS', 'TABLA', 'TABLE', 'TABOO',
     'TABOR', 'TABUN', 'TABUS', 'TACAN', 'TACES', 'TACET', 'TACHE', 'TACHO', 'TACHS', 'TACIT',
     'TACKS', 'TACKY', 'TACOS', 'TACTS', 'TAELS', 'TAFFY', 'TAFIA', 'TAGGY', 'TAGMA', 'TAHAS',
@@ -1435,7 +1433,7 @@ export const dailyWordsSmall = [
     'TIGHT', 'TODDY', 'TOKEN', 'TONAL',
     'TONER', 'TONGA', 'TORUS',  
     'TRAMP', 'TREAD', 'TRIAL', 'TRIBE', 'TRIED', 'TRUCE',
-    'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TUBER', 'TULIP', 'TULLE', 'TUMOR',
+    'TRUCK', 'TRUER', 'TRUMP', 'TRUNK', 'TUBAL', 'TULIP', 'TULLE', 'TUMOR',
     'TWEET', 'TWIXT', 'TYING', 'UMBRA', 'UNCUT', 
     'UNITY', 'UNSET', 'UNWED', 'URINE', 'UTILE', 'VALOR', 'VALVE', 'VAPOR',
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
@@ -2624,7 +2622,7 @@ export const dailyWordsLarge = [
     'TRUES', 'TRUGO', 'TRUGS', 'TRULL', 'TRUMP', 'TRUNK', 
     'TRYER', 'TRYKE', 'TRYMA', 'TRYPS', 'TSADE', 'TSADI', 'TSARS', 'TSKED', 'TSUBA',
     'TSUBO', 'TUANS', 'TUART', 'TUATH', 'TUBAE', 'TUBAL', 'TUBAR', 'TUBAS', 'TUBBY', 'TUBED',
-    'TUBER', 'TUBES', 'TUCKS', 'TUFAS', 'TUFFE', 'TUFFS', 'TUFTS', 'TUFTY', 'TUGRA', 'TUILE',
+    'TUBES', 'TUCKS', 'TUFAS', 'TUFFE', 'TUFFS', 'TUFTS', 'TUFTY', 'TUGRA', 'TUILE',
     'TUINA', 'TUISM', 'TUKTU', 'TULES', 'TULIP', 'TULLE', 'TULPA', 'TULSI', 'TUMID', 'TUMMY',
     'TUMOR', 'TUMPS', 'TUMPY', 'TUNAS', 'TUNDS', 'TUNED', 'TUNER', 'TUNES', 'TUNGS',
     'TUNNY', 'TUPEK', 'TUPIK', 'TUPLE', 'TUQUE', 'TURDS', 'TURFS', 'TURFY', 'TURKS',
@@ -12224,9 +12222,14 @@ export const wordleWords = [
         wordNumber: 1586,
       },  
       { word: "DRILL",
-        gameDate: "10/22/25",
+        gameDate: "10/23/25",
         myScore: 4,
         wordNumber: 1587,
+      },  
+      { word: "TUBER",
+        gameDate: "10/24/25",
+        myScore: 3,
+        wordNumber: 1588,
       },  
 
     
@@ -12245,7 +12248,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 23, 2025: Trump sux dykk000000000! DRILL")
+console.log("October 24, 2025: Trump sux dykk000000000! TUBER")
 
 
 console.log(wordleWords)
