@@ -1362,7 +1362,7 @@ export const dailyWordsSmall = [
     'FLUSH', 'FLUTE', 'FRAUD',
     'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
-    'GASSY', 'GATOR', 'GAUGE', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 
+    'GASSY', 'GATOR', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 
     'GIPSY', 'GIRLY', 'GIVER', 'GLARE', 'GLINT', 'GLOSS', 
     'GODLY', 'GOLLY', 'GONAD', 'GOURD',
     'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GRILL', 
@@ -1869,7 +1869,7 @@ export const dailyWordsLarge = [
     'GANEF', 'GANEV', 'GANGS', 'GANJA', 'GANOF', 'GANTS', 'GAOLS', 'GAPED', 'GAPER', 'GAPES',
     'GAPOS', 'GAPPY', 'GARBE', 'GARBO', 'GARBS', 'GARDA', 'GARES', 'GARIS', 'GARMS', 'GARNI',
     'GARRE', 'GARTH', 'GARUM', 'GASES', 'GASPS', 'GASPY', 'GASSY', 'GASTS', 'GATCH', 'GATED',
-    'GATER', 'GATES', 'GATHS', 'GATOR', 'GAUCH', 'GAUCY', 'GAUDS', 'GAUGE', 'GAUJE',
+    'GATER', 'GATES', 'GATHS', 'GATOR', 'GAUCH', 'GAUCY', 'GAUDS', 'GAUJE',
     'GAULT', 'GAUMS', 'GAUMY', 'GAUPS', 'GAURS', 'GAUSS', 'GAUZY', 'GAVEL',
     'GAVOT', 'GAWCY', 'GAWDS', 'GAWKS', 'GAWPS', 'GAWSY', 'GAYAL', 'GAYER', 'GAYLY',
     'GAZAL', 'GAZAR', 'GAZED', 'GAZER', 'GAZES', 'GAZON', 'GAZOO', 'GEALS', 'GEANS', 'GEARE',
@@ -12231,6 +12231,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1588,
       },  
+      { word: "GAUGE",
+        gameDate: "10/25/25",
+        myScore: 4,
+        wordNumber: 1589,
+      },  
 
     
   ];
@@ -12248,7 +12253,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 24, 2025: Trump sux dykk000000000! TUBER")
+console.log("October 25, 2025: Trump sux dykk000000000! GAUGE")
 
 
 console.log(wordleWords)
