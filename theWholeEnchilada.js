@@ -1369,7 +1369,7 @@ export const dailyWordsSmall = [
     'GROPE', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
     'GUISE', 'GULCH', 'GUMBO', 'GUSTO', 'GUTSY', 'GYPSY', 'HALAL', 
     'HAREM', 'HARPY', 'HARRY', 'HASTE', 'HASTY', 'HAUTE', 
-    'HEDGE', 'HIPPY', 'HOIST', 'HOLLY', 
+    'HEDGE', 'HIPPY', 'HOIST', 
     'HONOR', 'HORNY', 'HOTLY', 'HOVEL', 'HUMUS', 'HUSKY', 'HUSSY', 'HYDRO',
     'HYMEN', 'ICILY', 'IDIOT', 'IDYLL', 'ILIAC', 
     'IMPLY', 'INGOT', 'INLET',  
@@ -1957,7 +1957,7 @@ export const dailyWordsLarge = [
     'HOARY', 'HOAST', 'HOBOS', 'HOCKS', 'HOCUS', 'HODAD', 'HODJA', 'HOERS', 'HOGAN',
     'HOGEN', 'HOGGS', 'HOGHS', 'HOHED', 'HOICK', 'HOIED', 'HOIKS', 'HOING', 'HOISE', 'HOIST',
     'HOKAS', 'HOKED', 'HOKES', 'HOKEY', 'HOKIS', 'HOKKU', 'HOKUM', 'HOLDS', 'HOLED', 'HOLES',
-    'HOLEY', 'HOLKS', 'HOLLA', 'HOLLO', 'HOLLY', 'HOLME', 'HOLMS', 'HOLON', 'HOLOS', 'HOLTS',
+    'HOLEY', 'HOLKS', 'HOLLA', 'HOLLO', 'HOLME', 'HOLMS', 'HOLON', 'HOLOS', 'HOLTS',
     'HOMAS', 'HOMED', 'HOMES', 'HOMEY', 'HOMIE', 'HOMME', 'HOMOS', 'HONAN', 'HONDA',
     'HONDS', 'HONED', 'HONER', 'HONES', 'HONGI', 'HONGS', 'HONKS', 'HONOR', 'HOOCH',
     'HOODS', 'HOODY', 'HOOEY', 'HOOFS', 'HOOKA', 'HOOKS', 'HOOKY', 'HOOLY', 'HOONS', 'HOOPS',
@@ -12246,6 +12246,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1591,
       },  
+      { word: "HOLLY",
+        gameDate: "10/28/25",
+        myScore: 3,
+        wordNumber: 1592,
+      },  
 
     
   ];
@@ -12263,7 +12268,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 27, 2025: Trump sux dykk000000000! FETID")
+console.log("October 28, 2025: Trump sux dykk000000000! HOLLY")
 
 
 console.log(wordleWords)
