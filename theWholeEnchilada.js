@@ -1363,7 +1363,7 @@ export const dailyWordsSmall = [
     'FREAK', 'FREED', 'FREER', 'FRIAR', 'FRISK', 'FRUIT', 'FUCKO', 'FUDGE',
     'FUGUE', 'FUNKY', 'FUROR', 'FURRY', 'FUSSY', 'GABLE', 'GAFFE', 'GAILY',  
     'GASSY', 'GATOR', 'GAVEL', 'GAYER', 'GAYLY', 'GAZER', 'GEEKY', 
-    'GIPSY', 'GIRLY', 'GIVER', 'GLARE', 'GLINT', 'GLOSS', 
+    'GIPSY', 'GIRLY', 'GIVER', 'GLINT', 'GLOSS', 
     'GODLY', 'GOLLY', 'GONAD', 'GOURD',
     'GRAPE', 'GRASS', 'GRAVE', 'GRAVY', 'GRAZE', 'GRILL', 
     'GROPE', 'GRUFF', 'GRUNT', 'GUAVA', 'GUESS', 'GUILT',
@@ -1886,8 +1886,7 @@ export const dailyWordsLarge = [
     'GIPPY', 'GIPSY', 'GIRDS', 'GIRLS', 'GIRLY', 'GIRNS', 'GIRON', 'GIROS', 'GIRRS', 'GIRSH',
     'GIRTS', 'GISMO', 'GISMS', 'GISTS', 'GITCH', 'GITES', 'GIUST', 'GIVED',
     'GIVER', 'GIVES', 'GIZMO', 'GLACE', 'GLADS', 'GLADY', 'GLAIK', 'GLAIR', 'GLAMS',
-    'GLANS', 'GLARE', 'GLARY', 
-    'GLAUM', 'GLAUR', 'GLAZY', 
+    'GLANS', 'GLARY', 'GLAUM', 'GLAUR', 'GLAZY', 
     'GLEBA', 'GLEBE', 'GLEBY', 'GLEDE', 'GLEDS', 'GLEED', 'GLEEK', 'GLEES', 'GLEET',
     'GLEIS', 'GLENS', 'GLENT', 'GLEYS', 'GLIAL', 'GLIAS', 'GLIBS', 'GLIFF', 'GLIFT',
     'GLIKE', 'GLIME', 'GLIMS', 'GLINT', 'GLISK', 'GLITS', 'GLITZ', 'GLOAM', 
@@ -12251,6 +12250,11 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1592,
       },  
+      { word: "GLARE",
+        gameDate: "10/29/25",
+        myScore: 2,
+        wordNumber: 1593,
+      },  
 
     
   ];
@@ -12268,7 +12272,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("October 28, 2025: Trump sux dykk000000000! HOLLY")
+console.log("October 29, 2025: Trump sux dykk000000000! GLARE")
 
 
 console.log(wordleWords)
