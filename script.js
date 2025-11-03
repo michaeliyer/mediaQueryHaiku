@@ -1,4 +1,4 @@
-import { dailyWordsSmall, wordleWords } from "./theWholeEnchilada.js";
+hhh, import { dailyWordsSmall, wordleWords } from "./theWholeEnchilada.js";
 
 const anyThing = "Nothing";
 console.log(anyThing);
