@@ -1,5 +1,5 @@
-  font-family: "Gaegu", sans-serif;
 * {
+  font-family: "Gaegu", sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -47,7 +47,7 @@ body {
 }
 
 .whole-box {
-  height: 98%;
+  height: 200px;
   width: 99%;
   font-size: 0.75rem;
   display: flex;
@@ -72,7 +72,7 @@ body {
   }
 
   .whole-box {
-    height: 99%;
+    height: 220px;
     width: 98%;
     font-size: 1rem;
     display: flex;
@@ -100,7 +100,7 @@ body {
   }
 
   .whole-box {
-    height: 98%;
+    height: 240px;
     width: 99%;
     font-size: 1.25rem;
     display: flex;
@@ -126,7 +126,7 @@ body {
   }
 
   .whole-box {
-    height: 98%;
+    height: 260px;
     width: 99%;
     font-size: 1.5rem;
     display: flex;
@@ -4033,7 +4033,7 @@ body {
 .line-163a {
   background-color: rgb(109, 196, 137);
   color: #032609;
-  opacity: 0.77;                        
+  opacity: 0.77;
 }
 
 .line-163b {
@@ -4051,7 +4051,7 @@ body {
 .line-164a {
   background-color: rgb(237, 12, 121);
   color: rgb (15, 242, 216);
-  opacity: 0.77;                        
+  opacity: 0.77;
 }
 
 .line-164b {
@@ -4063,5 +4063,5 @@ body {
 .line-164c {
   background-color: rgb(237, 12, 121);
   color: rgb (15, 242, 216);
-  opacity: 0.77,                         
+  opacity: 0.77;
 }
