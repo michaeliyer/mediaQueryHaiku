@@ -1,5 +1,5 @@
-* {
   font-family: "Gaegu", sans-serif;
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -1125,12 +1125,18 @@ body {
 }
 
 .whole-box-162 {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChIM58Xxg3uIdFTTprchJJjHCC0xKVciNrw&s);
   background-size: fit-content;
   padding: 0.55rem;
 }
 
 .whole-box-163 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
+  background-size: fit-content;
+  padding: 0.55rem;
+}
+
+.whole-box-164 {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
   background-size: fit-content;
   padding: 0.55rem;
@@ -4007,9 +4013,27 @@ body {
 }
 
 .line-162a {
-  background-color: purple;
-  color: yellow;
+  background-color: rgb(178, 181, 5);
+  color: rgb(93, 94, 5);
   opacity: 0.57;
+}
+
+.line-162b {
+  background-color: rgb(178, 181, 5);
+  color: rgb(93, 94, 5);
+  opacity: 0.77;
+}
+
+.line-162c {
+  background-color: rgb(178, 181, 5);
+  color: rgb(93, 94, 5);
+  opacity: 0.77;
+}
+
+.line-163a {
+  background-color: rgb(109, 196, 137);
+  color: #032609;
+  opacity: 0.77;                        
 }
 
 .line-163b {
@@ -4024,8 +4048,20 @@ body {
   opacity: 0.77;
 }
 
-.line-163c {
-  background-color: rgb(109, 196, 137);
-   color: #032609;
-  opacity: 0.7                         
+.line-164a {
+  background-color: rgb(237, 12, 121);
+  color: rgb (15, 242, 216);
+  opacity: 0.77;                        
+}
+
+.line-164b {
+  background-color: rgb(237, 12, 121);
+  color: rgb (15, 242, 216);
+  opacity: 0.77;
+}
+
+.line-164c {
+  background-color: rgb(237, 12, 121);
+  color: rgb (15, 242, 216);
+  opacity: 0.77,                         
 }
