@@ -11,7 +11,7 @@ console.log(anotherThing);
 const yetAnotherThing = "Good job";
 console.log(
   yetAnotherThing,
-  "You, well, um, ahem, ah, er, ah, errr, laah, errr, umm, ehhh, ahhh, duhh, errr, duhhh, aggg, err, suck, gaaaa, grr,ah, errr, mmm, ahhh, grrr, errr, uhhhh, er, ahhh, ahhhh, hmmm, er, errr,  grrr, ahhh, gerrr, kkkk, jaaa, grrrr, errr, ahh, well, lot, um, Man. Um, er, got, er, of penis, grrr, and er, ah, ah, um, that, errr, ah, anal, er, boy?!?"
+  "You, well, um, ahem, ah, er, ah, errr, laah, errr, umm, ehhh, ahhh, duhh, errr, duhhh, agg, err, suck, gaa, grr,ah, errr, mmm, ahhh, grrr, errr, uhhhh, er, ahhh, ahhhh, hmmm, er, errr,  grrr, ahhh, gerrr, kkkk, jaaa, grrrr, errr, ahh, well, lot, um, Man. Um, er, got, er, of penis, grrr, and er, ah, ah, um, that, errr, ah, anal, er, boy?!?"
 );
 
 const blueLink = document.querySelector(".line-1a");
