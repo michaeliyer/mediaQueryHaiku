@@ -72,6 +72,8 @@ bwToggle.addEventListener("click", function () {
   console.log("Grayscale mode:", isGrayscale ? "ON" : "OFF");
 });
 
+
+
 document.addEventListener("DOMContentLoaded", () => {
   const toggleBtn = document.getElementById("toggle-style");
   const styleLink = document.getElementById("themeStylesheet");
