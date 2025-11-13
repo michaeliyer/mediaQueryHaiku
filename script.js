@@ -108,3 +108,49 @@ document.addEventListener("DOMContentLoaded", () => {
     updateToggleLabel(!isCurrentlyDefault);
   });
 });
+
+
+
+  const censorshipMap = {
+    "cleaner": "Sterilizer",
+    "people": "aliens",
+    "cum": "Rum",
+    "shit": "crud!",
+    "repu": "Nazi",
+    "fuck": "drill",
+    "ass": "back-side"
+  };
+
+  function cleanText(text) {
+    let cleaned = text;
+    for (const [badWord, replacement] of Object.entries(censorshipMap)) {
+      const regex = new RegExp(`${badWord}`, 'gi');
+      cleaned = cleaned.replace(regex, (match) => {
+        return match[0] === match[0].toUpperCase()
+          ? replacement[0].toUpperCase() + replacement.slice(1)
+          : replacement;
+      });
+    }
+    return cleaned;
+  }
+
+  function cleanNode(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      node.textContent = cleanText(node.textContent);
+    } else {
+      node.childNodes.forEach(child => cleanNode(child));
+    }
+  }
+
+  let cleanerEnabled = false;
+
+  document.getElementById("toggleCleanerBtn").addEventListener("click", () => {
+    cleanerEnabled = !cleanerEnabled;
+    document.getElementById("toggleCleanerBtn").textContent = `Text Cleaner: ${cleanerEnabled ? "ON" : "OFF"}`;
+
+    if (cleanerEnabled) {
+      cleanNode(document.body);
+    } else {
+      location.reload(); // reload original content if turned off
+    }
+  });
