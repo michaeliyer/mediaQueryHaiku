@@ -11,7 +11,7 @@ body {
     border: 1rem solid black;
     padding: 10px;
     margin: 10px;
-     background-color: #2a8de3;
+    background-color: #2a8de3;
     display: inline-block;
 }
 
@@ -19,5 +19,5 @@ body {
     border: .5rem dashed gray;
     padding: 5px;
     margin: 5px;
-     background-color: #60a4df;
+    background-color: #60a4df;
 }
