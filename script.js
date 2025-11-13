@@ -54,6 +54,7 @@ function logOverallAverageScore() {
 
 logOverallAverageScore();
 
+
 // Black and White Toggle Functionality
 const bwToggle = document.getElementById("bwToggle");
 let isGrayscale = false;
