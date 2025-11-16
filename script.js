@@ -19,7 +19,7 @@ blueLink.addEventListener("click", changeOpacity);
 
 function changeOpacity() {
   document.body.innerText =
-    "NICE WORK, um, Old, um, CALVINO, er, ahh, AssholE, err, arr, well, ahh, grrr, ahhh, errr, um..., ahem, jahhh, errr, well, uhhh, kkvsdkkkiiihh, gaaaq, um, er, ah, er, that, er, gaa, ah, you, ah, are, well...see!";
+    "NICE WORK, um, Old, um, CALVINO, er, ahh, AssholE, err, arr, well, ahh, grrr, ahhh, errr, um..., ahem, jahhh, errr, well, uhhh, kkkiiihh, gaaaq, um, er, ah, er, that, er, gaa, ah, you, ah, are, well...see!";
   console.log("Bite me wire, I declare!");
 }
 
