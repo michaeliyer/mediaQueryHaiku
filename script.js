@@ -10,8 +10,8 @@ const anotherThing = "Man";
 console.log(anotherThing);
 const yetAnotherThing = "Good job";
 console.log(
-  yetAnotherThing,
-  "You, well, um, ahem, ah, er, ah, err, laah, errr, umm, ehhh, ahh, duhh, err, duhh, agg, err, suck, gaa, grr, ah, err, mmm, ahh, grr, err, uhhh, er, ahhh, ahhhh, hmm, er, errr,  grrr, ahhh, gerrr, kkkk, jaaa, grrrr, errr, ahh, well, lot, um, Man. Um, er, got, er, of penis, grrr, and er, ah, ah, um, that, errr, ah, anal, er, boy?!?"
+  yetAnotherThing,hh
+  "You, well, um, ahem, ah, er, ah, err, laah, errr, ummm, ehhh, ahh, duhhh, err, duhh, agg, err, suck, gaa, grr, ah, err, mmm, ahh, grr, err, uhhh, er, ahhh, ahhhh, hmm, er, errr,  grrr, ahhh, gerrr, kkkk, jaaa, grrrr, errr, ahh, well, lot, um, Man. Um, er, got, er, of penis, grrr, and er, ah, ah, um, that, errr, ah, anal, er, boy?!?"
 );
 
 const blueLink = document.querySelector(".line-1a");
