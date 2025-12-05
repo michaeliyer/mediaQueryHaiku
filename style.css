@@ -1310,6 +1310,12 @@ body {
   padding: 0.55rem;
 }
 
+.whole-box-193 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-size: fit-content;
+  padding: 0.55rem;
+}
+
 .line-1a {
   color: rgb(0, 0, 0);
   background-color: rgb(255, 255 255);
@@ -4738,5 +4744,23 @@ body {
   opacity: 0.77;
 }
 
+
+.line-193a {
+  background-color: silver;
+  color: chartreuse;
+  opacity: 0.77;
+}
+
+.line-193b {
+  background-color: silver;
+  color: chartreuse;
+  opacity: 0.77;
+}
+
+.line-193c {
+  background-color: silver;
+  color: chartreuse;
+  opacity: 0.77;
+}
 
 
