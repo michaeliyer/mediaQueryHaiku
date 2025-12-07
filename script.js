@@ -76,6 +76,7 @@ bwToggle.addEventListener("click", function () {
 
 
 document.addEventListener("DOMContentLoaded", () => {
+
   const toggleBtn = document.getElementById("toggle-style");
   const styleLink = document.getElementById("themeStylesheet");
 
@@ -163,3 +164,4 @@ document.getElementById("toggleCleanerBtn").addEventListener("click", () => {
     `Text Cleaner: ${cleanerEnabled ? "ON" : "OFF"}`;
   toggleCleanText(document.body, cleanerEnabled);
 });
+
