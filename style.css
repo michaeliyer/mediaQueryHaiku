@@ -1329,12 +1329,19 @@ body {
 }
 
 .whole-box-196 {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-image: url(https://www.fattiretours.com/app/uploads/2023/04/vincent-van-gogh-g98d8ec485_1920.jpg
+);
   background-size: fit-content;
   padding: 0.55rem;
 }
 
 .whole-box-197 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-size: fit-content;
+  padding: 0.55rem;
+}
+
+.whole-box-198 {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
   background-size: fit-content;
   padding: 0.55rem;
@@ -4842,20 +4849,20 @@ body {
 }
 
 .line-197a {
-  background-color: dodgerblue;
-  color: purple;  
+  background-color: pink;
+  color: green;
   opacity: 0.77;
 }
 
 .line-197b {
-  background-color: dodgerblue;
-  color: purple;   
+  background-color: pink;
+  color: green;  
   opacity: 0.77;
 }
 
 .line-197c {
-  background-color: dodgerblue;
-  color: purple;          
+  background-color: pink;
+  color: green;          
   opacity: 0.77;
 }
 
