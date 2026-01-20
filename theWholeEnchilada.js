@@ -1,5 +1,6 @@
+
 export const fixedWordsLarge = [
-    'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX',  
+    'QQQQQ', 'ZZZZZ', 'JJJJJ', 'QQZZJ', 'KKKJJ', 'JQQZZ', 'JZZQQ', 'QQJZZ', 'ZZJQQ', 'QQJZX',   
     'AAHED', 'AALII', 'AARGH', 'AARTI', 'ABACA', 'ABACI', 'ABACK', 'ABACS', 'ABAFT', 'ABAKA',
     'ABAMP', 'ABAND', 'ABASE', 'ABASH', 'ABASK', 'ABATE', 'ABAYA', 'ABBAS', 'ABBED', 'ABBES',
     'ABBEY', 'ABBOT', 'ABCEE', 'ABEAM', 'ABEAR', 'ABELE', 'ABERS', 'ABETS', 'ABHOR', 'ABIDE',
@@ -12659,6 +12660,11 @@ export const wordleWords = [
         myScore: 4,
         wordNumber: 1674,
       }, 
+      { word: "WAXEN",
+        gameDate: "1/19/26",
+        myScore: 3,
+        wordNumber: 1675,
+      }, 
 
     
   ];
@@ -12676,7 +12682,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("January 19, 2026: Trump sux dykk000000000! WAXEN") 
+console.log("January 19, 2026: Trump sux dykk000000000! WAXEN")
 
 
 console.log(wordleWords)
