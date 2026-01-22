@@ -1594,12 +1594,18 @@ body {
 }
 
 .whole-box-240 {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGytc-uTBH1pLPhBshEFXEbC3-A5nS166Vw&s);
   background-size: fit-content;
   padding: 0.55rem;
 }
 
 .whole-box-241 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtEXWIeF_Jn0qzy2_UxfZC-k-TPlVBPl3OQ&s);
+  background-size: fit-content;
+  padding: 0.55rem;
+}
+
+.whole-box-242 {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEW1qXT_2RJH4SmS8mfB53W0Xsf1lpsHTtA&s);
   background-size: fit-content;
   padding: 0.55rem;
@@ -5997,23 +6003,44 @@ body {
   opacity: 0.77;
 }
 
-.line-241a {
+.line-242a {
   background-color: black;
   color: red;
   font-style: italic;                
   opacity: 0.77;
 }
 
-.line-241b {
+.line-242b {
   background-color: black;
   color: red;
   font-style: italic;               
   opacity: 0.77;
 }
 
-.line-241c {
+.line-242c {
   background-color: black;
   color: red;
+  font-style: italic;              
+  opacity: 0.77;
+}
+
+.line-241a {
+  background-color: navy;
+  color: dodgerblue;
+  font-style: italic;                
+  opacity: 0.77;
+}
+
+.line-241b {
+  background-color: navy;
+  color: dodgerblue;
+  font-style: italic;               
+  opacity: 0.77;
+}
+
+.line-241c {
+  background-color: navy;
+  color: dodgerblue;
   font-style: italic;              
   opacity: 0.77;
 }
