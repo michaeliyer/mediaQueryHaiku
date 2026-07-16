@@ -18,7 +18,7 @@ body {
   border: 3px solid #ffffff;
   box-shadow: 8px 8px 0px #666666, 16px 16px 0px #444444, 24px 24px 0px #222222,
     inset -4px -4px 8px rgba(0, 0, 0, 0.5),
-    inset 4px 4px 8px rgba(250, 255, 255, 0.1);
+    inset 4px 4px 8px rgba(255, 255, 255, 0.1);
   transform: rotate(-0.5deg);
   margin: 1.5rem 0;
   padding: 1.5rem;
