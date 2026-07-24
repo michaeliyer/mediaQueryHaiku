@@ -1722,7 +1722,7 @@ export const dailyWordsSmall = [
 'OASES', 'OBESE', 'OCCUR', 'OCEAN', 'OCTAL', 'OCTET', 'ODDER', 'ODDLY', 'OFFAL', 'OFFER', 
 'OFTEN',
 'OLDEN', 'OLDER', 'OLIVE', 'OMBRE', 'OMEGA', 'ONION', 'ONSET', 'OPERA', 'OPINE', 'OPIUM',
-'OPTIC', 'ORBIT', 'ORDER', 'ORGAN', 'OTHER', 'OTTER', 'OUGHT', 'OUNCE', 'OUTDO', 'OUTER',
+'OPTIC', 'ORDER', 'ORGAN', 'OTHER', 'OTTER', 'OUGHT', 'OUNCE', 'OUTDO', 'OUTER',
 'OUTGO', 'OVARY', 'OVERT', 'OVINE', 'OVOID', 'OWING', 'OWNER', 'OXIDE', 'OZONE',
 'PADDY', 'PAGAN', 'PAINT', 'PALER', 'PALSY', 'PANEL', 'PANIC', 'PANSY', 'PAPAL', 'PAPER',
 'PARER', 'PARRY', 'PARSE', 'PARTY', 'PASTA', 'PASTE', 'PASTY', 'PATCH', 'PATIO',
@@ -2618,7 +2618,7 @@ export const dailyWordsLarge = [
     'ONKUS', 'ONLAY', 'ONNED', 'ONSET', 'ONTIC', 'OOBIT', 'OOHED', 'OOMPH', 'OONTS', 'OOPED',
     'OORIE', 'OOSES', 'OOTID', 'OOZED', 'OOZES', 'OPAHS', 'OPALS', 'OPENS', 'OPEPE', 'OPERA',
     'OPINE', 'OPING', 'OPIUM', 'OPPOS', 'OPSIN', 'OPTED', 'OPTER', 'OPTIC', 'ORACH', 'ORACY',
-    'ORALS', 'ORANG', 'ORANT', 'ORATE', 'ORBED', 'ORBIT', 'ORCAS', 'ORCIN', 'ORDER', 'ORDOS',
+    'ORALS', 'ORANG', 'ORANT', 'ORATE', 'ORBED', 'ORCAS', 'ORCIN', 'ORDER', 'ORDOS',
     'OREAD', 'ORFES', 'ORGAN', 'ORGIA', 'ORGIC', 'ORGUE', 'ORIBI', 'ORIEL', 'ORIXA', 'ORLES',
     'ORLON', 'ORLOP', 'ORMER', 'ORNIS', 'ORPIN', 'ORRIS', 'ORTHO', 'ORVAL', 'ORZOS', 'OSCAR',
     'OSHAC', 'OSIER', 'OSMIC', 'OSMOL', 'OSSIA', 'OSTIA', 'OTAKU', 'OTARY', 'OTHER', 'OTTAR',
@@ -25139,6 +25139,18 @@ export const wordleWords = [
         guess_5: null,
         guess_6: null,
       }, 
+      { word: "ORBIT", 
+        gameDate: "7/23/26",
+        myScore: 3,
+        wordNumber: 1860,
+        guess_1: "LEANT",
+        guess_2: "ROUST",
+        guess_3: "ORBIT",
+        guess_4: null,
+        guess_5: null,
+        guess_6: null,
+      }, 
+      
 
  
   ];
@@ -25156,7 +25168,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("July 22, 2026: Trump sux dykk000000000! LORRY")
+console.log("July 23, 2026: Trump sux dykk000000000! ORBIT")
 
 console.log(wordleWords)
 
