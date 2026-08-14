@@ -25381,7 +25381,7 @@ export const wordleWords = [
         myScore: 2,
         wordNumber: 1881,
         guess_1: "LEANT",
-        guess_2: "CRASH",,
+        guess_2: "CRASH",
         guess_3: null,
         guess_4: null,
         guess_5: null,
