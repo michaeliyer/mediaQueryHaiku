@@ -1356,7 +1356,8 @@ export const combinedWords = [
     'BUSED', 'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN',
     'CABLE', 'CACAO', 'CACHE', 'CACTI', 'CADDY', 'CADET', 'CAGEY', 'CAIRN', 'CALVE', 'CAMEL', 
     'CAMEO',
-    'CANAL', 'CANDY', 'CANNY', 'CANOE', 'CANON', 'CAPER', 'CAPUT', 'CARAT', 'CARGO', 'CAROL',
+    'CANAL', 'CANDY', 'CANNY', 'CANOE', 'CANON', 'CAPER', 'CAPON', 'CAPUT', 'CARAT', 'CARGO', 
+    'CAROL',
     'CAROM', 'CARRY', 'CARVE', 'CASTE', 'CATCH', 'CATER', 'CATTY', 'CAULK', 'CAUSE', 'CAVIL', 
     'CEASE',
     'CEDAR', 'CELLO', 'CHAFE', 'CHAFF', 'CHAIN', 'CHAIR', 'CHALK', 'CHAMP', 'CHANT', 'CHAOS',
@@ -1636,7 +1637,7 @@ export const dailyWordsSmall = [
 'CHIRP', 'CHOCK', 'CHOIR', 'CHOKE', 'CHOMP', 'CHORD', 'CHORE', 'CHOSE', 
 'CHUNK', 'CHUTE', 'CIDER', 'CINCH', 'CIRCA', 'CIVIC', 'CIVIL',
 'CLAIM', 'CLAMP', 'CLANK', 'CLASH', 'CLASS', 'CLEAN', 'CLEAR', 'CLEAT',
-'CLEFT', 'CLERK', 'CLICK', 'CLIFF', 'CLIMB', 'CLING', 'CLINK', 'CLOAK', 'CLONE',
+'CLEFT', 'CLERK', 'CLIFF', 'CLIMB', 'CLING', 'CLINK', 'CLOAK', 'CLONE',
 'CLOSE', 'CLOTH', 'CLOUD', 'CLOUT', 'CLOVE', 'CLOWN', 'CLUCK', 'CLUED', 'CLUNG',
 'COACH', 'COAST', 'COBRA', 'COCOA', 'COLON', 'COLOR', 'COMFY', 'COMIC', 'COMMA',
 'CONCH', 'CONDO', 'CONIC', 'COPSE', 'CORAL', 'CORER', 'CORNY', 'COUGH', 'COULD',
@@ -2020,7 +2021,7 @@ export const dailyWordsLarge = [
     'CAMEL', 'CAMEO', 'CAMES', 'CAMIS', 'CAMOS', 'CAMPI', 'CAMPO', 'CAMPS', 'CAMPY', 'CAMUS',
     'CANDY', 'CANED', 'CANEH', 'CANER', 'CANES', 'CANGS', 'CANID', 'CANNA', 'CANNS',
     'CANNY', 'CANOE', 'CANON', 'CANSO', 'CANST', 'CANTO', 'CANTS', 'CANTY', 'CAPAS', 'CAPED',
-    'CAPER', 'CAPES', 'CAPEX', 'CAPHS', 'CAPIZ', 'CAPLE', 'CAPON', 'CAPOS', 'CAPOT', 'CAPRI',
+    'CAPER', 'CAPES', 'CAPEX', 'CAPHS', 'CAPIZ', 'CAPLE', 'CAPOS', 'CAPOT', 'CAPRI',
     'CAPUL', 'CAPUT', 'CARAP', 'CARAT', 'CARBO', 'CARBS', 'CARBY', 'CARDI', 'CARDS', 'CARDY',
     'CARED', 'CARER', 'CARES', 'CARET', 'CAREX', 'CARGO', 'CARKS', 'CARLE', 'CARLS', 'CARNS',
     'CARNY', 'CAROB', 'CAROL', 'CARON', 'CARPI', 'CARPS', 'CARRS', 'CARRY', 'CARSE',
@@ -2054,7 +2055,7 @@ export const dailyWordsLarge = [
     'CLAGS', 'CLAIM', 'CLAME', 'CLAMP', 'CLAMS', 'CLANK', 'CLANS', 'CLAPS', 'CLAPT',
     'CLARO', 'CLART', 'CLARY', 'CLASH', 'CLASS', 'CLAST', 'CLATS', 'CLAUT', 'CLAVE',
     'CLAVI', 'CLAWS', 'CLAYS', 'CLEAN', 'CLEAR', 'CLEAT', 'CLECK', 'CLEEK', 'CLEEP', 'CLEFS',
-    'CLEFT', 'CLEGS', 'CLEIK', 'CLEMS', 'CLEPE', 'CLEPT', 'CLERK', 'CLEVE', 'CLEWS', 'CLICK',
+    'CLEFT', 'CLEGS', 'CLEIK', 'CLEMS', 'CLEPE', 'CLEPT', 'CLERK', 'CLEVE', 'CLEWS', 
     'CLIED', 'CLIES', 'CLIFF', 'CLIFT', 'CLIMB', 'CLIME', 'CLINE', 'CLING', 'CLINK', 'CLINT',
     'CLIPE', 'CLIPS', 'CLIPT', 'CLITS', 'CLOAK', 'CLOAM', 'CLODS', 'CLOFF', 'CLOGS',
     'CLOKE', 'CLOMB', 'CLOMP', 'CLONE', 'CLONK', 'CLONS', 'CLOOP', 'CLOOT', 'CLOPS', 'CLOSE',
@@ -25513,7 +25514,30 @@ export const wordleWords = [
         guess_4: "RUGBY",
         guess_5: "RUDDY",
         guess_6: "RUMMY",
+      },
+      { word: "CLICK", 
+        gameDate: "8/25/26",
+        myScore: 5,
+        wordNumber: 1893,
+        guess_1: "STEAL",
+        guess_2: "LYRIC",
+        guess_3: "ZILCH",
+        guess_4: "FLICK",
+        guess_5: "CLICK",
+        guess_6: null,
+      },
+      { word: "CAPON", 
+        gameDate: "8/26/26",
+        myScore: 3,
+        wordNumber: 1894,
+        guess_1: "STEAL",
+        guess_2: "CAIRN",
+        guess_3: "CAPON",
+        guess_4: null,
+        guess_5: null,
+        guess_6: null,
       }
+
 
  
   ];
@@ -25532,7 +25556,7 @@ console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
 console.log("August 9, 2025, Mom: Hello, Again!" )
-console.log("August 24, 2026: Trump sux dykk000000000! RUNNY")
+console.log("August 26, 2026: Trump sux dykk000000000! CAPON")
 
 console.log(wordleWords)
 
