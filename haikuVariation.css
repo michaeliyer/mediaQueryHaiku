@@ -25,7 +25,7 @@ body {
 /* Black and White Toggle */
 .grayscale-mode {
   filter: grayscale(1);
-  transition: filter 0.3s ease;
+  transition: filter 0.3012s ease;
 }
 
 
