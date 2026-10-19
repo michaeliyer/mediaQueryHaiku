@@ -1616,7 +1616,7 @@ export const combinedWords = [
 export const dailyWordsSmall = [
 'ABACK', 'ABASE', 'ABATE', 'ABBEY', 'ABBOT', 'ABHOR', 'ABIDE', 'ABLED', 'ABODE', 'ABORT',
 'ABOUT', 'ABOVE', 'ABUSE', 'ABYSS', 'ACORN', 'ACRID', 'ACTOR', 'ADAGE', 'ADAPT',
-'ADEPT', 'ADMIN', 'ADMIT', 'ADOBE', 'ADOPT', 'ADORE', 'ADORN', 'ADULT', 'AFFIX', 'AFIRE',
+'ADEPT', 'ADMIN', 'ADMIT', 'ADOBE', 'ADOPT', 'ADORE', 'ADULT', 'AFFIX', 'AFIRE',
 'AFOUL', 'AFTER', 'AGAIN', 'AGAPE', 'AGATE', 'AGENT', 'AGILE', 'AGING', 'AGLOW',
 'AGONY', 'AHEAD', 'AIDER', 'AISLE', 'ALARM', 'ALBUM', 'ALERT', 'ALGAE', 
 'ALIEN', 'ALIGN', 'ALIKE', 'ALIVE', 'ALLAY', 'ALLOT', 'ALLOW', 'ALOFT',
@@ -1879,8 +1879,8 @@ export const dailyWordsLarge = [
     'ADAGE', 'ADAPT', 'ADAWS', 'ADAYS', 'ADDAX', 'ADDED', 'ADDER', 'ADDIE', 'ADDLE', 'ADEEM',
     'ADEPT', 'ADHAN', 'ADIEU', 'ADIOS', 'ADITS', 'ADMAN', 'ADMEN', 'ADMIN', 'ADMIT', 'ADMIX', 
     'ADOBE',
+    'ADOBI', 'ADOBO', 'ADOPT', 'ADORE', 'ADOWN', 'ADOZE', 'ADRAD', 'ADRED', 'ADSUM',
     'ADUKI', 'ADULT', 'ADUNC', 'ADUST', 'ADVEW', 'ADYTA', 'ADZED', 'ADZES', 'AECIA', 'AEGIS',
-    'ADOBI', 'ADOBO', 'ADOPT', 'ADORE', 'ADORN', 'ADOWN', 'ADOZE', 'ADRAD', 'ADRED', 'ADSUM',
     'AEONS', 'AERIE', 'AEROS', 'AESIR', 'AFALD', 'AFARA', 'AFARS', 'AFEAR', 'AFFIX', 'AFIRE',
     'AFORE', 'AFRIT', 'AFROS', 'AFTER', 'AGAIN', 'AGAMA', 'AGAMI', 'AGAPE', 'AGARS', 'AGAST', 
     'AGATE', 'AGAVE',
@@ -26131,6 +26131,17 @@ export const wordleWords = [
         guess_5: null,
         guess_6: null,
       },
+      { word: "ADORN", 
+        gameDate: "10/18/26",
+        myScore: 3,
+        wordNumber: 1947,
+        guess_1: "ROAST",
+        guess_2: "VAPOR",
+        guess_3: "ADORN",
+        guess_4: null,
+        guess_5: null,
+        guess_6: null,
+      },
 
 
  
@@ -26150,7 +26161,7 @@ console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
 console.log("August 9, 2025, Mom: Hello, Again!" )
-console.log("October 17, 2026: Trump sux dykk000000000! GAFFE")
+console.log("October 18, 2026: Trump sux dykk000000000! ADORN")
 
 console.log(wordleWords)
 
