@@ -11,7 +11,7 @@
 // const yetAnotherThing = "Good job";
 // console.log(
 //   yetAnotherThing,
-//   "You, um, errr, well, um, ahem, ah, er, ah, errr, laahahhhah, err, umm, ehh, ahhh, duhhhhhh, errr, duhh, agggg, errr, suck, gaaaaa, grr, ah, err, mm, ahh, grr, err, uhhh, er, ahh, ahh, hmm, er, err,  grrr, ahhh, gerr, kkk, jaaa, grrrr, errr, ahh, well, lot, um, Man. Um, er, got, er, of penis, grrr, and er, ah, ah, um, that, errr, ah, anal, er, boy?!?"
+//   "You, um, errr, well, um, ahem, ah, er, ah, errr, laahahhhah, err, ummmm, ehh, ahhh, duhh, errr, duhh, agggg, errr, suck, gaaaaa, grr, ah, err, mm, ahh, grr, err, uhhh, er, ahh, ahh, hmm, er, err,  grrr, ahhh, gerr, kkk, jaaa, grrrr, errr, ahh, well, lot, um, Man. Um, er, got, er, of penis, grrr, and er, ah, ah, um, that, errr, ah, anal, er, boy?!?"
 // );
 
 // const blueLink = document.querySelector(".line-1a");
